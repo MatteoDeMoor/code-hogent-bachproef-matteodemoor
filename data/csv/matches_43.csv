@@ -1,0 +1,148 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3857256,2022-12-02,21:00:00.000,43,FIFA World Cup,International,106,2022,786,Serbia,773,Switzerland,2,3,3,Stadium 974,Qatar,Fernando Andrés Rapallini,Argentina
+3869151,2022-12-03,21:00:00.000,43,FIFA World Cup,International,106,2022,779,Argentina,792,Australia,2,1,4,Ahmad bin Ali Stadium,Qatar,Szymon Marciniak,Poland
+3857257,2022-11-30,17:00:00.000,43,FIFA World Cup,International,106,2022,792,Australia,776,Denmark,1,0,3,Al Janoub Stadium   ,Qatar,Mustapha Ghorbal,Algeria
+3857258,2022-11-24,21:00:00.000,43,FIFA World Cup,International,106,2022,781,Brazil,786,Serbia,2,0,1,Lusail Stadium,Qatar,Alireza Faghani,"Iran, Islamic Republic of"
+3857288,2022-11-26,12:00:00.000,43,FIFA World Cup,International,106,2022,777,Tunisia,792,Australia,0,1,2,Al Janoub Stadium   ,Qatar,Daniel Siebert,Germany
+3857267,2022-11-29,17:00:00.000,43,FIFA World Cup,International,106,2022,3565,Ecuador,787,Senegal,1,2,3,Sheikh Khalifa International Stadium,Qatar,Clément Turpin,France
+3869321,2022-12-09,21:00:00.000,43,FIFA World Cup,International,106,2022,941,Netherlands,779,Argentina,2,2,5,Lusail Stadium,Qatar,Antonio Miguel Mateu Lahoz,Spain
+3857287,2022-11-24,15:00:00.000,43,FIFA World Cup,International,106,2022,783,Uruguay,791,South Korea,0,0,1,Education City Stadium ,Qatar,Clément Turpin,France
+3869486,2022-12-10,17:00:00.000,43,FIFA World Cup,International,106,2022,788,Morocco,780,Portugal,1,0,5,Al Thumama Stadium,Qatar,Facundo Tello Figueroa,Argentina
+3869685,2022-12-18,17:00:00.000,43,FIFA World Cup,International,106,2022,779,Argentina,771,France,3,3,7,Lusail Stadium,Qatar,Szymon Marciniak,Poland
+3857260,2022-11-30,21:00:00.000,43,FIFA World Cup,International,106,2022,799,Saudi Arabia,794,Mexico,1,2,3,Lusail Stadium,Qatar,Michael Oliver,England
+3857264,2022-11-30,21:00:00.000,43,FIFA World Cup,International,106,2022,789,Poland,779,Argentina,0,2,3,Stadium 974,Qatar,Danny Desmond Makkelie,Netherlands
+3857266,2022-11-26,18:00:00.000,43,FIFA World Cup,International,106,2022,771,France,776,Denmark,2,1,2,Stadium 974,Qatar,Szymon Marciniak,Poland
+3857289,2022-11-26,21:00:00.000,43,FIFA World Cup,International,106,2022,779,Argentina,794,Mexico,2,0,2,Lusail Stadium,Qatar,Daniele Orsato,Italy
+3857269,2022-11-28,18:00:00.000,43,FIFA World Cup,International,106,2022,781,Brazil,773,Switzerland,1,0,2,Stadium 974,Qatar,Ivan Arcides Barton Cisneros,El Salvador
+3857294,2022-11-29,17:00:00.000,43,FIFA World Cup,International,106,2022,941,Netherlands,3566,Qatar,2,0,3,Al Bayt Stadium,Qatar,Bakary Papa Gassama,Gambia
+3869254,2022-12-06,21:00:00.000,43,FIFA World Cup,International,106,2022,780,Portugal,773,Switzerland,6,1,4,Lusail Stadium,Qatar,César Arturo Ramos Palazuelos,Mexico
+3869118,2022-12-04,21:00:00.000,43,FIFA World Cup,International,106,2022,768,England,787,Senegal,3,0,4,Al Bayt Stadium,Qatar,Ivan Arcides Barton Cisneros,El Salvador
+3869684,2022-12-17,17:00:00.000,43,FIFA World Cup,International,106,2022,785,Croatia,788,Morocco,2,1,7,Sheikh Khalifa International Stadium,Qatar,Abdulrahman Ibrahim Al Jassim,Qatar
+3869519,2022-12-13,21:00:00.000,43,FIFA World Cup,International,106,2022,779,Argentina,785,Croatia,3,0,6,Lusail Stadium,Qatar,Daniele Orsato,Italy
+3869354,2022-12-10,21:00:00.000,43,FIFA World Cup,International,106,2022,768,England,771,France,1,2,5,Al Bayt Stadium,Qatar,Wilton Pereira Sampaio,Brazil
+3869552,2022-12-14,21:00:00.000,43,FIFA World Cup,International,106,2022,771,France,788,Morocco,2,0,6,Al Bayt Stadium,Qatar,César Arturo Ramos Palazuelos,Mexico
+3869420,2022-12-09,17:00:00.000,43,FIFA World Cup,International,106,2022,785,Croatia,781,Brazil,1,1,5,Education City Stadium ,Qatar,Michael Oliver,England
+3869220,2022-12-06,17:00:00.000,43,FIFA World Cup,International,106,2022,788,Morocco,772,Spain,0,0,4,Education City Stadium ,Qatar,Fernando Andrés Rapallini,Argentina
+3869219,2022-12-05,17:00:00.000,43,FIFA World Cup,International,106,2022,778,Japan,785,Croatia,1,1,4,Al Janoub Stadium   ,Qatar,Ismail Elfath,United States of America
+3869253,2022-12-05,21:00:00.000,43,FIFA World Cup,International,106,2022,781,Brazil,791,South Korea,4,1,4,Stadium 974,Qatar,Clément Turpin,France
+3869152,2022-12-04,17:00:00.000,43,FIFA World Cup,International,106,2022,771,France,789,Poland,3,1,4,Al Thumama Stadium,Qatar,Jesús Valenzuela Sáez,Venezuela (Bolivarian Republic)
+3869117,2022-12-03,17:00:00.000,43,FIFA World Cup,International,106,2022,941,Netherlands,1839,United States,3,1,4,Sheikh Khalifa International Stadium,Qatar,Wilton Pereira Sampaio,Brazil
+3857270,2022-11-28,21:00:00.000,43,FIFA World Cup,International,106,2022,780,Portugal,783,Uruguay,2,0,2,Lusail Stadium,Qatar,Alireza Faghani,"Iran, Islamic Republic of"
+3857263,2022-11-27,21:00:00.000,43,FIFA World Cup,International,106,2022,772,Spain,770,Germany,1,1,2,Al Bayt Stadium,Qatar,Danny Desmond Makkelie,Netherlands
+3857259,2022-11-28,12:00:00.000,43,FIFA World Cup,International,106,2022,2722,Cameroon,786,Serbia,3,3,2,Al Janoub Stadium   ,Qatar,Mohamed Abdulla Hassan Mohd,United Arab Emirates
+3857295,2022-11-27,12:00:00.000,43,FIFA World Cup,International,106,2022,778,Japan,795,Costa Rica,0,1,2,Ahmad bin Ali Stadium,Qatar,Michael Oliver,England
+3857283,2022-11-27,15:00:00.000,43,FIFA World Cup,International,106,2022,782,Belgium,788,Morocco,0,2,2,Al Thumama Stadium,Qatar,César Arturo Ramos Palazuelos,Mexico
+3857284,2022-11-23,15:00:00.000,43,FIFA World Cup,International,106,2022,770,Germany,778,Japan,1,2,1,Sheikh Khalifa International Stadium,Qatar,Ivan Arcides Barton Cisneros,El Salvador
+3857282,2022-11-21,21:00:00.000,43,FIFA World Cup,International,106,2022,1839,United States,907,Wales,1,1,1,Ahmad bin Ali Stadium,Qatar,Abdulrahman Ibrahim Al Jassim,Qatar
+3857286,2022-11-20,18:00:00.000,43,FIFA World Cup,International,106,2022,3566,Qatar,3565,Ecuador,0,2,1,Al Bayt Stadium,Qatar,Daniele Orsato,Italy
+3857301,2022-11-25,15:00:00.000,43,FIFA World Cup,International,106,2022,3566,Qatar,787,Senegal,1,3,2,Al Thumama Stadium,Qatar,Antonio Miguel Mateu Lahoz,Spain
+3857300,2022-11-22,12:00:00.000,43,FIFA World Cup,International,106,2022,779,Argentina,799,Saudi Arabia,1,2,1,Lusail Stadium,Qatar,Slavko Vinčić,Slovenia
+3857299,2022-11-28,15:00:00.000,43,FIFA World Cup,International,106,2022,791,South Korea,4885,Ghana,2,3,2,Education City Stadium ,Qatar,Anthony Taylor,England
+3857298,2022-11-24,18:00:00.000,43,FIFA World Cup,International,106,2022,780,Portugal,4885,Ghana,3,2,1,Stadium 974,Qatar,Ismail Elfath,United States of America
+3857297,2022-11-26,15:00:00.000,43,FIFA World Cup,International,106,2022,789,Poland,799,Saudi Arabia,2,0,2,Education City Stadium ,Qatar,Wilton Pereira Sampaio,Brazil
+3857296,2022-12-01,17:00:00.000,43,FIFA World Cup,International,106,2022,785,Croatia,782,Belgium,0,0,3,Ahmad bin Ali Stadium,Qatar,Anthony Taylor,England
+3857293,2022-12-02,17:00:00.000,43,FIFA World Cup,International,106,2022,4885,Ghana,783,Uruguay,0,2,3,Al Janoub Stadium   ,Qatar,Daniel Siebert,Germany
+3857292,2022-12-01,21:00:00.000,43,FIFA World Cup,International,106,2022,795,Costa Rica,770,Germany,2,4,3,Al Bayt Stadium,Qatar,Stéphanie Frappart,France
+3857291,2022-11-23,18:00:00.000,43,FIFA World Cup,International,106,2022,772,Spain,795,Costa Rica,7,0,1,Al Thumama Stadium,Qatar,,
+3857290,2022-11-24,12:00:00.000,43,FIFA World Cup,International,106,2022,773,Switzerland,2722,Cameroon,1,0,1,Al Janoub Stadium   ,Qatar,Facundo Tello Figueroa,Argentina
+3857285,2022-11-21,18:00:00.000,43,FIFA World Cup,International,106,2022,787,Senegal,941,Netherlands,0,2,1,Al Thumama Stadium,Qatar,Wilton Pereira Sampaio,Brazil
+3857281,2022-11-27,18:00:00.000,43,FIFA World Cup,International,106,2022,785,Croatia,1833,Canada,4,1,2,Sheikh Khalifa International Stadium,Qatar,Andrés Matonte,Uruguay
+3857280,2022-12-02,21:00:00.000,43,FIFA World Cup,International,106,2022,2722,Cameroon,781,Brazil,1,0,3,Lusail Stadium,Qatar,Ismail Elfath,United States of America
+3857279,2022-11-22,21:00:00.000,43,FIFA World Cup,International,106,2022,771,France,792,Australia,4,1,1,Al Janoub Stadium   ,Qatar,Victor Miguel de Freitas Gomes,South Africa
+3857278,2022-11-29,21:00:00.000,43,FIFA World Cup,International,106,2022,797,Iran,1839,United States,0,1,3,Al Thumama Stadium,Qatar,Antonio Miguel Mateu Lahoz,Spain
+3857277,2022-11-23,12:00:00.000,43,FIFA World Cup,International,106,2022,788,Morocco,785,Croatia,0,0,1,Al Bayt Stadium,Qatar,Fernando Andrés Rapallini,Argentina
+3857276,2022-12-01,17:00:00.000,43,FIFA World Cup,International,106,2022,1833,Canada,788,Morocco,1,2,3,Al Thumama Stadium,Qatar,Raphael Claus,Brazil
+3857275,2022-11-30,17:00:00.000,43,FIFA World Cup,International,106,2022,777,Tunisia,771,France,1,0,3,Education City Stadium ,Qatar,Matthew Conger,New Zealand
+3857274,2022-11-25,18:00:00.000,43,FIFA World Cup,International,106,2022,941,Netherlands,3565,Ecuador,1,1,2,Sheikh Khalifa International Stadium,Qatar,Mustapha Ghorbal,Algeria
+3857273,2022-11-25,12:00:00.000,43,FIFA World Cup,International,106,2022,907,Wales,797,Iran,0,2,2,Ahmad bin Ali Stadium,Qatar,Mario Alberto Escobar Toca,Guatemala
+3857272,2022-11-25,21:00:00.000,43,FIFA World Cup,International,106,2022,768,England,1839,United States,0,0,2,Al Bayt Stadium,Qatar,Jesús Valenzuela Sáez,Venezuela (Bolivarian Republic)
+3857271,2022-11-21,15:00:00.000,43,FIFA World Cup,International,106,2022,768,England,797,Iran,6,2,1,Sheikh Khalifa International Stadium,Qatar,Raphael Claus,Brazil
+3857268,2022-11-23,21:00:00.000,43,FIFA World Cup,International,106,2022,782,Belgium,1833,Canada,1,0,1,Ahmad bin Ali Stadium,Qatar,Janny Sikazwe,Zambia
+3857265,2022-11-22,18:00:00.000,43,FIFA World Cup,International,106,2022,794,Mexico,789,Poland,0,0,1,Stadium 974,Qatar,Chris Beath,Australia
+3857262,2022-12-02,17:00:00.000,43,FIFA World Cup,International,106,2022,791,South Korea,780,Portugal,2,1,3,Education City Stadium ,Qatar,Facundo Tello Figueroa,Argentina
+3857261,2022-11-29,21:00:00.000,43,FIFA World Cup,International,106,2022,907,Wales,768,England,0,3,3,Ahmad bin Ali Stadium,Qatar,Slavko Vinčić,Slovenia
+3857255,2022-12-01,21:00:00.000,43,FIFA World Cup,International,106,2022,778,Japan,772,Spain,2,1,3,Sheikh Khalifa International Stadium,Qatar,Victor Miguel de Freitas Gomes,South Africa
+3857254,2022-11-22,15:00:00.000,43,FIFA World Cup,International,106,2022,776,Denmark,777,Tunisia,0,0,1,Education City Stadium ,Qatar,César Arturo Ramos Palazuelos,Mexico
+3888705,1958-06-29,17:00:00.000,43,FIFA World Cup,International,269,1958,781,Brazil,790,Sweden,5,2,7,Friends Arena,Sweden,Maurice Guigue,France
+3888704,1958-06-24,21:00:00.000,43,FIFA World Cup,International,269,1958,781,Brazil,771,France,5,2,6,Friends Arena,Sweden,Mervyn Griffiths,Wales
+3888854,1962-05-30,21:00:00.000,43,FIFA World Cup,International,270,1962,781,Brazil,794,Mexico,2,0,1,Estadio Sausalito ,Chile,,
+3889218,1970-06-14,20:00:00.000,43,FIFA World Cup,International,272,1970,781,Brazil,784,Peru,4,2,4,Estadio Jalisco,Mexico,Vital Georges Gilbert Loraux,Belgium
+3889217,1970-06-10,01:00:00.000,43,FIFA World Cup,International,272,1970,781,Brazil,905,Romania,3,2,3,Estadio Jalisco,Mexico,Ferdinand Marschall,Austria
+3888702,1970-06-21,21:00:00.000,43,FIFA World Cup,International,272,1970,781,Brazil,914,Italy,4,1,6,Estadio Azteca,Mexico,Rudi Glöckner,Germany
+3888701,1970-06-18,01:00:00.000,43,FIFA World Cup,International,272,1970,781,Brazil,783,Uruguay,3,1,5,Estadio Jalisco,Mexico,José Maria Ortíz De Mendibil,Spain
+3888700,1970-06-07,21:00:00.000,43,FIFA World Cup,International,272,1970,781,Brazil,768,England,1,0,2,Estadio Jalisco,Mexico,Abraham Klein,Israel
+3888699,1970-06-04,01:00:00.000,43,FIFA World Cup,International,272,1970,781,Brazil,17469,Czechoslovakia,4,1,1,Estadio Jalisco,Mexico,Ramón Ivanoes Barreto Ruiz,Uruguay
+7585,2018-07-03,20:00:00.000,43,FIFA World Cup,International,3,2018,769,Colombia,768,England,1,1,4,Otkritie Bank Arena,Russia,Mark Geiger,United States of America
+7570,2018-06-28,20:00:00.000,43,FIFA World Cup,International,3,2018,768,England,782,Belgium,0,1,3,Stadion Kaliningrad,Russia,Damir Skomina,Slovenia
+7586,2018-07-03,16:00:00.000,43,FIFA World Cup,International,3,2018,790,Sweden,773,Switzerland,1,0,4,Saint-Petersburg Stadium,Russia,Damir Skomina,Slovenia
+7557,2018-06-25,20:00:00.000,43,FIFA World Cup,International,3,2018,797,Iran,780,Portugal,1,1,3,Mordovia Arena,Russia,Enrique Cáceres,Paraguay
+7542,2018-06-20,14:00:00.000,43,FIFA World Cup,International,3,2018,780,Portugal,788,Morocco,1,0,2,Stadion Luzhniki,Russia,Mark Geiger,United States of America
+8656,2018-07-11,20:00:00.000,43,FIFA World Cup,International,3,2018,785,Croatia,768,England,2,1,6,Stadion Luzhniki,Russia,Cüneyt Çakιr,Turkey
+7554,2018-06-24,14:00:00.000,43,FIFA World Cup,International,3,2018,768,England,798,Panama,6,1,2,Stadion Nizhny Novgorod (Nizhniy Novgorod),Russia,Ghead Grisha,Egypt
+7550,2018-06-22,20:00:00.000,43,FIFA World Cup,International,3,2018,786,Serbia,773,Switzerland,1,2,2,Stadion Kaliningrad,Russia,Felix Brych,Germany
+7548,2018-06-22,14:00:00.000,43,FIFA World Cup,International,3,2018,781,Brazil,795,Costa Rica,2,0,2,Saint-Petersburg Stadium,Russia,Björn Kuipers,Netherlands
+7578,2018-06-15,14:00:00.000,43,FIFA World Cup,International,3,2018,774,Egypt,783,Uruguay,0,1,1,	Ekaterinburg Arena,Russia,Björn Kuipers,Netherlands
+7553,2018-06-23,17:00:00.000,43,FIFA World Cup,International,3,2018,791,South Korea,794,Mexico,1,2,2,	Rostov Arena,Russia,Milorad Mažić,Serbia
+7544,2018-06-20,17:00:00.000,43,FIFA World Cup,International,3,2018,783,Uruguay,799,Saudi Arabia,1,0,2,	Rostov Arena,Russia,Clément Turpin,France
+7536,2018-06-18,17:00:00.000,43,FIFA World Cup,International,3,2018,782,Belgium,798,Panama,3,0,1,	Olimpiyskiy Stadion Fisht ,Russia,Janny Sikazwe,Zambia
+7555,2018-06-24,20:00:00.000,43,FIFA World Cup,International,3,2018,789,Poland,769,Colombia,0,3,2,Ak Bars Arena,Russia,César Arturo Ramos Palazuelos,Mexico
+7546,2018-06-21,17:00:00.000,43,FIFA World Cup,International,3,2018,771,France,784,Peru,1,0,2,	Ekaterinburg Arena,Russia,Mohamed Abdulla Hassan Mohd,United Arab Emirates
+7539,2018-06-19,17:00:00.000,43,FIFA World Cup,International,3,2018,789,Poland,787,Senegal,1,2,1,Otkritie Bank Arena,Russia,Nawaf Abdulla Ghayyath Shukralla,Bahrain
+7538,2018-06-18,14:00:00.000,43,FIFA World Cup,International,3,2018,790,Sweden,791,South Korea,1,0,1,Stadion Nizhny Novgorod (Nizhniy Novgorod),Russia,Joel Antonio Aguilar Chicas,El Salvador
+7576,2018-06-15,20:00:00.000,43,FIFA World Cup,International,3,2018,780,Portugal,772,Spain,3,3,1,	Olimpiyskiy Stadion Fisht ,Russia,Gianluca Rocchi,Italy
+7565,2018-06-27,20:00:00.000,43,FIFA World Cup,International,3,2018,786,Serbia,781,Brazil,0,2,3,Otkritie Bank Arena,Russia,Alireza Faghani,"Iran, Islamic Republic of"
+7551,2018-06-23,20:00:00.000,43,FIFA World Cup,International,3,2018,770,Germany,790,Sweden,2,1,2,	Olimpiyskiy Stadion Fisht ,Russia,Szymon Marciniak,Poland
+7537,2018-06-18,20:00:00.000,43,FIFA World Cup,International,3,2018,777,Tunisia,768,England,1,2,1,Volgograd Arena,Russia,Wilmar Alexander Roldán Pérez,Colombia
+7580,2018-06-30,16:00:00.000,43,FIFA World Cup,International,3,2018,771,France,779,Argentina,4,3,4,Ak Bars Arena,Russia,Alireza Faghani,"Iran, Islamic Republic of"
+8650,2018-07-06,20:00:00.000,43,FIFA World Cup,International,3,2018,781,Brazil,782,Belgium,1,2,5,Ak Bars Arena,Russia,Milorad Mažić,Serbia
+7581,2018-07-01,20:00:00.000,43,FIFA World Cup,International,3,2018,785,Croatia,776,Denmark,1,1,4,Stadion Nizhny Novgorod (Nizhniy Novgorod),Russia,Néstor Fabián Pitana,Argentina
+7549,2018-06-22,17:00:00.000,43,FIFA World Cup,International,3,2018,775,Nigeria,793,Iceland,2,0,2,Volgograd Arena,Russia,Matthew Conger,New Zealand
+7529,2018-06-16,21:00:00.000,43,FIFA World Cup,International,3,2018,785,Croatia,775,Nigeria,2,0,1,Stadion Kaliningrad,Russia,Sandro Ricci,Brazil
+7534,2018-06-17,17:00:00.000,43,FIFA World Cup,International,3,2018,770,Germany,794,Mexico,0,1,1,Stadion Luzhniki,Russia,Alireza Faghani,"Iran, Islamic Republic of"
+7562,2018-06-26,16:00:00.000,43,FIFA World Cup,International,3,2018,792,Australia,784,Peru,0,2,3,	Olimpiyskiy Stadion Fisht ,Russia,Sergey Karasev,Russia
+7571,2018-06-28,16:00:00.000,43,FIFA World Cup,International,3,2018,787,Senegal,769,Colombia,0,1,3,	Solidarnost Arena,Russia,Milorad Mažić,Serbia
+7569,2018-06-28,20:00:00.000,43,FIFA World Cup,International,3,2018,798,Panama,777,Tunisia,1,2,3,Mordovia Arena,Russia,Nawaf Abdulla Ghayyath Shukralla,Bahrain
+7568,2018-06-27,20:00:00.000,43,FIFA World Cup,International,3,2018,773,Switzerland,795,Costa Rica,2,2,3,Stadion Nizhny Novgorod (Nizhniy Novgorod),Russia,Clément Turpin,France
+7530,2018-06-16,12:00:00.000,43,FIFA World Cup,International,3,2018,771,France,792,Australia,2,1,1,Ak Bars Arena,Russia,Andrés Cunha,Uruguay
+7558,2018-06-25,16:00:00.000,43,FIFA World Cup,International,3,2018,783,Uruguay,796,Russia,3,0,3,	Solidarnost Arena,Russia,Malang Diedhiou,Senegal
+7583,2018-07-02,16:00:00.000,43,FIFA World Cup,International,3,2018,781,Brazil,794,Mexico,2,0,4,	Solidarnost Arena,Russia,Gianluca Rocchi,Italy
+7547,2018-06-21,14:00:00.000,43,FIFA World Cup,International,3,2018,776,Denmark,792,Australia,1,1,2,	Solidarnost Arena,Russia,Antonio Miguel Mateu Lahoz,Spain
+7535,2018-06-17,14:00:00.000,43,FIFA World Cup,International,3,2018,795,Costa Rica,786,Serbia,0,1,1,	Solidarnost Arena,Russia,Malang Diedhiou,Senegal
+7584,2018-07-02,20:00:00.000,43,FIFA World Cup,International,3,2018,782,Belgium,778,Japan,3,2,4,	Rostov Arena,Russia,Malang Diedhiou,Senegal
+7545,2018-06-21,20:00:00.000,43,FIFA World Cup,International,3,2018,779,Argentina,785,Croatia,0,3,2,Stadion Nizhny Novgorod (Nizhniy Novgorod),Russia,Ravshan Irmatov,Uzbekistan
+8649,2018-07-06,16:00:00.000,43,FIFA World Cup,International,3,2018,783,Uruguay,771,France,0,2,5,Stadion Nizhny Novgorod (Nizhniy Novgorod),Russia,Néstor Fabián Pitana,Argentina
+8658,2018-07-15,17:00:00.000,43,FIFA World Cup,International,3,2018,771,France,785,Croatia,4,2,7,Stadion Luzhniki,Russia,Néstor Fabián Pitana,Argentina
+7561,2018-06-26,20:00:00.000,43,FIFA World Cup,International,3,2018,793,Iceland,785,Croatia,1,2,3,	Rostov Arena,Russia,Antonio Miguel Mateu Lahoz,Spain
+7531,2018-06-16,15:00:00.000,43,FIFA World Cup,International,3,2018,779,Argentina,793,Iceland,1,1,1,Otkritie Bank Arena,Russia,Szymon Marciniak,Poland
+7582,2018-07-01,16:00:00.000,43,FIFA World Cup,International,3,2018,772,Spain,796,Russia,1,1,4,Stadion Luzhniki,Russia,Björn Kuipers,Netherlands
+7552,2018-06-23,14:00:00.000,43,FIFA World Cup,International,3,2018,782,Belgium,777,Tunisia,5,2,2,Otkritie Bank Arena,Russia,Jair Marrufo,United States of America
+7532,2018-06-16,18:00:00.000,43,FIFA World Cup,International,3,2018,784,Peru,776,Denmark,0,1,1,Mordovia Arena,Russia,Bakary Papa Gassama,Gambia
+7560,2018-06-25,20:00:00.000,43,FIFA World Cup,International,3,2018,772,Spain,788,Morocco,2,2,3,Stadion Kaliningrad,Russia,Ravshan Irmatov,Uzbekistan
+7533,2018-06-17,20:00:00.000,43,FIFA World Cup,International,3,2018,781,Brazil,773,Switzerland,1,1,1,	Rostov Arena,Russia,César Arturo Ramos Palazuelos,Mexico
+7564,2018-06-26,20:00:00.000,43,FIFA World Cup,International,3,2018,775,Nigeria,779,Argentina,1,2,3,Saint-Petersburg Stadium,Russia,Cüneyt Çakιr,Turkey
+7579,2018-06-30,20:00:00.000,43,FIFA World Cup,International,3,2018,783,Uruguay,780,Portugal,2,1,4,	Olimpiyskiy Stadion Fisht ,Russia,César Arturo Ramos Palazuelos,Mexico
+7572,2018-06-28,16:00:00.000,43,FIFA World Cup,International,3,2018,778,Japan,789,Poland,0,1,3,Volgograd Arena,Russia,Janny Sikazwe,Zambia
+7577,2018-06-15,17:00:00.000,43,FIFA World Cup,International,3,2018,788,Morocco,797,Iran,0,1,1,Saint-Petersburg Stadium,Russia,Cüneyt Çakιr,Turkey
+7543,2018-06-20,20:00:00.000,43,FIFA World Cup,International,3,2018,797,Iran,772,Spain,0,1,2,Ak Bars Arena,Russia,Andrés Cunha,Uruguay
+7525,2018-06-14,17:00:00.000,43,FIFA World Cup,International,3,2018,796,Russia,799,Saudi Arabia,5,0,1,Stadion Luzhniki,Russia,Néstor Fabián Pitana,Argentina
+7566,2018-06-27,16:00:00.000,43,FIFA World Cup,International,3,2018,794,Mexico,790,Sweden,0,3,3,	Ekaterinburg Arena,Russia,Néstor Fabián Pitana,Argentina
+8651,2018-07-07,16:00:00.000,43,FIFA World Cup,International,3,2018,790,Sweden,768,England,0,2,5,	Solidarnost Arena,Russia,Björn Kuipers,Netherlands
+7567,2018-06-27,16:00:00.000,43,FIFA World Cup,International,3,2018,791,South Korea,770,Germany,2,0,3,Ak Bars Arena,Russia,Mark Geiger,United States of America
+7541,2018-06-19,14:00:00.000,43,FIFA World Cup,International,3,2018,769,Colombia,778,Japan,1,2,1,Mordovia Arena,Russia,Damir Skomina,Slovenia
+8655,2018-07-10,20:00:00.000,43,FIFA World Cup,International,3,2018,771,France,782,Belgium,1,0,6,Saint-Petersburg Stadium,Russia,Andrés Cunha,Uruguay
+8657,2018-07-14,16:00:00.000,43,FIFA World Cup,International,3,2018,782,Belgium,768,England,2,0,7,Saint-Petersburg Stadium,Russia,Alireza Faghani,"Iran, Islamic Republic of"
+7540,2018-06-19,20:00:00.000,43,FIFA World Cup,International,3,2018,796,Russia,774,Egypt,3,1,2,Saint-Petersburg Stadium,Russia,Enrique Cáceres,Paraguay
+8652,2018-07-07,20:00:00.000,43,FIFA World Cup,International,3,2018,796,Russia,785,Croatia,2,2,5,	Olimpiyskiy Stadion Fisht ,Russia,Sandro Ricci,Brazil
+7563,2018-06-26,16:00:00.000,43,FIFA World Cup,International,3,2018,776,Denmark,771,France,0,0,3,Stadion Luzhniki,Russia,Sandro Ricci,Brazil
+7556,2018-06-24,17:00:00.000,43,FIFA World Cup,International,3,2018,778,Japan,787,Senegal,2,2,2,	Ekaterinburg Arena,Russia,Gianluca Rocchi,Italy
+7559,2018-06-25,16:00:00.000,43,FIFA World Cup,International,3,2018,799,Saudi Arabia,774,Egypt,2,1,3,Volgograd Arena,Russia,Wilmar Alexander Roldán Pérez,Colombia
+3888720,1974-07-07,18:00:00.000,43,FIFA World Cup,International,51,1974,941,Netherlands,770,Germany,1,2,7,Olympiastadion München ,Germany,Jack Taylor,England
+3888719,1974-07-03,21:30:00.000,43,FIFA World Cup,International,51,1974,941,Netherlands,781,Brazil,2,0,6,Signal-Iduna-Park,Germany,Kurt Tschenscher,Germany
+3888718,1974-06-30,18:00:00.000,43,FIFA World Cup,International,51,1974,2721,German DR,941,Netherlands,0,2,5,Parkstadion Obenende,Germany,Rudolf Scheurer,Switzerland
+3888717,1974-06-26,21:30:00.000,43,FIFA World Cup,International,51,1974,941,Netherlands,779,Argentina,4,0,4,Parkstadion Obenende,Germany,Bobby Davidson,Scotland
+3888716,1974-06-19,21:30:00.000,43,FIFA World Cup,International,51,1974,941,Netherlands,790,Sweden,0,0,2,Signal-Iduna-Park,Germany,Werner Winsemann,Canada
+3750180,1974-06-22,19:30:00.000,43,FIFA World Cup,International,51,1974,2721,German DR,770,Germany,1,0,3,Volksparkstadion,Germany,Ramón Ivanoes Barreto Ruiz,Uruguay
+3889149,1986-06-29,20:00:00.000,43,FIFA World Cup,International,54,1986,779,Argentina,770,Germany,3,2,3,Estadio Azteca,Mexico,,
+3889148,1986-06-26,00:00:00.000,43,FIFA World Cup,International,54,1986,779,Argentina,782,Belgium,2,0,2,Estadio Azteca,Mexico,Antonio Márquez Ramírez,Mexico
+3750191,1986-06-22,19:00:00.000,43,FIFA World Cup,International,54,1986,779,Argentina,768,England,2,1,1,Estadio Azteca,Mexico,Ali Bin Nasser,Tunisia
+3793185,1990-06-24,17:00:00.000,43,FIFA World Cup,International,55,1990,781,Brazil,779,Argentina,0,1,1,Stadio delle Alpi,Italy,Joël Quiniou,France

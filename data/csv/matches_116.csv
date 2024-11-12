@@ -1,0 +1,2 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3750234,1977-08-28,12:00:00.000,116,North American League,North and Central America,68,1977,2735,NY Cosmos,488,Seattle Sounders,2,1,1,Providence Park,United States of America,Toros Kibritjian,Syrian Arab Republic (Syria)

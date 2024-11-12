@@ -1,0 +1,117 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3904629,2023-08-16,13:00:00.000,72,Women's World Cup,International,107,2023,1205,Australia Women's,865,England Women's,1,3,6,Accor Stadium,Australia,Tori Penso,United States of America
+3906390,2023-08-20,13:00:00.000,72,Women's World Cup,International,107,2023,863,Spain Women's,865,England Women's,1,0,7,Accor Stadium,Australia,Tori Penso,United States of America
+3906389,2023-08-19,11:00:00.000,72,Women's World Cup,International,107,2023,858,Sweden Women's,1205,Australia Women's,2,0,7,Brisbane Stadium,Australia,Cheryl Foster,Wales
+3904628,2023-08-15,11:00:00.000,72,Women's World Cup,International,107,2023,863,Spain Women's,858,Sweden Women's,2,1,6,Eden Park,New Zealand,Edina Alves Batista,Brazil
+3893806,2023-07-26,10:30:00.000,72,Women's World Cup,International,107,2023,863,Spain Women's,6045,Zambia Women's,5,0,2,Eden Park,New Zealand,Hyeon-Jeong Oh,Korea (South)
+3893801,2023-07-24,14:00:00.000,72,Women's World Cup,International,107,2023,1203,Brazil Women's,16803,Panama Women's,4,0,1,Coopers Stadium,Australia,Cheryl Foster,Wales
+3893797,2023-07-23,10:30:00.000,72,Women's World Cup,International,107,2023,851,Netherlands Women's,864,Portugal Women's,1,0,1,Forsyth Barr,New Zealand,,
+3893822,2023-07-31,10:00:00.000,72,Women's World Cup,International,107,2023,1210,Japan Women's,863,Spain Women's,4,0,3,Wellington Regional Stadium,Australia,Katja Koroleva,United States of America
+3893814,2023-07-29,10:30:00.000,72,Women's World Cup,International,107,2023,858,Sweden Women's,855,Italy Women's,5,0,2,Wellington Regional Stadium,Australia,Cheryl Foster,Wales
+3893790,2023-07-21,05:30:00.000,72,Women's World Cup,International,107,2023,1213,Nigeria Women's,1206,Canada Women's,0,0,1,AAMI Park,Australia,Lina Lehtovaara,Finland
+3901832,2023-08-08,11:00:00.000,72,Women's World Cup,International,107,2023,16802,Colombia Women's,1212,Jamaica Women's,1,0,4,AAMI Park,Australia,Kate Jacewicz,Australia
+3902968,2023-08-12,10:00:00.000,72,Women's World Cup,International,107,2023,1205,Australia Women's,861,France Women's,0,0,5,Brisbane Stadium,Australia,María Belén Carvajal Peña,Chile
+3902967,2023-08-12,13:30:00.000,72,Women's World Cup,International,107,2023,865,England Women's,16802,Colombia Women's,2,1,5,Accor Stadium,Australia,Katja Koroleva,United States of America
+3901797,2023-08-06,12:00:00.000,72,Women's World Cup,International,107,2023,858,Sweden Women's,1214,United States Women's,0,0,4,AAMI Park,Australia,Stéphanie Frappart,France
+3901796,2023-08-06,05:00:00.000,72,Women's World Cup,International,107,2023,851,Netherlands Women's,1216,South Africa Women's,2,0,4,Allianz Stadium (Sydney),Australia,Yoshimi Yamashita,Japan
+3902240,2023-08-11,04:00:00.000,72,Women's World Cup,International,107,2023,863,Spain Women's,851,Netherlands Women's,2,1,5,Wellington Regional Stadium,Australia,Stéphanie Frappart,France
+3902239,2023-08-11,10:30:00.000,72,Women's World Cup,International,107,2023,1210,Japan Women's,858,Sweden Women's,1,2,5,Eden Park,New Zealand,Esther Staubli,Switzerland
+3893808,2023-07-27,04:00:00.000,72,Women's World Cup,International,107,2023,1214,United States Women's,851,Netherlands Women's,1,1,2,Wellington Regional Stadium,Australia,Yoshimi Yamashita,Japan
+3901833,2023-08-08,14:00:00.000,72,Women's World Cup,International,107,2023,861,France Women's,2391,Morocco Women's,4,0,4,Coopers Stadium,Australia,Tori Penso,United States of America
+3893826,2023-08-01,10:00:00.000,72,Women's World Cup,International,107,2023,864,Portugal Women's,1214,United States Women's,0,0,3,Eden Park,New Zealand,Rebecca Welch,England
+3901736,2023-08-07,13:30:00.000,72,Women's World Cup,International,107,2023,1205,Australia Women's,853,Denmark Women's,2,0,4,Stadium Australia,Australia,Rebecca Welch,England
+3901735,2023-08-07,10:30:00.000,72,Women's World Cup,International,107,2023,865,England Women's,1213,Nigeria Women's,0,0,4,Brisbane Stadium,Australia,Melissa Paola Borjas Pastrana,Honduras
+3901734,2023-08-05,11:00:00.000,72,Women's World Cup,International,107,2023,1210,Japan Women's,852,Norway Women's,3,1,4,Wellington Regional Stadium,Australia,Edina Alves Batista,Brazil
+3901733,2023-08-05,08:00:00.000,72,Women's World Cup,International,107,2023,860,Switzerland Women's,863,Spain Women's,1,5,4,Eden Park,New Zealand,Cheryl Foster,Wales
+3893823,2023-07-31,10:00:00.000,72,Women's World Cup,International,107,2023,1832,Costa Rica Women's,6045,Zambia Women's,1,3,3,FMG Stadium Waikato,New Zealand,Bouchra Karboubi,Morocco
+3893811,2023-07-28,11:30:00.000,72,Women's World Cup,International,107,2023,865,England Women's,853,Denmark Women's,1,0,2,Allianz Stadium (Sydney),Australia,Tess Olofsson,Sweden
+3893812,2023-07-28,03:00:00.000,72,Women's World Cup,International,107,2023,1204,Argentina Women's,1216,South Africa Women's,2,2,2,Forsyth Barr,New Zealand,Anna-Marie Keighley,New Zealand
+3893813,2023-07-28,14:00:00.000,72,Women's World Cup,International,107,2023,1207,China PR Women's,2355,Haiti Women's,1,0,2,Coopers Stadium,Australia,Marta Huerta de Aza,Spain
+3893810,2023-07-27,10:30:00.000,72,Women's World Cup,International,107,2023,864,Portugal Women's,16769,Vietnam Women's,2,0,2,FMG Stadium Waikato,New Zealand,Salima Mukansanga,Rwanda
+3893809,2023-07-27,13:00:00.000,72,Women's World Cup,International,107,2023,1205,Australia Women's,1213,Nigeria Women's,2,3,2,Brisbane Stadium,Australia,Esther Staubli,Switzerland
+3893807,2023-07-26,15:00:00.000,72,Women's World Cup,International,107,2023,1206,Canada Women's,16768,Republic of Ireland Women's,2,1,2,HBF Park,Australia,Laura Fortunato,Argentina
+3893804,2023-07-25,11:00:00.000,72,Women's World Cup,International,107,2023,860,Switzerland Women's,852,Norway Women's,0,0,2,FMG Stadium Waikato,New Zealand,Stéphanie Frappart,France
+3893788,2023-07-20,13:00:00.000,72,Women's World Cup,International,107,2023,1205,Australia Women's,16768,Republic of Ireland Women's,1,0,1,Accor Stadium,Australia,Edina Alves Batista,Brazil
+3893798,2023-07-23,13:00:00.000,72,Women's World Cup,International,107,2023,861,France Women's,1212,Jamaica Women's,0,0,1,Allianz Stadium (Sydney),Australia,María Belén Carvajal Peña,Chile
+3893789,2023-07-21,08:00:00.000,72,Women's World Cup,International,107,2023,1106,Philippines Women's,860,Switzerland Women's,0,2,1,Forsyth Barr,New Zealand,Vincentia Enyonam Amedome,Togo
+3893794,2023-07-22,12:30:00.000,72,Women's World Cup,International,107,2023,865,England Women's,2355,Haiti Women's,1,0,1,Brisbane Stadium,Australia,Emikar Caldera Barrera,Venezuela (Bolivarian Republic)
+3893792,2023-07-22,04:00:00.000,72,Women's World Cup,International,107,2023,1214,United States Women's,16769,Vietnam Women's,3,0,1,Eden Park,New Zealand,Bouchra Karboubi,Morocco
+3893791,2023-07-21,10:30:00.000,72,Women's World Cup,International,107,2023,863,Spain Women's,1832,Costa Rica Women's,3,0,1,Wellington Regional Stadium,Australia,Casey Reibelt,Australia
+3893787,2023-07-20,10:00:00.000,72,Women's World Cup,International,107,2023,1215,New Zealand Women's,852,Norway Women's,1,0,1,Eden Park,New Zealand,Yoshimi Yamashita,Japan
+3893834,2023-08-03,13:00:00.000,72,Women's World Cup,International,107,2023,2391,Morocco Women's,16802,Colombia Women's,1,0,3,HBF Park,Australia,Maria Sole Ferrieri Caputi,Italy
+3893833,2023-08-03,13:00:00.000,72,Women's World Cup,International,107,2023,1211,Korea Republic Women's,857,Germany Women's,1,1,3,Brisbane Stadium,Australia,Anna-Marie Keighley,New Zealand
+3893832,2023-08-02,13:00:00.000,72,Women's World Cup,International,107,2023,1212,Jamaica Women's,1203,Brazil Women's,0,0,3,AAMI Park,Australia,Esther Staubli,Switzerland
+3893831,2023-08-02,10:00:00.000,72,Women's World Cup,International,107,2023,1216,South Africa Women's,855,Italy Women's,3,2,3,Wellington Regional Stadium,Australia,María Belén Carvajal Peña,Chile
+3893830,2023-08-02,10:00:00.000,72,Women's World Cup,International,107,2023,1204,Argentina Women's,858,Sweden Women's,0,2,3,FMG Stadium Waikato,New Zealand,Salima Mukansanga,Rwanda
+3893829,2023-08-02,13:00:00.000,72,Women's World Cup,International,107,2023,16803,Panama Women's,861,France Women's,3,6,3,Allianz Stadium (Sydney),Australia,Laura Fortunato,Argentina
+3893828,2023-08-01,14:00:00.000,72,Women's World Cup,International,107,2023,1207,China PR Women's,865,England Women's,1,6,3,Coopers Stadium,Australia,Casey Reibelt,Australia
+3893827,2023-08-01,10:00:00.000,72,Women's World Cup,International,107,2023,16769,Vietnam Women's,851,Netherlands Women's,0,7,3,Forsyth Barr,New Zealand,Ivana Martinčić,Croatia
+3893825,2023-08-01,14:00:00.000,72,Women's World Cup,International,107,2023,2355,Haiti Women's,853,Denmark Women's,0,2,3,HBF Park,Australia,Hyeon-Jeong Oh,Korea (South)
+3893824,2023-07-31,13:00:00.000,72,Women's World Cup,International,107,2023,16768,Republic of Ireland Women's,1213,Nigeria Women's,0,0,3,Brisbane Stadium,Australia,Katia Itzel García,Mexico
+3893821,2023-07-31,13:00:00.000,72,Women's World Cup,International,107,2023,1206,Canada Women's,1205,Australia Women's,0,4,3,AAMI Park,Australia,Stéphanie Frappart,France
+3893820,2023-07-30,10:00:00.000,72,Women's World Cup,International,107,2023,852,Norway Women's,1106,Philippines Women's,6,0,3,Eden Park,New Zealand,Marie-Soleil Beaudoin,Canada
+3893819,2023-07-30,07:30:00.000,72,Women's World Cup,International,107,2023,1211,Korea Republic Women's,2391,Morocco Women's,0,1,2,Coopers Stadium,Australia,Edina Alves Batista,Brazil
+3893818,2023-07-30,12:30:00.000,72,Women's World Cup,International,107,2023,857,Germany Women's,16802,Colombia Women's,1,2,2,Allianz Stadium (Sydney),Australia,Melissa Paola Borjas Pastrana,Honduras
+3893817,2023-07-30,10:00:00.000,72,Women's World Cup,International,107,2023,860,Switzerland Women's,1215,New Zealand Women's,0,0,3,Forsyth Barr,New Zealand,Tori Penso,United States of America
+3893816,2023-07-29,15:30:00.000,72,Women's World Cup,International,107,2023,16803,Panama Women's,1212,Jamaica Women's,0,1,2,HBF Park,Australia,Kateryna Monzul,Ukraine
+3893815,2023-07-29,13:00:00.000,72,Women's World Cup,International,107,2023,861,France Women's,1203,Brazil Women's,2,1,2,Brisbane Stadium,Australia,Kate Jacewicz,Australia
+3893805,2023-07-26,08:00:00.000,72,Women's World Cup,International,107,2023,1210,Japan Women's,1832,Costa Rica Women's,2,0,2,Forsyth Barr,New Zealand,Maria Sole Ferrieri Caputi,Italy
+3893803,2023-07-25,08:30:00.000,72,Women's World Cup,International,107,2023,1215,New Zealand Women's,1106,Philippines Women's,0,1,2,Wellington Regional Stadium,Australia,Katia Itzel García,Mexico
+3893802,2023-07-25,05:00:00.000,72,Women's World Cup,International,107,2023,16802,Colombia Women's,1211,Korea Republic Women's,2,0,1,Allianz Stadium (Sydney),Australia,Rebecca Welch,England
+3893800,2023-07-24,09:00:00.000,72,Women's World Cup,International,107,2023,855,Italy Women's,1204,Argentina Women's,1,0,1,Eden Park,New Zealand,Melissa Paola Borjas Pastrana,Honduras
+3893799,2023-07-24,11:30:00.000,72,Women's World Cup,International,107,2023,857,Germany Women's,2391,Morocco Women's,6,0,1,AAMI Park,Australia,Tori Penso,United States of America
+3893796,2023-07-23,08:00:00.000,72,Women's World Cup,International,107,2023,858,Sweden Women's,1216,South Africa Women's,2,1,1,Wellington Regional Stadium,Australia,Katja Koroleva,United States of America
+3893795,2023-07-22,15:00:00.000,72,Women's World Cup,International,107,2023,853,Denmark Women's,1207,China PR Women's,1,0,1,HBF Park,Australia,Marie-Soleil Beaudoin,Canada
+3893793,2023-07-22,10:00:00.000,72,Women's World Cup,International,107,2023,6045,Zambia Women's,1210,Japan Women's,0,5,1,FMG Stadium Waikato,New Zealand,Tess Olofsson,Sweden
+22949,2019-06-12,18:00:00.000,72,Women's World Cup,International,30,2019,857,Germany Women's,863,Spain Women's,1,0,2,Stade du Hainaut,France,Kateryna Monzul,Ukraine
+22943,2019-06-11,21:00:00.000,72,Women's World Cup,International,30,2019,1214,United States Women's,1107,Thailand Women's,13,0,1,Stade Auguste-Delaune II ,France,,
+22944,2019-06-11,18:00:00.000,72,Women's World Cup,International,30,2019,1209,Chile Women's,858,Sweden Women's,0,2,1,Roazhon Park,France,Lucila Venegas Montes,Mexico
+22961,2019-06-14,15:00:00.000,72,Women's World Cup,International,30,2019,1210,Japan Women's,866,Scotland Women's,2,1,2,Roazhon Park,France,,
+22964,2019-06-15,15:00:00.000,72,Women's World Cup,International,30,2019,851,Netherlands Women's,1208,Cameroon Women's,3,1,2,Stade du Hainaut,France,,
+68357,2019-06-22,21:00:00.000,72,Women's World Cup,International,30,2019,852,Norway Women's,1205,Australia Women's,1,1,4,Allianz Riviera ,France,Riem Hussein,Germany
+22933,2019-06-09,13:00:00.000,72,Women's World Cup,International,30,2019,1205,Australia Women's,855,Italy Women's,1,2,1,Stade du Hainaut,France,Melissa Paola Borjas Pastrana,Honduras
+22963,2019-06-14,18:00:00.000,72,Women's World Cup,International,30,2019,1212,Jamaica Women's,855,Italy Women's,0,5,2,Stade Auguste-Delaune II ,France,,
+68311,2019-06-18,21:00:00.000,72,Women's World Cup,International,30,2019,1212,Jamaica Women's,1205,Australia Women's,1,4,3,Stade des Alpes,France,Katalin Kulcsar,Hungary
+22940,2019-06-10,18:00:00.000,72,Women's World Cup,International,30,2019,1204,Argentina Women's,1210,Japan Women's,0,0,1,Parc des Princes ,France,Stéphanie Frappart,France
+22945,2019-06-12,15:00:00.000,72,Women's World Cup,International,30,2019,1213,Nigeria Women's,1211,Korea Republic Women's,2,0,2,Stade des Alpes,France,Anastasia Pustovoytova,Russia
+22956,2019-06-13,21:00:00.000,72,Women's World Cup,International,30,2019,1216,South Africa Women's,1207,China PR Women's,0,1,2,Parc des Princes ,France,Katalin Kulcsar,Hungary
+22966,2019-06-15,21:00:00.000,72,Women's World Cup,International,30,2019,1206,Canada Women's,1215,New Zealand Women's,2,0,2,Stade des Alpes,France,,
+68344,2019-06-20,18:00:00.000,72,Women's World Cup,International,30,2019,851,Netherlands Women's,1206,Canada Women's,2,1,3,Stade Auguste-Delaune II ,France,Stéphanie Frappart,France
+68345,2019-06-20,21:00:00.000,72,Women's World Cup,International,30,2019,858,Sweden Women's,1214,United States Women's,0,2,3,Stade Océane,France,Anastasia Pustovoytova,Russia
+69163,2019-06-24,21:00:00.000,72,Women's World Cup,International,30,2019,858,Sweden Women's,1206,Canada Women's,1,0,4,Parc des Princes ,France,Kate Jacewicz,Australia
+68346,2019-06-20,18:00:00.000,72,Women's World Cup,International,30,2019,1208,Cameroon Women's,1215,New Zealand Women's,2,1,3,Stade de la Mosson ,France,Kateryna Monzul,Ukraine
+68355,2019-06-22,17:30:00.000,72,Women's World Cup,International,30,2019,857,Germany Women's,1213,Nigeria Women's,3,0,4,Stade des Alpes,France,,
+69301,2019-07-06,17:00:00.000,72,Women's World Cup,International,30,2019,865,England Women's,858,Sweden Women's,1,2,7,Allianz Riviera ,France,Anastasia Pustovoytova,Russia
+69137,2019-06-23,21:00:00.000,72,Women's World Cup,International,30,2019,861,France Women's,1203,Brazil Women's,2,1,4,Stade Océane,France,Marie-Soleil Beaudoin,Canada
+69208,2019-06-29,18:30:00.000,72,Women's World Cup,International,30,2019,857,Germany Women's,858,Sweden Women's,1,2,5,Roazhon Park,France,Stéphanie Frappart,France
+22936,2019-06-09,18:00:00.000,72,Women's World Cup,International,30,2019,865,England Women's,866,Scotland Women's,2,1,1,Allianz Riviera ,France,Jana Adamkova,Czech Republic
+22973,2019-06-16,15:00:00.000,72,Women's World Cup,International,30,2019,858,Sweden Women's,1107,Thailand Women's,5,1,2,Allianz Riviera ,France,,
+68337,2019-06-19,21:00:00.000,72,Women's World Cup,International,30,2019,1210,Japan Women's,865,England Women's,0,2,3,Allianz Riviera ,France,Claudia Umpiérrez,Uruguay
+22981,2019-06-17,21:00:00.000,72,Women's World Cup,International,30,2019,1211,Korea Republic Women's,852,Norway Women's,1,2,3,Stade Auguste-Delaune II ,France,Marie-Soleil Beaudoin,Canada
+22974,2019-06-16,18:00:00.000,72,Women's World Cup,International,30,2019,1214,United States Women's,1209,Chile Women's,3,0,2,Parc des Princes ,France,Riem Hussein,Germany
+22924,2019-06-08,21:00:00.000,72,Women's World Cup,International,30,2019,852,Norway Women's,1213,Nigeria Women's,3,0,1,Stade Auguste-Delaune II ,France,Kate Jacewicz,Australia
+69321,2019-07-07,17:00:00.000,72,Women's World Cup,International,30,2019,1214,United States Women's,851,Netherlands Women's,2,0,7,Groupama Stadium,France,Stéphanie Frappart,France
+22983,2019-06-17,18:00:00.000,72,Women's World Cup,International,30,2019,1207,China PR Women's,863,Spain Women's,0,0,3,Stade Océane,France,,
+68312,2019-06-18,21:00:00.000,72,Women's World Cup,International,30,2019,855,Italy Women's,1203,Brazil Women's,0,1,3,Stade du Hainaut,France,Lucila Venegas Montes,Mexico
+22921,2019-06-07,21:00:00.000,72,Women's World Cup,International,30,2019,861,France Women's,1211,Korea Republic Women's,4,0,1,Parc des Princes ,France,Claudia Umpiérrez,Uruguay
+22926,2019-06-08,15:00:00.000,72,Women's World Cup,International,30,2019,857,Germany Women's,1207,China PR Women's,1,0,1,Roazhon Park,France,Marie-Soleil Beaudoin,Canada
+22930,2019-06-08,18:00:00.000,72,Women's World Cup,International,30,2019,863,Spain Women's,1216,South Africa Women's,3,1,1,Stade Océane,France,,
+22934,2019-06-09,15:30:00.000,72,Women's World Cup,International,30,2019,1203,Brazil Women's,1212,Jamaica Women's,3,0,1,Stade des Alpes,France,Riem Hussein,Germany
+22939,2019-06-10,21:00:00.000,72,Women's World Cup,International,30,2019,1206,Canada Women's,1208,Cameroon Women's,1,0,1,Stade de la Mosson ,France,Ok Ri-Hyang,Korea (North)
+69202,2019-06-28,21:00:00.000,72,Women's World Cup,International,30,2019,861,France Women's,1214,United States Women's,1,2,5,Parc des Princes ,France,Kateryna Monzul,Ukraine
+22942,2019-06-11,15:00:00.000,72,Women's World Cup,International,30,2019,1215,New Zealand Women's,851,Netherlands Women's,0,1,1,Stade Océane,France,,
+22948,2019-06-12,21:00:00.000,72,Women's World Cup,International,30,2019,861,France Women's,852,Norway Women's,2,1,2,Allianz Riviera ,France,,
+22955,2019-06-13,18:00:00.000,72,Women's World Cup,International,30,2019,1205,Australia Women's,1203,Brazil Women's,3,2,2,Stade de la Mosson ,France,Esther Staubli,Switzerland
+22962,2019-06-14,21:00:00.000,72,Women's World Cup,International,30,2019,865,England Women's,1204,Argentina Women's,1,0,2,Stade Océane,France,,
+22980,2019-06-17,21:00:00.000,72,Women's World Cup,International,30,2019,1213,Nigeria Women's,861,France Women's,0,1,3,Roazhon Park,France,Melissa Paola Borjas Pastrana,Honduras
+22984,2019-06-17,18:00:00.000,72,Women's World Cup,International,30,2019,1216,South Africa Women's,857,Germany Women's,0,4,3,Stade de la Mosson ,France,Sandra Braz Bastos,Portugal
+68338,2019-06-19,21:00:00.000,72,Women's World Cup,International,30,2019,866,Scotland Women's,1204,Argentina Women's,3,3,3,Parc des Princes ,France,Ok Ri-Hyang,Korea (North)
+68343,2019-06-20,21:00:00.000,72,Women's World Cup,International,30,2019,1107,Thailand Women's,1209,Chile Women's,0,2,3,Roazhon Park,France,,
+68362,2019-06-23,17:30:00.000,72,Women's World Cup,International,30,2019,865,England Women's,1208,Cameroon Women's,3,0,4,Stade du Hainaut,France,,
+69191,2019-06-25,18:00:00.000,72,Women's World Cup,International,30,2019,855,Italy Women's,1207,China PR Women's,2,0,4,Stade de la Mosson ,France,,
+69188,2019-06-25,21:00:00.000,72,Women's World Cup,International,30,2019,851,Netherlands Women's,1210,Japan Women's,2,1,4,Roazhon Park,France,Melissa Paola Borjas Pastrana,Honduras
+69199,2019-06-27,21:00:00.000,72,Women's World Cup,International,30,2019,852,Norway Women's,865,England Women's,0,3,5,Stade Océane,France,Lucila Venegas Montes,Mexico
+69258,2019-07-02,21:00:00.000,72,Women's World Cup,International,30,2019,865,England Women's,1214,United States Women's,1,2,6,Groupama Stadium,France,,
+69284,2019-07-03,21:00:00.000,72,Women's World Cup,International,30,2019,851,Netherlands Women's,858,Sweden Women's,1,0,6,Groupama Stadium,France,Marie-Soleil Beaudoin,Canada
+69205,2019-06-29,15:00:00.000,72,Women's World Cup,International,30,2019,855,Italy Women's,851,Netherlands Women's,0,2,5,Stade du Hainaut,France,Claudia Umpiérrez,Uruguay
+69161,2019-06-24,18:00:00.000,72,Women's World Cup,International,30,2019,863,Spain Women's,1214,United States Women's,1,2,4,Stade Auguste-Delaune II ,France,Katalin Kulcsar,Hungary

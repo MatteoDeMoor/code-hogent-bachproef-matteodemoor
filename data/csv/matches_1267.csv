@@ -1,0 +1,53 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3923881,2024-02-11,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,775,Nigeria,3374,Côte d'Ivoire,1,2,8,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Dahane Beida,Mauritania
+3923880,2024-02-10,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4976,South Africa,4881,Congo DR,0,0,7,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Bamlak Tessema Weyesa,Ethiopia
+3922838,2024-02-07,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,3374,Côte d'Ivoire,4881,Congo DR,1,0,6,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Ibrahim Mutaz,Libya
+3922837,2024-02-07,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,775,Nigeria,4976,South Africa,1,1,6,Stade de Bouaké,Côte d'Ivoire,Amin Mohamed Omar,Egypt
+3922242,2024-01-29,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,787,Senegal,3374,Côte d'Ivoire,1,1,4,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Pierre Ghislain Atcho,Gabon
+3922239,2024-01-28,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4992,Equatorial Guinea,4892,Guinea,0,1,4,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Omar Abdulkadir Artan,Somalia
+3922659,2024-02-03,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4930,Mali,3374,Côte d'Ivoire,1,2,5,Stade de Bouaké,Côte d'Ivoire,Mohamed Adel Elsaid,Egypt
+3922658,2024-02-03,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4924,Cape Verde Islands,4976,South Africa,0,0,5,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Jean Jacques Ndala Ngambo,"Congo, (Kinshasa)"
+3922244,2024-01-30,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4930,Mali,4921,Burkina Faso,2,1,4,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Ibrahim Mutaz,Libya
+3922356,2024-02-02,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4881,Congo DR,4892,Guinea,3,1,5,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Mustapha Ghorbal,Algeria
+3922321,2024-02-02,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,775,Nigeria,4901,Angola,1,0,5,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Issa Sy,Senegal
+3922237,2024-01-27,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4901,Angola,4980,Namibia,3,0,4,Stade de Bouaké,Côte d'Ivoire,Dahane Beida,Mauritania
+3922243,2024-01-30,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,788,Morocco,4976,South Africa,0,2,4,Stade Laurent Pokou,Côte d'Ivoire,Mahmood Ali Mahmood Ismail,Sudan
+3922241,2024-01-29,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4924,Cape Verde Islands,4932,Mauritania,1,0,4,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Mohamed Adel Elsaid,Egypt
+3922240,2024-01-28,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,774,Egypt,4881,Congo DR,1,1,4,Stade Laurent Pokou,Côte d'Ivoire,Abongile Tom,South Africa
+3922238,2024-01-27,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,775,Nigeria,2722,Cameroon,2,0,4,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Redouane Jiyed,Morocco
+3920396,2024-01-18,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,774,Egypt,4885,Ghana,2,2,2,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Pierre Ghislain Atcho,Gabon
+3920386,2024-01-14,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,775,Nigeria,4992,Equatorial Guinea,1,1,1,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Abongile Tom,South Africa
+3920385,2024-01-14,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,774,Egypt,4978,Mozambique,2,2,1,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Dahane Beida,Mauritania
+3920387,2024-01-14,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4885,Ghana,4924,Cape Verde Islands,1,2,1,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Jean Jacques Ndala Ngambo,"Congo, (Kinshasa)"
+3920419,2024-01-24,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4963,Zambia,788,Morocco,0,1,3,Stade Laurent Pokou,Côte d'Ivoire,Patrice Tanguy Mebiame,Gabon
+3920418,2024-01-24,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4953,Tanzania,4881,Congo DR,0,0,3,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Amin Mohamed Omar,Egypt
+3920417,2024-01-24,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4980,Namibia,4930,Mali,0,0,3,Stade Laurent Pokou,Côte d'Ivoire,Samuel Uwikunda,Rwanda
+3920416,2024-01-24,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4976,South Africa,777,Tunisia,0,0,3,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Issa Sy,Senegal
+3920415,2024-01-23,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4932,Mauritania,4898,Algeria,1,0,3,Stade de Bouaké,Côte d'Ivoire,Omar Abdulkadir Artan,Somalia
+3920414,2024-01-23,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4901,Angola,4921,Burkina Faso,2,0,3,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Jean Jacques Ndala Ngambo,"Congo, (Kinshasa)"
+3920413,2024-01-23,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4934,Gambia,2722,Cameroon,2,3,3,Stade de Bouaké,Côte d'Ivoire,Bamlak Tessema Weyesa,Ethiopia
+3920412,2024-01-23,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4892,Guinea,787,Senegal,0,2,3,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Pacifique Ndabihawenimana,Burundi
+3920411,2024-01-22,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4924,Cape Verde Islands,774,Egypt,2,2,3,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Alhadi Allaou Mahamat,Chad
+3920410,2024-01-22,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4978,Mozambique,4885,Ghana,2,2,3,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Ibrahim Mutaz,Libya
+3920409,2024-01-22,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4894,Guinea-Bissau,775,Nigeria,0,1,3,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Bouchra Karboubi,Morocco
+3920408,2024-01-22,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4992,Equatorial Guinea,3374,Côte d'Ivoire,4,0,3,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Mahmood Ali Mahmood Ismail,Sudan
+3920407,2024-01-21,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4976,South Africa,4980,Namibia,4,0,2,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Youcef Gamouh,Algeria
+3920406,2024-01-21,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4963,Zambia,4953,Tanzania,1,1,2,Stade Laurent Pokou,Côte d'Ivoire,Djindo Louis Houngnandande,Benin
+3920405,2024-01-21,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,788,Morocco,4881,Congo DR,1,1,2,Stade Laurent Pokou,Côte d'Ivoire,Peter Waweru Kamaku,Kenya
+3920404,2024-01-20,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,777,Tunisia,4930,Mali,1,1,2,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Daniel Nii Ayi Laryea,Ghana
+3920403,2024-01-20,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,4932,Mauritania,4901,Angola,2,3,2,Stade de Bouaké,Côte d'Ivoire,Mohamed Maarouf Eid Mansour,Egypt
+3920402,2024-01-20,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,4898,Algeria,4921,Burkina Faso,2,2,2,Stade de Bouaké,Côte d'Ivoire,Abongile Tom,South Africa
+3920401,2024-01-19,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4892,Guinea,4934,Gambia,1,0,2,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Abdel Aziz Mohamed Bouh,Mauritania
+3920400,2024-01-19,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,787,Senegal,2722,Cameroon,3,1,2,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Mahmood Ali Mahmood Ismail,Sudan
+3920399,2024-01-19,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,4924,Cape Verde Islands,4978,Mozambique,3,0,2,Stade Félix Houphouët-Boigny      ,Côte d'Ivoire,Samir Guezzaz,Morocco
+3920398,2024-01-18,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,3374,Côte d'Ivoire,775,Nigeria,0,1,2,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Mustapha Ghorbal,Algeria
+3920397,2024-01-18,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,4992,Equatorial Guinea,4894,Guinea-Bissau,4,2,2,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Samuel Uwikunda,Rwanda
+3920395,2024-01-17,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4881,Congo DR,4963,Zambia,1,1,1,Stade Laurent Pokou,Côte d'Ivoire,Bamlak Tessema Weyesa,Ethiopia
+3920394,2024-01-17,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,788,Morocco,4953,Tanzania,3,0,1,Stade Laurent Pokou,Côte d'Ivoire,Alhadi Allaou Mahamat,Chad
+3920393,2024-01-16,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,777,Tunisia,4980,Namibia,0,1,1,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Abdulkadir Artan,Somalia
+3920392,2024-01-16,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,4921,Burkina Faso,4932,Mauritania,1,0,1,Stade de Bouaké,Côte d'Ivoire,Jalal Jayed,Morocco
+3920391,2024-01-16,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4930,Mali,4976,South Africa,2,0,1,Stade Amadou Gon Coulibaly,Côte d'Ivoire,Mohamed Adel Hussein,Egypt
+3920390,2024-01-15,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,4898,Algeria,4901,Angola,1,1,1,Stade de Bouaké,Côte d'Ivoire,Issa Sy,Senegal
+3920389,2024-01-15,19:00:00.000,1267,African Cup of Nations,Africa,107,2023,2722,Cameroon,4892,Guinea,1,1,1,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Ibrahim Mutaz,Libya
+3920388,2024-01-15,16:00:00.000,1267,African Cup of Nations,Africa,107,2023,787,Senegal,4934,Gambia,3,0,1,Stade Charles Konan Banny de Yamoussoukro,Côte d'Ivoire,Redouane Jiyed,Morocco
+3920384,2024-01-13,22:00:00.000,1267,African Cup of Nations,Africa,107,2023,3374,Côte d'Ivoire,4894,Guinea-Bissau,2,0,1,Stade Olympique Alassane Ouattara,Côte d'Ivoire,Amin Mohamed Omar,Egypt

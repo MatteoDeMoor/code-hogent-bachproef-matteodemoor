@@ -1,0 +1,32 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3835331,2022-07-13,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,858,Sweden Women's,860,Switzerland Women's,2,1,2,Bramall Lane,England,Marta Huerta de Aza,Spain
+3835324,2022-07-09,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,851,Netherlands Women's,858,Sweden Women's,1,1,1,Bramall Lane,England,Cheryl Foster,Wales
+3844384,2022-07-20,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,865,England Women's,863,Spain Women's,2,1,4,The American Express Community Stadium,England,Stéphanie Frappart,France
+3847567,2022-07-31,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,865,England Women's,857,Germany Women's,2,1,6,Wembley Stadium,England,Kateryna Monzul,Ukraine
+3845506,2022-07-26,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,865,England Women's,858,Sweden Women's,4,0,5,Bramall Lane,England,Esther Staubli,Switzerland
+3835335,2022-07-15,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,2457,Northern Ireland,865,England Women's,0,5,3,St. Mary''s Stadium,England,Esther Staubli,Switzerland
+3835323,2022-07-09,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,864,Portugal Women's,860,Switzerland Women's,2,2,1,Leigh Sports Village Stadium,England,Jana Adamkova,Czech Republic
+3835325,2022-07-10,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,861,France Women's,855,Italy Women's,5,1,1,AESSEAL New York Stadium ,England,Rebecca Welch,England
+3835320,2022-07-07,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,852,Norway Women's,2457,Northern Ireland,4,1,1,St. Mary''s Stadium,England,Lina Lehtovaara,Finland
+3845507,2022-07-27,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,857,Germany Women's,861,France Women's,2,1,5,Stadium MK,England,Cheryl Foster,Wales
+3844387,2022-07-23,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,861,France Women's,851,Netherlands Women's,1,0,4,AESSEAL New York Stadium ,England,Ivana Martinčić,Croatia
+3844385,2022-07-21,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,857,Germany Women's,859,Austria Women's,2,0,4,Gtech Community Stadium,England,Rebecca Welch,England
+3844386,2022-07-22,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,858,Sweden Women's,854,Belgium Women's,1,0,4,Leigh Sports Village Stadium,England,Kateryna Monzul,Ukraine
+3835342,2022-07-18,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,862,Iceland Women's,861,France Women's,1,1,3,AESSEAL New York Stadium ,England,Jana Adamkova,Czech Republic
+3835337,2022-07-16,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,853,Denmark Women's,863,Spain Women's,0,1,3,Gtech Community Stadium,England,Rebecca Welch,England
+3835338,2022-07-16,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,920,WNT Finland,857,Germany Women's,0,3,3,Stadium MK,England,Emikar Caldera Barrera,Venezuela (Bolivarian Republic)
+3835330,2022-07-12,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,857,Germany Women's,863,Spain Women's,2,0,2,Gtech Community Stadium,England,Stéphanie Frappart,France
+3835329,2022-07-12,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,853,Denmark Women's,920,WNT Finland,1,0,2,Stadium MK,England,Iuliana Elena Demetrescu,Romania
+3835322,2022-07-08,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,857,Germany Women's,853,Denmark Women's,4,0,1,Gtech Community Stadium,England,Esther Staubli,Switzerland
+3835332,2022-07-13,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,851,Netherlands Women's,864,Portugal Women's,3,2,2,Leigh Sports Village Stadium,England,Ivana Martinčić,Croatia
+3835327,2022-07-11,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,865,England Women's,852,Norway Women's,8,0,2,The American Express Community Stadium,England,Riem Hussein,Germany
+3835326,2022-07-10,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,854,Belgium Women's,862,Iceland Women's,1,1,1,Academy Stadium ,England,Tess Olofsson,Sweden
+3835341,2022-07-18,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,855,Italy Women's,854,Belgium Women's,0,1,3,Academy Stadium ,England,Ivana Martinčić,Croatia
+3835340,2022-07-17,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,858,Sweden Women's,864,Portugal Women's,5,0,3,Leigh Sports Village Stadium,England,Stéphanie Frappart,France
+3835339,2022-07-17,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,860,Switzerland Women's,851,Netherlands Women's,1,4,3,Bramall Lane,England,Iuliana Elena Demetrescu,Romania
+3835336,2022-07-15,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,859,Austria Women's,852,Norway Women's,1,0,3,The American Express Community Stadium,England,Kateryna Monzul,Ukraine
+3835334,2022-07-14,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,855,Italy Women's,862,Iceland Women's,1,1,2,Academy Stadium ,England,Lina Lehtovaara,Finland
+3835328,2022-07-11,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,859,Austria Women's,2457,Northern Ireland,2,0,2,St. Mary''s Stadium,England,Emikar Caldera Barrera,Venezuela (Bolivarian Republic)
+3835333,2022-07-14,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,861,France Women's,854,Belgium Women's,2,1,2,AESSEAL New York Stadium ,England,Cheryl Foster,Wales
+3835321,2022-07-08,18:00:00.000,53,UEFA Women's Euro,Europe,106,2022,863,Spain Women's,920,WNT Finland,4,1,1,Stadium MK,England,Kateryna Monzul,Ukraine
+3835319,2022-07-06,21:00:00.000,53,UEFA Women's Euro,Europe,106,2022,865,England Women's,859,Austria Women's,1,0,1,Old Trafford,England,Marta Huerta de Aza,Spain

@@ -1,0 +1,3 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3889082,1981-04-10,00:00:00.000,81,Liga Profesional,Argentina,275,1981,1328,Boca Juniors,1324,River Plate,3,0,10,Estadio Alberto José Armando,Argentina,Arturo Andrés Ithurralde,Argentina
+3889115,1997-10-25,01:00:00.000,81,Liga Profesional,Argentina,48,1997/1998,1324,River Plate,1328,Boca Juniors,1,2,10,Estadio Mâs Monumental,Argentina,,

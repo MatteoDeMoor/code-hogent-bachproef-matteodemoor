@@ -1,0 +1,419 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3754058,2016-01-02,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,28,AFC Bournemouth,0,0,20,King Power Stadium ,England,Andre Marriner,England
+3754245,2015-10-17,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,41,Sunderland,1,0,9,The Hawthorns,England,Martin Atkinson,England
+3754136,2015-12-19,18:30:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,59,Aston Villa,1,1,17,St. James'' Park,England,Martin Atkinson,England
+3754037,2016-04-30,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,28,AFC Bournemouth,2,1,36,Goodison Park,England,Neil Swarbrick,England
+3754039,2016-02-13,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,23,Watford,1,2,26,Selhurst Park,England,Robert Madley,England
+3754041,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,59,Aston Villa,4,0,38,Emirates Stadium,England,Mark Clattenburg,England
+3754042,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,24,Liverpool,1,1,38,The Hawthorns,England,Robert Madley,England
+3754043,2016-03-20,17:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,28,AFC Bournemouth,3,0,31,White Hart Lane,England,Neil Swarbrick,England
+3754045,2015-12-29,20:45:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,36,Manchester City,0,0,19,King Power Stadium ,England,Craig Pawson,England
+3754048,2016-04-13,21:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,29,Everton,0,0,35,Selhurst Park,England,Mike Jones,England
+3754049,2016-02-27,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,56,Norwich City,1,0,27,King Power Stadium ,England,Neil Swarbrick,England
+3754050,2016-03-01,20:45:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,31,Crystal Palace,2,2,28,Stadium of Light,England,Anthony Taylor,England
+3754052,2016-03-19,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,56,Norwich City,0,1,31,The Hawthorns,England,Anthony Taylor,England
+3754053,2016-03-13,17:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,38,Tottenham Hotspur,0,2,30,Villa Park,England,Anthony Taylor,England
+3754055,2016-05-11,21:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,33,Chelsea,1,1,30,Anfield ,England,Michael Oliver,England
+3754226,2015-12-30,20:45:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,24,Liverpool,0,1,19,Stadium of Light,England,Kevin Friend,England
+3754014,2015-12-26,13:45:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,39,Manchester United,2,0,18,bet365 Stadium,England,Kevin Friend,England
+3754091,2015-10-24,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,23,Watford,0,2,10,bet365 Stadium,England,Martin Atkinson,England
+3754135,2015-12-05,13:45:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,36,Manchester City,2,0,15,bet365 Stadium,England,Martin Atkinson,England
+3754293,2015-11-07,18:30:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,33,Chelsea,1,0,12,bet365 Stadium,England,Anthony Taylor,England
+3754339,2015-09-26,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,28,AFC Bournemouth,2,1,7,bet365 Stadium,England,Lee Mason,England
+3754146,2015-09-19,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,22,Leicester City,2,2,6,bet365 Stadium,England,Andre Marriner,England
+3754347,2015-12-05,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,40,West Ham United,0,0,15,Old Trafford,England,Mark Clattenburg,England
+3754255,2015-12-13,17:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,27,West Bromwich Albion,2,2,16,Anfield ,England,Craig Pawson,England
+3754278,2015-10-03,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,23,Watford,1,1,8,Vitality Stadium,England,Michael Oliver,England
+3753979,2015-11-23,21:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,41,Sunderland,0,1,13,Selhurst Park,England,Martin Atkinson,England
+3753972,2015-11-21,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,28,AFC Bournemouth,2,2,13,Swansea.com Stadium,Wales,Andre Marriner,England
+3753978,2015-09-26,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,26,Swansea City,3,1,7,St. Mary''s Stadium,England,Roger East,England
+3753974,2015-12-26,18:30:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,29,Everton,0,1,18,St. James'' Park,England,Lee Mason,England
+3753993,2015-08-15,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,56,Norwich City,1,3,2,Stadium of Light,England,Kevin Friend,England
+3753983,2015-10-31,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,1,Arsenal,0,3,11,Swansea.com Stadium,Wales,Kevin Friend,England
+3754015,2015-10-25,15:05:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,36,Manchester City,0,0,10,Old Trafford,England,Mark Clattenburg,England
+3754038,2015-11-29,17:15:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,1,Arsenal,1,1,14,Carrow Road,England,Jonathan Moss,England
+3754001,2015-09-26,18:30:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,33,Chelsea,2,2,7,St. James'' Park,England,Martin Atkinson,England
+3754007,2015-08-29,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,27,West Bromwich Albion,0,1,4,bet365 Stadium,England,Michael Oliver,England
+3754008,2015-09-26,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,41,Sunderland,3,0,7,Old Trafford,England,Mike Jones,England
+3754029,2015-11-02,21:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,59,Aston Villa,3,1,11,White Hart Lane,England,Mike Dean,England
+3753995,2015-10-03,18:30:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,25,Southampton,1,3,8,Stamford Bridge,England,Robert Madley,England
+3753999,2015-10-17,18:30:00.000,2,Premier League,England,27,2015/2016,23,Watford,1,Arsenal,0,3,9,Vicarage Road,England,Mike Jones,England
+3754017,2015-10-24,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,26,Swansea City,1,2,10,Villa Park,England,Neil Swarbrick,England
+3754006,2015-10-31,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,22,Leicester City,2,3,11,The Hawthorns,England,Anthony Taylor,England
+3754023,2015-08-29,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,22,Leicester City,1,1,4,Vitality Stadium,England,Neil Swarbrick,England
+3753984,2015-08-29,16:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,40,West Ham United,0,3,4,Anfield ,England,Kevin Friend,England
+3754011,2015-09-20,17:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,39,Manchester United,2,3,6,St. Mary''s Stadium,England,Mark Clattenburg,England
+3754010,2015-09-19,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,23,Watford,1,2,6,St. James'' Park,England,Roger East,England
+3754028,2015-11-28,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,25,Southampton,3,1,14,Etihad Stadium,England,Roger East,England
+3753996,2015-11-21,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,56,Norwich City,1,0,13,Stamford Bridge,England,Craig Pawson,England
+3754025,2015-12-19,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,41,Sunderland,3,1,17,Stamford Bridge,England,Roger East,England
+3754068,2015-09-19,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,27,West Bromwich Albion,0,1,6,Villa Park,England,Martin Atkinson,England
+3754056,2015-12-28,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,30,Stoke City,3,4,19,Goodison Park,England,Mark Clattenburg,England
+3754040,2015-09-20,17:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,56,Norwich City,1,1,6,Anfield ,England,Anthony Taylor,England
+3754074,2015-10-04,17:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,38,Tottenham Hotspur,2,2,8,Swansea.com Stadium,Wales,Mike Dean,England
+3754076,2015-10-03,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,40,West Ham United,2,2,8,Stadium of Light,England,Neil Swarbrick,England
+3754067,2015-10-17,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,40,West Ham United,1,3,9,Selhurst Park,England,Mark Clattenburg,England
+3754079,2015-10-03,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,37,Newcastle United,6,1,8,Etihad Stadium,England,Kevin Friend,England
+3754090,2015-10-31,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,30,Stoke City,0,0,11,St. James'' Park,England,Roger East,England
+3754083,2015-08-29,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,31,Crystal Palace,1,2,4,Stamford Bridge,England,Craig Pawson,England
+3754077,2015-09-19,18:30:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,40,West Ham United,1,2,6,Etihad Stadium,England,Robert Madley,England
+3754060,2015-10-04,14:30:00.000,2,Premier League,England,27,2015/2016,29,Everton,24,Liverpool,1,1,8,Goodison Park,England,Martin Atkinson,England
+3754073,2015-12-05,18:30:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,28,AFC Bournemouth,0,1,15,Stamford Bridge,England,Mike Jones,England
+3754085,2015-12-05,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,22,Leicester City,0,3,15,Swansea.com Stadium,Wales,Michael Oliver,England
+3754047,2015-11-29,17:15:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,26,Swansea City,1,0,14,Anfield ,England,Anthony Taylor,England
+3754051,2015-12-20,14:30:00.000,2,Premier League,England,27,2015/2016,23,Watford,24,Liverpool,3,0,17,Vicarage Road,England,Mark Clattenburg,England
+3754093,2015-11-29,13:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,33,Chelsea,0,0,14,White Hart Lane,England,Michael Oliver,England
+3754046,2015-12-07,21:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,31,Crystal Palace,1,1,15,Goodison Park,England,Craig Pawson,England
+3754072,2015-12-12,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,23,Watford,0,1,16,Stadium of Light,England,Graham Scott,England
+3754082,2015-11-01,14:30:00.000,2,Premier League,England,27,2015/2016,29,Everton,41,Sunderland,6,2,11,Goodison Park,England,Andre Marriner,England
+3754106,2015-09-13,17:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,59,Aston Villa,3,2,5,King Power Stadium ,England,Mike Dean,England
+3754099,2015-10-03,13:45:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,27,West Bromwich Albion,2,0,8,Selhurst Park,England,Jonathan Moss,England
+3754098,2015-10-31,13:45:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,24,Liverpool,1,3,11,Stamford Bridge,England,Mark Clattenburg,England
+3754057,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,56,Norwich City,3,0,18,White Hart Lane,England,Mike Jones,England
+3754112,2015-08-09,14:30:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,25,Southampton,2,2,1,St. James'' Park,England,Craig Pawson,England
+3754117,2015-12-13,14:30:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,1,Arsenal,0,2,16,Villa Park,England,Kevin Friend,England
+3754104,2015-08-22,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,30,Stoke City,1,1,3,Carrow Road,England,Mike Dean,England
+3754054,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,41,Sunderland,4,1,18,Etihad Stadium,England,Anthony Taylor,England
+3754113,2015-12-05,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,59,Aston Villa,1,1,15,St. Mary''s Stadium,England,Anthony Taylor,England
+3754107,2015-08-14,20:45:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,39,Manchester United,0,1,2,Villa Park,England,Mike Dean,England
+3754105,2015-09-28,21:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,29,Everton,2,3,7,The Hawthorns,England,Robert Madley,England
+3754097,2015-08-08,13:45:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,38,Tottenham Hotspur,1,0,1,Old Trafford,England,Jonathan Moss,England
+3754102,2015-10-18,17:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,56,Norwich City,6,2,9,St. James'' Park,England,Anthony Taylor,England
+3754115,2015-10-17,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,59,Aston Villa,2,0,9,Stamford Bridge,England,Roger East,England
+3754148,2015-09-13,14:30:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,38,Tottenham Hotspur,0,1,5,Stadium of Light,England,Craig Pawson,England
+3754169,2015-09-19,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,41,Sunderland,2,0,6,Vitality Stadium,England,Kevin Friend,England
+3754174,2015-09-26,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,1,Arsenal,2,5,7,King Power Stadium ,England,Craig Pawson,England
+3754185,2015-11-21,13:45:00.000,2,Premier League,England,27,2015/2016,23,Watford,39,Manchester United,1,2,13,Vicarage Road,England,Robert Madley,England
+3754162,2015-12-12,18:30:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,39,Manchester United,2,1,16,Vitality Stadium,England,Anthony Taylor,England
+3754096,2015-12-12,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,30,Stoke City,0,0,16,Boleyn Ground,England,Andre Marriner,England
+3754171,2015-10-04,17:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,39,Manchester United,3,0,8,Emirates Stadium,England,Anthony Taylor,England
+3754119,2015-10-25,13:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,37,Newcastle United,3,0,10,Stadium of Light,England,Robert Madley,England
+3754126,2015-10-24,18:30:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,29,Everton,2,1,10,Emirates Stadium,England,Lee Mason,England
+3754133,2015-10-24,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,27,West Bromwich Albion,0,1,10,Carrow Road,England,Kevin Friend,England
+3754167,2015-10-31,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,56,Norwich City,2,1,11,Etihad Stadium,England,Robert Madley,England
+3754145,2015-08-10,21:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,36,Manchester City,0,3,1,The Hawthorns,England,Mike Dean,England
+3754153,2015-12-19,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,31,Crystal Palace,1,2,17,bet365 Stadium,England,Robert Madley,England
+3754143,2015-12-06,17:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,24,Liverpool,2,0,15,St. James'' Park,England,Andre Marriner,England
+3754186,2015-11-28,18:30:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,39,Manchester United,1,1,14,King Power Stadium ,England,Craig Pawson,England
+3754130,2015-12-28,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,59,Aston Villa,2,0,19,Carrow Road,England,Graham Scott,England
+3754188,2015-12-19,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,38,Tottenham Hotspur,0,2,17,St. Mary''s Stadium,England,Kevin Friend,England
+3754178,2015-11-28,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,23,Watford,2,3,14,Villa Park,England,Lee Mason,England
+3754157,2015-11-28,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,29,Everton,3,3,14,Vitality Stadium,England,Kevin Friend,England
+3754166,2015-12-19,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,22,Leicester City,2,3,17,Goodison Park,England,Jonathan Moss,England
+3754211,2015-11-21,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,22,Leicester City,0,3,13,St. James'' Park,England,Mike Jones,England
+3754150,2015-11-28,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,30,Stoke City,2,0,14,Stadium of Light,England,Mike Dean,England
+3754160,2015-12-05,16:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,41,Sunderland,3,1,15,Emirates Stadium,England,Robert Madley,England
+3754218,2015-12-12,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,25,Southampton,1,0,16,Selhurst Park,England,Mike Dean,England
+3754217,2015-09-19,13:45:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,1,Arsenal,2,0,6,Stamford Bridge,England,Mike Dean,England
+3754205,2015-08-29,13:45:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,1,Arsenal,0,1,4,St. James'' Park,England,Andre Marriner,England
+3754221,2015-08-30,17:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,39,Manchester United,2,1,4,Swansea.com Stadium,Wales,Martin Atkinson,England
+3754198,2015-10-17,13:45:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,24,Liverpool,0,0,9,White Hart Lane,England,Craig Pawson,England
+3754193,2015-10-17,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,28,AFC Bournemouth,5,1,9,Etihad Stadium,England,Mike Dean,England
+3754222,2015-09-20,14:30:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,31,Crystal Palace,1,0,6,White Hart Lane,England,Michael Oliver,England
+3754213,2015-09-12,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,26,Swansea City,1,0,5,Vicarage Road,England,Robert Madley,England
+3754212,2015-09-26,16:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,59,Aston Villa,3,2,7,Anfield ,England,Jonathan Moss,England
+3754223,2015-10-31,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,39,Manchester United,0,0,11,Selhurst Park,England,Mike Jones,England
+3754197,2015-09-26,13:45:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,36,Manchester City,4,1,7,White Hart Lane,England,Mark Clattenburg,England
+3754208,2015-11-21,18:30:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,24,Liverpool,1,4,13,Etihad Stadium,England,Jonathan Moss,England
+3754204,2015-08-29,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,41,Sunderland,2,2,4,Villa Park,England,Robert Madley,England
+3754194,2015-11-07,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,29,Everton,1,1,12,Boleyn Ground,England,Paul Tierney,England
+3754219,2015-12-19,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,28,AFC Bournemouth,1,2,17,The Hawthorns,England,Mike Dean,England
+3754254,2015-08-22,13:45:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,37,Newcastle United,0,0,3,Old Trafford,England,Craig Pawson,England
+3754230,2015-10-25,17:15:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,25,Southampton,1,1,10,Anfield ,England,Andre Marriner,England
+3754285,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,40,West Ham United,1,1,18,Villa Park,England,Mike Dean,England
+3754233,2015-08-23,17:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,36,Manchester City,0,2,3,Goodison Park,England,Anthony Taylor,England
+3754270,2015-08-15,16:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,30,Stoke City,2,2,2,White Hart Lane,England,Robert Madley,England
+3754237,2015-08-08,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,41,Sunderland,4,2,1,King Power Stadium ,England,Lee Mason,England
+3754257,2015-09-12,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,36,Manchester City,0,1,5,Selhurst Park,England,Mike Jones,England
+3754266,2015-09-27,17:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,31,Crystal Palace,0,1,7,Vicarage Road,England,Anthony Taylor,England
+3754256,2015-10-17,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,39,Manchester United,0,3,9,Goodison Park,England,Jonathan Moss,England
+3754288,2015-10-24,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,33,Chelsea,2,1,10,Boleyn Ground,England,Jonathan Moss,England
+3754238,2015-11-07,13:45:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,37,Newcastle United,0,1,12,Vitality Stadium,England,Lee Mason,England
+3754269,2015-10-19,21:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,30,Stoke City,0,1,9,Swansea.com Stadium,Wales,Robert Madley,England
+3754234,2015-10-25,15:05:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,38,Tottenham Hotspur,1,5,10,Vitality Stadium,England,Roger East,England
+3754246,2015-08-29,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,23,Watford,2,0,4,Etihad Stadium,England,Mark Clattenburg,England
+3754296,2015-12-21,21:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,36,Manchester City,2,1,17,Emirates Stadium,England,Andre Marriner,England
+3754273,2015-10-31,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,40,West Ham United,2,0,11,Vicarage Road,England,Keith Stroud,England
+3754263,2015-10-24,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,31,Crystal Palace,1,0,10,King Power Stadium ,England,Mike Dean,England
+3754268,2015-08-29,18:30:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,29,Everton,0,0,4,White Hart Lane,England,Mike Jones,England
+3754286,2015-12-05,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,56,Norwich City,2,0,15,Vicarage Road,England,Mike Dean,England
+3754291,2015-12-28,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,38,Tottenham Hotspur,1,2,19,Vicarage Road,England,Anthony Taylor,England
+3754283,2015-11-21,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,59,Aston Villa,4,0,13,Goodison Park,England,Michael Oliver,England
+3754235,2015-11-29,15:05:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,27,West Bromwich Albion,1,1,14,Boleyn Ground,England,Martin Atkinson,England
+3754279,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,27,West Bromwich Albion,1,0,18,Swansea.com Stadium,Wales,Roger East,England
+3754276,2015-12-13,17:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,37,Newcastle United,1,2,16,White Hart Lane,England,Roger East,England
+3754287,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,23,Watford,2,2,18,Stamford Bridge,England,Andre Marriner,England
+3754259,2015-12-20,17:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,40,West Ham United,0,0,17,Swansea.com Stadium,Wales,Lee Mason,England
+3754335,2015-10-03,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,22,Leicester City,1,2,8,Carrow Road,England,Mark Clattenburg,England
+3754298,2015-09-19,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,29,Everton,0,0,6,Swansea.com Stadium,Wales,Stuart Attwell,England
+3754315,2015-09-12,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,28,AFC Bournemouth,3,1,5,Carrow Road,England,Martin Atkinson,England
+3754330,2015-10-03,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,30,Stoke City,0,1,8,Villa Park,England,Mike Jones,England
+3754337,2015-08-30,14:30:00.000,2,Premier League,England,27,2015/2016,25,Southampton,56,Norwich City,3,0,4,St. Mary''s Stadium,England,Jonathan Moss,England
+3754297,2015-11-07,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,27,West Bromwich Albion,2,0,12,Old Trafford,England,Mike Dean,England
+3754301,2015-11-21,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,1,Arsenal,2,1,13,The Hawthorns,England,Mark Clattenburg,England
+3754323,2015-09-26,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,56,Norwich City,2,2,7,Boleyn Ground,England,Mike Dean,England
+3754304,2015-11-28,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,37,Newcastle United,5,1,14,Selhurst Park,England,Stuart Attwell,England
+3754311,2015-11-07,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,26,Swansea City,1,0,12,Carrow Road,England,Mark Clattenburg,England
+3754328,2015-12-12,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,26,Swansea City,2,1,16,Etihad Stadium,England,Robert Madley,England
+3754309,2015-12-26,20:45:00.000,2,Premier League,England,27,2015/2016,25,Southampton,1,Arsenal,4,0,18,St. Mary''s Stadium,England,Jonathan Moss,England
+3754325,2015-09-12,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,25,Southampton,0,0,5,The Hawthorns,England,Stuart Attwell,England
+3754329,2015-09-14,21:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,37,Newcastle United,2,0,5,Boleyn Ground,England,Anthony Taylor,England
+3754302,2015-10-17,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,22,Leicester City,2,2,9,St. Mary''s Stadium,England,Paul Tierney,England
+3754013,2015-12-14,21:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,33,Chelsea,2,1,16,King Power Stadium ,England,Mark Clattenburg,England
+3754044,2015-12-19,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,56,Norwich City,1,2,17,Old Trafford,England,Michael Oliver,England
+3754351,2015-11-08,17:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,31,Crystal Palace,1,2,12,Anfield ,England,Neil Swarbrick,England
+3754343,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,22,Leicester City,1,0,18,Anfield ,England,Martin Atkinson,England
+3754109,2015-11-22,17:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,40,West Ham United,4,1,13,White Hart Lane,England,Anthony Taylor,England
+3754182,2015-12-12,13:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,29,Everton,1,1,16,Carrow Road,England,Martin Atkinson,England
+3754240,2015-09-12,16:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,30,Stoke City,2,0,5,Emirates Stadium,England,Jonathan Moss,England
+3754336,2015-09-12,13:45:00.000,2,Premier League,England,27,2015/2016,29,Everton,33,Chelsea,3,1,5,Goodison Park,England,Andre Marriner,England
+3754247,2015-11-21,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,30,Stoke City,0,1,13,St. Mary''s Stadium,England,Lee Mason,England
+3754156,2015-11-07,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,23,Watford,2,1,12,King Power Stadium ,England,Roger East,England
+3754265,2015-11-08,17:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,38,Tottenham Hotspur,1,1,12,Emirates Stadium,England,Martin Atkinson,England
+3754000,2015-11-07,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,25,Southampton,0,1,12,Stadium of Light,England,Mike Jones,England
+3754003,2015-09-12,18:30:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,24,Liverpool,3,1,5,Old Trafford,England,Michael Oliver,England
+3754344,2015-08-15,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,37,Newcastle United,2,0,2,Swansea.com Stadium,Wales,Mike Jones,England
+3754131,2015-08-22,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,28,AFC Bournemouth,3,4,3,Boleyn Ground,England,Jonathan Moss,England
+3754300,2015-08-08,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,23,Watford,2,2,1,Goodison Park,England,Mike Jones,England
+3754312,2015-08-16,14:30:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,1,Arsenal,1,2,2,Selhurst Park,England,Lee Mason,England
+3754138,2015-08-08,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,31,Crystal Palace,1,3,1,Carrow Road,England,Simon Hooper,England
+3754203,2015-08-15,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,22,Leicester City,1,2,2,Boleyn Ground,England,Anthony Taylor,England
+3754190,2015-08-22,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,59,Aston Villa,2,1,3,Selhurst Park,England,Keith Stroud,England
+3754066,2015-08-16,17:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,33,Chelsea,3,0,2,Etihad Stadium,England,Martin Atkinson,England
+3754034,2015-08-15,13:45:00.000,2,Premier League,England,27,2015/2016,25,Southampton,29,Everton,0,3,2,St. Mary''s Stadium,England,Michael Oliver,England
+3753985,2015-08-09,17:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,24,Liverpool,0,1,1,bet365 Stadium,England,Anthony Taylor,England
+3753987,2015-08-22,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,38,Tottenham Hotspur,1,1,3,King Power Stadium ,England,Martin Atkinson,England
+3754189,2015-08-23,17:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,25,Southampton,0,0,3,Vicarage Road,England,Andre Marriner,England
+3754129,2015-08-24,21:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,24,Liverpool,0,0,3,Emirates Stadium,England,Michael Oliver,England
+3754180,2015-08-22,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,26,Swansea City,1,1,3,Stadium of Light,England,Neil Swarbrick,England
+3754059,2015-08-23,14:30:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,33,Chelsea,2,3,3,The Hawthorns,England,Mark Clattenburg,England
+3754064,2016-03-20,14:30:00.000,2,Premier League,England,27,2015/2016,25,Southampton,24,Liverpool,3,2,31,St. Mary''s Stadium,England,Roger East,England
+3754065,2016-01-13,21:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,22,Leicester City,0,1,21,White Hart Lane,England,Lee Mason,England
+3754173,2015-12-28,18:30:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,28,AFC Bournemouth,2,0,19,Emirates Stadium,England,Roger East,England
+3754175,2016-04-02,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,27,West Bromwich Albion,0,0,32,Stadium of Light,England,Roger East,England
+3753973,2016-03-19,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,40,West Ham United,2,2,31,Stamford Bridge,England,Robert Madley,England
+3753975,2016-01-23,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,28,AFC Bournemouth,1,1,23,Stadium of Light,England,Roger East,England
+3753976,2016-03-02,20:45:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,26,Swansea City,1,2,28,Emirates Stadium,England,Robert Madley,England
+3753977,2016-03-19,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,30,Stoke City,1,2,31,Vicarage Road,England,Craig Pawson,England
+3753980,2016-03-19,13:45:00.000,2,Premier League,England,27,2015/2016,29,Everton,1,Arsenal,0,2,31,Goodison Park,England,Mark Clattenburg,England
+3753981,2016-01-12,20:45:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,31,Crystal Palace,1,0,21,Villa Park,England,Mark Clattenburg,England
+3753982,2016-04-03,14:30:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,25,Southampton,1,0,32,King Power Stadium ,England,Michael Oliver,England
+3753986,2016-04-10,17:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,30,Stoke City,4,1,33,Anfield ,England,Mark Clattenburg,England
+3753988,2016-03-12,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,26,Swansea City,3,2,30,Vitality Stadium,England,Roger East,England
+3753989,2016-05-11,20:45:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,29,Everton,3,0,30,Stadium of Light,England,Anthony Taylor,England
+3753990,2016-04-24,15:05:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,1,Arsenal,0,0,35,Stadium of Light,England,Mike Dean,England
+3753991,2016-03-02,21:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,36,Manchester City,3,0,28,Anfield ,England,Martin Atkinson,England
+3753992,2016-05-08,14:30:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,25,Southampton,1,2,37,White Hart Lane,England,Jonathan Moss,England
+3753994,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,31,Crystal Palace,4,1,38,St. Mary''s Stadium,England,Michael Oliver,England
+3753997,2016-02-02,20:45:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,59,Aston Villa,2,0,24,Boleyn Ground,England,Jonathan Moss,England
+3753998,2015-12-28,18:30:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,25,Southampton,2,1,19,Boleyn Ground,England,Michael Oliver,England
+3754002,2016-03-14,21:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,37,Newcastle United,1,0,30,King Power Stadium ,England,Craig Pawson,England
+3754004,2016-01-16,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,56,Norwich City,3,0,22,Vitality Stadium,England,Robert Madley,England
+3754005,2016-03-02,20:45:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,37,Newcastle United,1,0,28,bet365 Stadium,England,Neil Swarbrick,England
+3754009,2016-04-17,17:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,31,Crystal Palace,1,1,34,Emirates Stadium,England,Roger East,England
+3754012,2016-02-27,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,33,Chelsea,1,2,27,St. Mary''s Stadium,England,Martin Atkinson,England
+3754016,2016-04-09,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,37,Newcastle United,3,1,33,St. Mary''s Stadium,England,Robert Madley,England
+3754018,2016-05-01,13:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,24,Liverpool,3,1,36,Swansea.com Stadium,Wales,Roger East,England
+3754019,2015-12-28,18:30:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,33,Chelsea,0,0,19,Old Trafford,England,Martin Atkinson,England
+3754021,2016-01-12,20:45:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,40,West Ham United,1,3,21,Vitality Stadium,England,Martin Atkinson,England
+3754022,2016-04-09,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,56,Norwich City,1,0,33,Selhurst Park,England,Michael Oliver,England
+3754024,2016-04-16,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,26,Swansea City,3,0,34,St. James'' Park,England,Lee Mason,England
+3754026,2016-05-07,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,30,Stoke City,2,1,37,Selhurst Park,England,Kevin Friend,England
+3754027,2016-01-16,13:45:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,41,Sunderland,4,1,22,White Hart Lane,England,Mike Dean,England
+3754030,2016-04-09,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,29,Everton,1,1,33,Vicarage Road,England,Kevin Friend,England
+3754031,2016-02-13,13:45:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,39,Manchester United,2,1,26,Stadium of Light,England,Andre Marriner,England
+3754032,2016-01-13,20:45:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,56,Norwich City,3,1,21,bet365 Stadium,England,Neil Swarbrick,England
+3754033,2016-05-07,18:30:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,29,Everton,3,1,37,King Power Stadium ,England,Andre Marriner,England
+3754035,2016-04-09,18:30:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,27,West Bromwich Albion,2,1,33,Etihad Stadium,England,Mike Jones,England
+3754036,2016-01-02,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,59,Aston Villa,3,1,20,Stadium of Light,England,Craig Pawson,England
+3754061,2016-03-05,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,30,Stoke City,1,1,29,Stamford Bridge,England,Mark Clattenburg,England
+3754062,2016-01-13,20:45:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,27,West Bromwich Albion,2,2,21,Stamford Bridge,England,Anthony Taylor,England
+3754063,2016-04-30,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,59,Aston Villa,3,2,36,Vicarage Road,England,Anthony Taylor,England
+3754069,2016-01-02,16:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,37,Newcastle United,1,0,20,Emirates Stadium,England,Anthony Taylor,England
+3754070,2016-05-07,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,37,Newcastle United,0,0,37,Villa Park,England,Robert Madley,England
+3754071,2016-01-13,20:45:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,41,Sunderland,2,4,21,Swansea.com Stadium,Wales,Graham Scott,England
+3754075,2016-04-02,13:45:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,33,Chelsea,0,4,32,Villa Park,England,Neil Swarbrick,England
+3754080,2016-02-06,16:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,23,Watford,1,0,25,White Hart Lane,England,Roger East,England
+3754081,2016-03-06,17:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,39,Manchester United,1,0,29,The Hawthorns,England,Mike Dean,England
+3754084,2016-01-23,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,59,Aston Villa,0,0,23,The Hawthorns,England,Robert Madley,England
+3754086,2016-04-20,20:45:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,23,Watford,3,1,30,Boleyn Ground,England,Mike Dean,England
+3754087,2016-04-02,18:30:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,38,Tottenham Hotspur,1,1,32,Anfield ,England,Jonathan Moss,England
+3754088,2016-01-12,20:45:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,39,Manchester United,3,3,21,St. James'' Park,England,Mike Dean,England
+3754089,2016-02-02,21:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,28,AFC Bournemouth,1,2,24,Selhurst Park,England,Mike Jones,England
+3754092,2016-05-02,21:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,38,Tottenham Hotspur,2,2,36,Stamford Bridge,England,Mark Clattenburg,England
+3754094,2016-02-02,21:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,30,Stoke City,3,0,24,Old Trafford,England,Roger East,England
+3754095,2016-02-02,20:45:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,36,Manchester City,0,1,24,Stadium of Light,England,Stuart Attwell,England
+3754100,2016-03-20,14:30:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,41,Sunderland,1,1,31,St. James'' Park,England,Martin Atkinson,England
+3754101,2016-01-02,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,25,Southampton,1,0,20,Carrow Road,England,Mark Clattenburg,England
+3754103,2016-02-03,20:45:00.000,2,Premier League,England,27,2015/2016,23,Watford,33,Chelsea,0,0,24,Vicarage Road,England,Mike Dean,England
+3754108,2016-05-07,16:00:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,33,Chelsea,3,2,37,Stadium of Light,England,Mike Jones,England
+3754110,2016-01-23,18:30:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,36,Manchester City,2,2,23,Boleyn Ground,England,Craig Pawson,England
+3754111,2016-01-24,17:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,33,Chelsea,0,1,23,Emirates Stadium,England,Mark Clattenburg,England
+3754114,2016-01-03,14:30:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,33,Chelsea,0,3,20,Selhurst Park,England,Kevin Friend,England
+3754116,2016-04-09,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,33,Chelsea,1,0,33,Swansea.com Stadium,Wales,Andre Marriner,England
+3754118,2016-04-02,16:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,23,Watford,4,0,32,Emirates Stadium,England,Anthony Taylor,England
+3754120,2016-02-06,18:30:00.000,2,Premier League,England,27,2015/2016,25,Southampton,40,West Ham United,1,0,25,St. Mary''s Stadium,England,Mark Clattenburg,England
+3754121,2016-02-27,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,28,AFC Bournemouth,0,0,27,Vicarage Road,England,Anthony Taylor,England
+3754122,2016-01-02,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,30,Stoke City,2,1,20,The Hawthorns,England,Lee Mason,England
+3754123,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,56,Norwich City,3,0,38,Goodison Park,England,Lee Mason,England
+3754124,2016-03-20,17:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,39,Manchester United,0,1,31,Etihad Stadium,England,Michael Oliver,England
+3754125,2016-01-16,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,29,Everton,3,3,22,Stamford Bridge,England,Mike Jones,England
+3754127,2016-02-06,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,29,Everton,0,3,25,bet365 Stadium,England,Andre Marriner,England
+3754132,2016-04-30,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,41,Sunderland,1,1,36,bet365 Stadium,England,Craig Pawson,England
+3754134,2016-05-10,21:30:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,39,Manchester United,3,2,35,Boleyn Ground,England,Mike Dean,England
+3754137,2016-04-16,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,25,Southampton,1,1,34,Goodison Park,England,Craig Pawson,England
+3754139,2016-02-13,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,25,Southampton,0,1,26,Swansea.com Stadium,Wales,Jonathan Moss,England
+3754140,2016-01-03,17:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,38,Tottenham Hotspur,1,1,20,Goodison Park,England,Michael Oliver,England
+3754142,2016-01-13,20:45:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,29,Everton,0,0,21,Etihad Stadium,England,Roger East,England
+3754144,2016-04-02,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,36,Manchester City,0,4,32,Vitality Stadium,England,Robert Madley,England
+3754147,2016-02-14,17:15:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,38,Tottenham Hotspur,1,2,26,Etihad Stadium,England,Mark Clattenburg,England
+3754149,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,36,Manchester City,1,1,38,Swansea.com Stadium,Wales,Mike Dean,England
+3754151,2016-03-05,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,56,Norwich City,1,0,29,Swansea.com Stadium,Wales,Craig Pawson,England
+3754152,2016-04-10,14:30:00.000,2,Premier League,England,27,2015/2016,41,Sunderland,22,Leicester City,0,2,33,Stadium of Light,England,Anthony Taylor,England
+3754154,2016-04-23,16:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,37,Newcastle United,2,2,35,Anfield ,England,Andre Marriner,England
+3754155,2016-04-16,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,23,Watford,0,1,34,The Hawthorns,England,Michael Oliver,England
+3754158,2016-05-07,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,26,Swansea City,1,4,37,Boleyn Ground,England,Michael Oliver,England
+3754159,2016-05-17,21:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,28,AFC Bournemouth,3,1,38,Old Trafford,England,Jonathan Moss,England
+3754161,2016-01-18,21:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,23,Watford,1,0,22,Swansea.com Stadium,Wales,Michael Oliver,England
+3754163,2016-01-24,14:30:00.000,2,Premier League,England,27,2015/2016,29,Everton,26,Swansea City,1,2,23,Goodison Park,England,Anthony Taylor,England
+3754164,2016-03-05,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,41,Sunderland,1,1,29,St. Mary''s Stadium,England,Neil Swarbrick,England
+3754165,2016-05-01,15:05:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,22,Leicester City,1,1,36,Old Trafford,England,Michael Oliver,England
+3754168,2016-01-16,16:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,27,West Bromwich Albion,3,0,22,St. Mary''s Stadium,England,Martin Atkinson,England
+3754170,2016-04-30,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,31,Crystal Palace,1,0,36,St. James'' Park,England,Mike Dean,England
+3754172,2016-04-16,13:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,41,Sunderland,0,3,34,Carrow Road,England,Andre Marriner,England
+3754176,2016-04-02,16:00:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,31,Crystal Palace,2,2,32,Boleyn Ground,England,Mark Clattenburg,England
+3754177,2016-03-05,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,28,AFC Bournemouth,1,3,29,St. James'' Park,England,Paul Tierney,England
+3754179,2016-01-23,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,38,Tottenham Hotspur,1,3,23,Selhurst Park,England,Martin Atkinson,England
+3754181,2016-03-19,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,22,Leicester City,0,1,31,Selhurst Park,England,Mike Jones,England
+3754183,2016-01-13,20:45:00.000,2,Premier League,England,27,2015/2016,25,Southampton,23,Watford,2,0,21,St. Mary''s Stadium,England,Craig Pawson,England
+3754184,2016-04-30,18:30:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,56,Norwich City,1,0,36,Emirates Stadium,England,Mike Jones,England
+3754187,2016-04-18,21:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,38,Tottenham Hotspur,0,4,34,bet365 Stadium,England,Neil Swarbrick,England
+3754191,2015-11-01,17:00:00.000,2,Premier League,England,27,2015/2016,25,Southampton,28,AFC Bournemouth,2,0,11,St. Mary''s Stadium,England,Craig Pawson,England
+3754192,2016-04-30,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,40,West Ham United,0,3,36,The Hawthorns,England,Lee Mason,England
+3754195,2015-12-28,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,37,Newcastle United,1,0,19,The Hawthorns,England,Mike Jones,England
+3754196,2016-03-12,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,25,Southampton,1,2,30,bet365 Stadium,England,Lee Mason,England
+3754199,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,40,West Ham United,2,1,38,bet365 Stadium,England,Mike Jones,England
+3754200,2016-01-23,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,25,Southampton,0,1,23,Old Trafford,England,Mike Jones,England
+3754201,2016-02-02,20:45:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,25,Southampton,0,0,24,Emirates Stadium,England,Lee Mason,England
+3754202,2016-01-17,17:15:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,1,Arsenal,0,0,22,bet365 Stadium,England,Craig Pawson,England
+3754206,2016-04-19,20:45:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,36,Manchester City,1,1,27,St. James'' Park,England,Kevin Friend,England
+3754207,2016-05-11,20:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,23,Watford,4,2,35,Carrow Road,England,Roger East,England
+3754209,2016-04-10,17:30:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,39,Manchester United,3,0,33,White Hart Lane,England,Mike Dean,England
+3754210,2016-05-07,13:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,39,Manchester United,0,1,37,Carrow Road,England,Craig Pawson,England
+3754214,2016-02-14,15:05:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,24,Liverpool,0,6,26,Villa Park,England,Neil Swarbrick,England
+3754215,2015-12-05,16:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,38,Tottenham Hotspur,1,1,15,The Hawthorns,England,Jonathan Moss,England
+3754216,2016-04-17,14:30:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,24,Liverpool,1,2,34,Vitality Stadium,England,Mike Jones,England
+3754220,2016-03-06,14:30:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,24,Liverpool,1,2,29,Selhurst Park,England,Andre Marriner,England
+3754224,2016-03-19,18:30:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,59,Aston Villa,1,0,31,Swansea.com Stadium,Wales,Mike Dean,England
+3754225,2016-05-07,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,27,West Bromwich Albion,1,1,37,Vitality Stadium,England,Mark Clattenburg,England
+3754227,2016-04-17,14:30:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,40,West Ham United,2,2,34,King Power Stadium ,England,Jonathan Moss,England
+3754228,2016-04-24,17:15:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,26,Swansea City,4,0,35,King Power Stadium ,England,Mark Clattenburg,England
+3754229,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,22,Leicester City,1,1,38,Stamford Bridge,England,Craig Pawson,England
+3754231,2016-03-01,20:45:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,27,West Bromwich Albion,2,2,28,King Power Stadium ,England,Mark Clattenburg,England
+3754232,2016-03-02,21:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,23,Watford,1,0,28,Old Trafford,England,Mike Jones,England
+3754236,2016-02-27,18:30:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,31,Crystal Palace,3,2,27,The Hawthorns,England,Jonathan Moss,England
+3754239,2016-02-28,15:05:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,1,Arsenal,3,2,27,Old Trafford,England,Craig Pawson,England
+3754241,2016-04-09,13:45:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,1,Arsenal,3,3,33,Boleyn Ground,England,Craig Pawson,England
+3754242,2016-04-23,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,33,Chelsea,1,4,35,Vitality Stadium,England,Roger East,England
+3754243,2016-04-02,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,37,Newcastle United,3,2,32,Carrow Road,England,Mike Dean,England
+3754244,2016-02-13,16:00:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,40,West Ham United,2,2,26,Carrow Road,England,Mike Jones,England
+3754249,2016-03-05,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,59,Aston Villa,4,0,29,Etihad Stadium,England,Lee Mason,England
+3754250,2016-01-16,18:30:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,22,Leicester City,1,1,22,Villa Park,England,Roger East,England
+3754251,2016-01-02,13:45:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,24,Liverpool,2,0,20,Boleyn Ground,England,Robert Madley,England
+3754252,2016-02-03,20:45:00.000,2,Premier League,England,27,2015/2016,29,Everton,37,Newcastle United,3,0,24,Goodison Park,England,Craig Pawson,England
+3754253,2016-02-07,14:30:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,1,Arsenal,0,2,25,Vitality Stadium,England,Kevin Friend,England
+3754260,2016-01-16,16:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,31,Crystal Palace,4,0,22,Etihad Stadium,England,Jonathan Moss,England
+3754261,2016-02-14,13:00:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,22,Leicester City,2,1,26,Emirates Stadium,England,Martin Atkinson,England
+3754262,2016-04-09,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,28,AFC Bournemouth,1,2,33,Villa Park,England,Martin Atkinson,England
+3754264,2016-02-13,18:30:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,37,Newcastle United,5,1,26,Stamford Bridge,England,Roger East,England
+3754295,2016-04-16,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,59,Aston Villa,1,0,34,Old Trafford,England,Kevin Friend,England
+3754271,2016-01-23,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,37,Newcastle United,2,1,23,Vicarage Road,England,Andre Marriner,England
+3754272,2016-04-02,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,26,Swansea City,2,2,32,bet365 Stadium,England,Martin Atkinson,England
+3754274,2016-02-13,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,30,Stoke City,1,3,26,Vitality Stadium,England,Graham Scott,England
+3754275,2016-02-02,20:45:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,24,Liverpool,2,0,24,King Power Stadium ,England,Andre Marriner,England
+3754277,2016-03-05,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,40,West Ham United,2,3,29,Goodison Park,England,Anthony Taylor,England
+3754280,2016-03-01,20:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,33,Chelsea,1,2,28,Carrow Road,England,Lee Mason,England
+3754281,2016-02-07,17:00:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,39,Manchester United,1,1,25,Stamford Bridge,England,Michael Oliver,England
+3754282,2016-04-23,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,25,Southampton,2,4,35,Villa Park,England,Neil Swarbrick,England
+3754284,2016-04-21,20:45:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,27,West Bromwich Albion,2,0,30,Emirates Stadium,England,Jonathan Moss,England
+3754289,2016-03-05,18:30:00.000,2,Premier League,England,27,2015/2016,23,Watford,22,Leicester City,0,1,29,Vicarage Road,England,Jonathan Moss,England
+3754290,2016-02-06,13:45:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,22,Leicester City,1,3,25,Etihad Stadium,England,Anthony Taylor,England
+3754292,2016-02-06,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,27,West Bromwich Albion,1,0,25,St. James'' Park,England,Lee Mason,England
+3754294,2016-04-20,21:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,29,Everton,4,0,27,Anfield ,England,Robert Madley,England
+3754248,2015-12-26,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,31,Crystal Palace,0,0,18,Vitality Stadium,England,Michael Oliver,England
+3754299,2016-04-03,17:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,29,Everton,1,0,32,Old Trafford,England,Andre Marriner,England
+3754303,2016-02-06,16:00:00.000,2,Premier League,England,27,2015/2016,26,Swansea City,31,Crystal Palace,1,1,25,Swansea.com Stadium,Wales,Mike Dean,England
+3754305,2016-01-13,21:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,1,Arsenal,3,3,21,Anfield ,England,Mike Jones,England
+3754306,2016-02-06,16:00:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,56,Norwich City,2,0,25,Villa Park,England,Martin Atkinson,England
+3754307,2016-04-23,13:45:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,30,Stoke City,4,0,35,Etihad Stadium,England,Robert Madley,England
+3754308,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,41,Sunderland,2,2,38,Vicarage Road,England,Kevin Friend,England
+3754310,2016-04-20,21:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,31,Crystal Palace,2,0,30,Old Trafford,England,Lee Mason,England
+3754313,2016-03-12,13:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,36,Manchester City,0,0,30,Carrow Road,England,Jonathan Moss,England
+3754314,2016-05-08,17:00:00.000,2,Premier League,England,27,2015/2016,36,Manchester City,1,Arsenal,2,2,37,Etihad Stadium,England,Anthony Taylor,England
+3754316,2016-02-06,16:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,41,Sunderland,2,2,25,Anfield ,England,Robert Madley,England
+3754317,2016-02-02,20:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,38,Tottenham Hotspur,0,3,24,Carrow Road,England,Kevin Friend,England
+3754318,2016-03-05,13:45:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,1,Arsenal,2,2,29,White Hart Lane,England,Michael Oliver,England
+3754319,2016-01-02,16:00:00.000,2,Premier League,England,27,2015/2016,39,Manchester United,26,Swansea City,2,1,20,Old Trafford,England,Jonathan Moss,England
+3754320,2016-05-01,17:30:00.000,2,Premier League,England,27,2015/2016,25,Southampton,36,Manchester City,4,2,36,St. Mary''s Stadium,England,Andre Marriner,England
+3754321,2016-02-27,16:00:00.000,2,Premier League,England,27,2015/2016,30,Stoke City,59,Aston Villa,2,1,27,bet365 Stadium,England,Kevin Friend,England
+3754322,2016-04-16,18:30:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,36,Manchester City,0,3,34,Stamford Bridge,England,Mike Dean,England
+3754324,2016-02-28,15:05:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,26,Swansea City,2,1,27,White Hart Lane,England,Mike Jones,England
+3754326,2015-12-28,16:00:00.000,2,Premier League,England,27,2015/2016,31,Crystal Palace,26,Swansea City,0,0,19,Selhurst Park,England,Neil Swarbrick,England
+3754327,2016-03-01,20:45:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,29,Everton,1,3,28,Villa Park,England,Roger East,England
+3754331,2016-02-27,13:45:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,41,Sunderland,1,0,27,Boleyn Ground,England,Mike Dean,England
+3754332,2016-04-25,21:00:00.000,2,Premier League,England,27,2015/2016,38,Tottenham Hotspur,27,West Bromwich Albion,1,1,35,White Hart Lane,England,Mike Jones,England
+3754333,2016-05-15,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,38,Tottenham Hotspur,5,1,38,St. James'' Park,England,Anthony Taylor,England
+3754334,2016-03-01,20:45:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,25,Southampton,2,0,28,Vitality Stadium,England,Mike Dean,England
+3754338,2016-01-16,16:00:00.000,2,Premier League,England,27,2015/2016,37,Newcastle United,40,West Ham United,2,1,22,St. James'' Park,England,Neil Swarbrick,England
+3754340,2016-02-02,21:00:00.000,2,Premier League,England,27,2015/2016,27,West Bromwich Albion,26,Swansea City,1,1,24,The Hawthorns,England,Neil Swarbrick,England
+3754341,2016-01-23,16:00:00.000,2,Premier League,England,27,2015/2016,22,Leicester City,30,Stoke City,3,0,23,King Power Stadium ,England,Mike Dean,England
+3754342,2016-05-08,17:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,23,Watford,2,0,37,Anfield ,England,Lee Mason,England
+3754345,2016-01-17,15:05:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,39,Manchester United,0,1,22,Anfield ,England,Mark Clattenburg,England
+3754346,2016-01-02,18:30:00.000,2,Premier League,England,27,2015/2016,23,Watford,36,Manchester City,1,2,20,Vicarage Road,England,Martin Atkinson,England
+3754348,2016-01-23,13:45:00.000,2,Premier League,England,27,2015/2016,56,Norwich City,24,Liverpool,4,5,23,Carrow Road,England,Lee Mason,England
+3754349,2016-03-02,20:45:00.000,2,Premier League,England,27,2015/2016,40,West Ham United,38,Tottenham Hotspur,1,0,28,Boleyn Ground,England,Andre Marriner,England
+3754350,2016-02-13,16:00:00.000,2,Premier League,England,27,2015/2016,29,Everton,27,West Bromwich Albion,0,1,26,Goodison Park,England,Michael Oliver,England
+3754258,2015-11-08,14:30:00.000,2,Premier League,England,27,2015/2016,59,Aston Villa,36,Manchester City,0,0,12,Villa Park,England,Craig Pawson,England
+3754020,2015-08-17,21:00:00.000,2,Premier League,England,27,2015/2016,24,Liverpool,28,AFC Bournemouth,1,0,2,Anfield ,England,Craig Pawson,England
+3754267,2015-08-15,16:00:00.000,2,Premier League,England,27,2015/2016,23,Watford,27,West Bromwich Albion,0,0,2,Vicarage Road,England,Paul Tierney,England
+3754141,2015-08-09,14:30:00.000,2,Premier League,England,27,2015/2016,1,Arsenal,40,West Ham United,0,2,1,Emirates Stadium,England,Martin Atkinson,England
+3754128,2015-08-08,16:00:00.000,2,Premier League,England,27,2015/2016,28,AFC Bournemouth,59,Aston Villa,0,1,1,Vitality Stadium,England,Mark Clattenburg,England
+3754078,2015-08-08,18:30:00.000,2,Premier League,England,27,2015/2016,33,Chelsea,26,Swansea City,2,2,1,Stamford Bridge,England,Michael Oliver,England
+3749052,2004-02-07,16:00:00.000,2,Premier League,England,44,2003/2004,46,Wolverhampton Wanderers,1,Arsenal,1,3,2,Molineux Stadium,England,,
+3749522,2003-12-26,13:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,46,Wolverhampton Wanderers,3,0,18,Highbury Stadium,England,,
+3749246,2004-03-28,17:05:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,39,Manchester United,1,1,30,Highbury Stadium,England,,
+3749257,2004-05-15,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,22,Leicester City,2,1,38,Highbury Stadium,England,,
+3749642,2004-02-28,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,75,Charlton Athletic,2,1,27,Highbury Stadium,England,,
+3749358,2003-08-24,17:05:00.000,2,Premier League,England,44,2003/2004,47,Middlesbrough,1,Arsenal,0,4,1,Riverside Stadium ,England,,
+3749346,2003-11-01,16:00:00.000,2,Premier League,England,44,2003/2004,101,Leeds United,1,Arsenal,1,4,1,Elland Road ,England,,
+3749253,2003-10-04,13:30:00.000,2,Premier League,England,44,2003/2004,24,Liverpool,1,Arsenal,1,2,1,Anfield ,England,,
+3749079,2003-10-18,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,33,Chelsea,2,1,9,Highbury Stadium,England,,
+3749465,2004-03-13,16:00:00.000,2,Premier League,England,44,2003/2004,98,Blackburn Rovers,1,Arsenal,0,2,2,Ewood Park ,England,,
+3749133,2004-01-18,15:00:00.000,2,Premier League,England,44,2003/2004,59,Aston Villa,1,Arsenal,0,2,2,Villa Park,England,,
+3749528,2003-09-26,21:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,37,Newcastle United,3,2,7,Highbury Stadium,England,,
+3749233,2004-02-01,17:05:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,36,Manchester City,2,1,23,Highbury Stadium,England,,
+3749462,2004-05-01,13:30:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,54,Birmingham City,0,0,35,Highbury Stadium,England,,
+3749552,2003-09-21,17:05:00.000,2,Premier League,England,44,2003/2004,39,Manchester United,1,Arsenal,0,0,1,Old Trafford,England,,
+3749296,2003-09-13,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,105,Portsmouth,1,1,5,Highbury Stadium,England,,
+3749454,2003-08-31,17:05:00.000,2,Premier League,England,44,2003/2004,36,Manchester City,1,Arsenal,1,2,1,Etihad Stadium,England,,
+3749276,2004-02-21,13:30:00.000,2,Premier League,England,44,2003/2004,33,Chelsea,1,Arsenal,1,2,2,Stamford Bridge,England,,
+3749068,2004-04-25,17:05:00.000,2,Premier League,England,44,2003/2004,38,Tottenham Hotspur,1,Arsenal,2,2,2,White Hart Lane,England,,
+3749310,2003-12-29,21:00:00.000,2,Premier League,England,44,2003/2004,25,Southampton,1,Arsenal,0,1,1,St. Mary''s Stadium,England,,
+3749493,2003-08-16,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,29,Everton,2,1,1,Highbury Stadium,England,,
+3749434,2003-11-22,16:00:00.000,2,Premier League,England,44,2003/2004,54,Birmingham City,1,Arsenal,0,3,1,St. Andrews Stadium,England,,
+3749192,2003-11-30,15:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,55,Fulham,0,0,14,Highbury Stadium,England,,
+3749196,2003-11-08,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,38,Tottenham Hotspur,2,1,12,Highbury Stadium,England,,
+3749448,2004-04-09,13:30:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,24,Liverpool,4,2,31,Highbury Stadium,England,,
+3749360,2003-12-14,15:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,98,Blackburn Rovers,1,0,16,Highbury Stadium,England,,
+3749453,2004-04-16,21:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,101,Leeds United,5,0,33,Highbury Stadium,England,,
+3749278,2003-12-20,16:00:00.000,2,Premier League,England,44,2003/2004,328,Bolton Wanderers,1,Arsenal,1,1,1,University of Bolton Stadium,England,,
+3749603,2004-05-09,17:05:00.000,2,Premier League,England,44,2003/2004,55,Fulham,1,Arsenal,0,1,2,Loftus Road,England,,
+3749274,2004-05-04,21:00:00.000,2,Premier League,England,44,2003/2004,105,Portsmouth,1,Arsenal,1,1,2,,,Michael Riley,England
+3749590,2003-12-06,16:00:00.000,2,Premier League,England,44,2003/2004,22,Leicester City,1,Arsenal,1,1,1,,,Robert Styles,England
+3749631,2004-02-10,20:45:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,25,Southampton,2,0,25,,,Neale Barry,England
+3749117,2004-01-07,21:00:00.000,2,Premier League,England,44,2003/2004,29,Everton,1,Arsenal,1,1,2,,,Alan Wiley,England
+3749108,2003-08-27,20:45:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,59,Aston Villa,2,0,3,,,,
+3749153,2004-01-10,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,47,Middlesbrough,4,1,21,Highbury Stadium,England,,
+3749403,2004-03-20,16:00:00.000,2,Premier League,England,44,2003/2004,1,Arsenal,328,Bolton Wanderers,2,1,29,Highbury Stadium,England,,
+3749526,2003-10-26,15:00:00.000,2,Premier League,England,44,2003/2004,75,Charlton Athletic,1,Arsenal,1,1,1,The Valley,England,,
+3749431,2004-04-11,17:05:00.000,2,Premier League,England,44,2003/2004,37,Newcastle United,1,Arsenal,0,0,2,St. James'' Park,England,,

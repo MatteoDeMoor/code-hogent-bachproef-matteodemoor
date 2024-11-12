@@ -1,0 +1,382 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3879863,2016-05-08,15:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,230,Udinese,1,1,37,Gewiss Stadium,Italy,Nicola Rizzoli,Italy
+3879773,2016-03-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,230,Udinese,2,0,28,Stadio Comunale Matusa,Italy,Nicola Rizzoli,Italy
+3879847,2016-04-30,18:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,241,Torino,1,5,36,Dacia Arena,Italy,Maurizio Mariani,Italy
+3879862,2016-05-08,20:45:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,227,Napoli,1,2,37,Stadio Olimpico Grande Torino,Italy,Antonio Damato,Italy
+3879817,2016-04-16,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,227,Napoli,2,0,33,Stadio Giuseppe Meazza    ,Italy,Gianluca Rocchi,Italy
+3879825,2016-04-17,18:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,290,Empoli,2,0,33,Estadio Olímpico,Italy,Angelo Cervellera,Italy
+3879750,2016-02-21,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,239,Fiorentina,2,3,26,Gewiss Stadium,Italy,Domenico Celi,Italy
+3879567,2015-10-17,18:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,290,Empoli,3,1,8,Estadio Olímpico,Italy,Piero Giacomelli,Italy
+3879785,2016-03-13,21:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,228,Atalanta,2,0,29,Estadio Olímpico,Italy,Marco Guida,Italy
+3879705,2016-01-24,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,240,Bologna,0,2,21,MAPEI Stadium - Città del Tricolore,Italy,Angelo Cervellera,Italy
+3879628,2015-11-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,234,Sampdoria,4,1,14,Stadio Giuseppe Meazza    ,Italy,Daniele Doveri,Italy
+3879665,2015-12-20,19:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,243,AC Milan,2,4,17,Stadio Comunale Matusa,Italy,Luca Banti,Italy
+3879699,2016-01-24,16:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,227,Napoli,2,4,21,Stadio Comunale Luigi Ferraris,Italy,Daniele Orsato,Italy
+3879703,2016-01-24,16:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,231,Chievo,4,1,21,Estadio Olímpico,Italy,Gianpaolo Calvarese	,Italy
+3879609,2015-11-08,19:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,230,Udinese,1,0,12,Stadio Diego Armando Maradona,Italy,Domenico Celi,Italy
+3879653,2015-12-13,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,239,Fiorentina,3,1,16,Allianz Stadium    	,Italy,Daniele Orsato,Italy
+3879632,2015-11-29,16:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,228,Atalanta,0,2,14,Estadio Olímpico,Italy,Gianpaolo Calvarese	,Italy
+3879663,2015-12-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,232,Sassuolo,1,1,17,Stadio Marc''Antonio Bentegodi,Italy,Marco Guida,Italy
+3879645,2015-12-06,13:30:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,227,Napoli,3,2,15,Stadio Renato Dall''Ara,Italy,Paolo Silvio Mazzoleni,Italy
+3879579,2015-10-24,20:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,238,Inter Milan,1,1,9,Stadio Renzo Barbera,Italy,Daniele Doveri,Italy
+3879566,2015-10-04,15:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,233,Genoa,1,1,7,Dacia Arena,Italy,Angelo Cervellera,Italy
+3879587,2015-10-27,21:45:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,238,Inter Milan,0,1,10,Stadio Renato Dall''Ara,Italy,Luca Banti,Italy
+3879556,2015-09-28,19:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,290,Empoli,2,0,6,Stadio Comunale Matusa,Italy,Marco Guida,Italy
+3879585,2015-10-25,15:00:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,232,Sassuolo,2,1,9,Stadio Giuseppe Meazza    ,Italy,Gianluca Rocchi,Italy
+3879582,2015-10-25,18:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,241,Torino,3,0,9,Estadio Olímpico,Italy,Paolo Silvio Mazzoleni,Italy
+3879564,2015-10-04,15:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,229,AS Roma,2,4,7,Stadio Renzo Barbera,Italy,Antonio Damato,Italy
+3879562,2015-10-04,20:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,227,Napoli,0,4,7,Stadio Giuseppe Meazza    ,Italy,Nicola Rizzoli,Italy
+3879837,2016-04-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,230,Udinese,3,1,35,Stadio Giuseppe Meazza    ,Italy,Domenico Celi,Italy
+3879838,2016-04-24,15:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,236,Lazio,2,1,35,Stadio Comunale Luigi Ferraris,Italy,Nicola Rizzoli,Italy
+3879839,2016-04-24,20:45:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,224,Juventus,1,2,35,Stadio Artemio Franchi    	,Italy,Paolo Tagliavento,Italy
+3879840,2016-04-24,15:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,233,Genoa,2,0,35,Stadio Renato Dall''Ara,Italy,Antonio Damato,Italy
+3879836,2016-04-21,20:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,1683,Carpi,0,0,34,Stadio Giuseppe Meazza    ,Italy,Marco Guida,Italy
+3879833,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,236,Lazio,3,0,34,Allianz Stadium    	,Italy,Paolo Silvio Mazzoleni,Italy
+3879828,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,241,Torino,3,2,34,Estadio Olímpico,Italy,Gianpaolo Calvarese	,Italy
+3879832,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,228,Atalanta,2,2,34,Stadio Renzo Barbera,Italy,Daniele Doveri,Italy
+3879830,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,238,Inter Milan,1,0,34,Stadio Comunale Luigi Ferraris,Italy,Massimiliano Irrati,Italy
+3879792,2016-03-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,231,Chievo,0,1,30,Stadio Comunale Luigi Ferraris,Italy,Luca Pairetto,Italy
+3879795,2016-03-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,1683,Carpi,1,2,30,Stadio Marc''Antonio Bentegodi,Italy,Carmine Russo,Italy
+3879794,2016-03-20,13:30:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,240,Bologna,2,0,30,Gewiss Stadium,Italy,Piero Giacomelli,Italy
+3879788,2016-03-19,19:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,2256,Palermo,0,0,30,Stadio Carlo Castellani,Italy,Davide Massa,Italy
+3879787,2016-03-19,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,238,Inter Milan,1,1,30,Estadio Olímpico,Italy,Daniele Orsato,Italy
+3879786,2016-03-13,21:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,227,Napoli,0,1,29,Stadio Renzo Barbera,Italy,Gianluca Rocchi,Italy
+3879784,2016-03-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,241,Torino,3,2,29,Stadio Comunale Luigi Ferraris,Italy,Daniele Doveri,Italy
+3879783,2016-03-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,229,AS Roma,1,2,29,Dacia Arena,Italy,Paolo Silvio Mazzoleni,Italy
+3879782,2016-03-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,291,Frosinone,2,1,29,Stadio Alberto Braglia (Modena),Italy,Luca Banti,Italy
+3879781,2016-03-13,13:30:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,243,AC Milan,0,0,29,Stadio Marc''Antonio Bentegodi,Italy,Antonio Damato,Italy
+3879780,2016-03-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,226,Hellas Verona,1,1,29,Stadio Artemio Franchi    	,Italy,Claudio Gavillucci,Italy
+3879779,2016-03-12,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,240,Bologna,2,1,29,Stadio Giuseppe Meazza    ,Italy,Gianpaolo Calvarese	,Italy
+3879778,2016-03-12,19:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,234,Sampdoria,1,1,29,Stadio Carlo Castellani,Italy,Michael Fabbri,Italy
+3879777,2016-03-11,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,232,Sassuolo,1,0,29,Allianz Stadium    	,Italy,Domenico Celi,Italy
+3879774,2016-03-06,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,2256,Palermo,3,1,28,Stadio Giuseppe Meazza    ,Italy,Carmine Russo,Italy
+3879776,2016-03-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,1683,Carpi,0,0,28,Stadio Renato Dall''Ara,Italy,Paolo Silvio Mazzoleni,Italy
+3879771,2016-03-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,243,AC Milan,2,0,28,MAPEI Stadium - Città del Tricolore,Italy,Piero Giacomelli,Italy
+3879772,2016-03-06,13:30:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,236,Lazio,1,1,28,Stadio Olimpico Grande Torino,Italy,Davide Massa,Italy
+3879756,2016-02-22,22:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,243,AC Milan,1,1,26,Stadio Diego Armando Maradona,Italy,Luca Banti,Italy
+3879754,2016-02-21,16:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,1683,Carpi,0,0,26,Stadio Olimpico Grande Torino,Italy,Claudio Gavillucci,Italy
+3879748,2016-02-20,19:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,231,Chievo,3,1,26,Stadio Marc''Antonio Bentegodi,Italy,Marco Guida,Italy
+3879749,2016-02-20,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,234,Sampdoria,3,1,26,Stadio Giuseppe Meazza    ,Italy,Davide Massa,Italy
+3879747,2016-02-19,21:45:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,224,Juventus,0,0,26,Stadio Renato Dall''Ara,Italy,Massimiliano Irrati,Italy
+3879742,2016-02-14,13:30:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,233,Genoa,2,1,25,Stadio Giuseppe Meazza    ,Italy,Gianpaolo Calvarese	,Italy
+3879746,2016-02-14,21:45:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,238,Inter Milan,2,1,25,Stadio Artemio Franchi    	,Italy,Paolo Silvio Mazzoleni,Italy
+3879744,2016-02-14,16:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,228,Atalanta,0,0,25,Stadio Comunale Luigi Ferraris,Italy,Antonio Damato,Italy
+3879745,2016-02-14,16:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,241,Torino,1,3,25,Stadio Renzo Barbera,Italy,Angelo Cervellera,Italy
+3879743,2016-02-14,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,240,Bologna,0,1,25,Dacia Arena,Italy,Carmine Russo,Italy
+3879739,2016-02-13,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,227,Napoli,1,0,25,Allianz Stadium    	,Italy,Daniele Orsato,Italy
+3879741,2016-02-13,19:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,232,Sassuolo,1,1,25,Stadio Marc''Antonio Bentegodi,Italy,Davide Ghersini,Italy
+3879740,2016-02-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,291,Frosinone,1,2,25,Stadio Carlo Castellani,Italy,Marco Di Bello,Italy
+3879738,2016-02-12,21:45:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,229,AS Roma,1,3,25,Stadio Alberto Braglia (Modena),Italy,Paolo Tagliavento,Italy
+3879737,2016-02-11,21:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,226,Hellas Verona,5,2,25,Estadio Olímpico,Italy,Andrea Gervasoni,Italy
+3879732,2016-02-07,16:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,231,Chievo,1,2,24,Stadio Olimpico Grande Torino,Italy,Gianluca Rocchi,Italy
+3879707,2016-01-30,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,291,Frosinone,3,1,22,Estadio Olímpico,Italy,Marco Guida,Italy
+3879702,2016-01-24,16:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,233,Genoa,1,1,21,Stadio Marc''Antonio Bentegodi,Italy,Gianluca Rocchi,Italy
+3879704,2016-01-24,16:00:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,1683,Carpi,1,1,21,Stadio Giuseppe Meazza    ,Italy,Andrea Gervasoni,Italy
+3879701,2016-01-24,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,229,AS Roma,1,0,21,Allianz Stadium    	,Italy,Luca Banti,Italy
+3879700,2016-01-24,16:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,230,Udinese,4,1,21,Stadio Renzo Barbera,Italy,Paolo Tagliavento,Italy
+3879706,2016-01-24,13:30:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,241,Torino,2,0,21,Stadio Artemio Franchi    	,Italy,Paolo Silvio Mazzoleni,Italy
+3878559,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,291,Frosinone,2,0,2,Gewiss Stadium,Italy,Domenico Celi,Italy
+3879636,2015-11-30,20:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,239,Fiorentina,1,1,14,MAPEI Stadium - Città del Tricolore,Italy,Davide Massa,Italy
+3879627,2015-11-28,19:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,240,Bologna,2,0,14,Stadio Olimpico Grande Torino,Italy,Davide Ghersini,Italy
+3879626,2015-11-22,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,291,Frosinone,4,0,13,Stadio Giuseppe Meazza    ,Italy,Marco Guida,Italy
+3879625,2015-11-22,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,234,Sampdoria,1,0,13,Dacia Arena,Italy,Marco Di Bello,Italy
+3879624,2015-11-22,16:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,2256,Palermo,1,1,13,Estadio Olímpico,Italy,Domenico Celi,Italy
+3879623,2015-11-22,16:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,290,Empoli,2,2,13,Stadio Artemio Franchi    	,Italy,Luca Banti,Italy
+3879622,2015-11-22,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,231,Chievo,1,2,13,Stadio Alberto Braglia (Modena),Italy,Fabio Maresca,Italy
+3879621,2015-11-22,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,241,Torino,0,1,13,Gewiss Stadium,Italy,Angelo Cervellera,Italy
+3879620,2015-11-22,13:30:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,227,Napoli,0,2,13,Stadio Marc''Antonio Bentegodi,Italy,Antonio Damato,Italy
+3878611,2015-09-20,12:30:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,238,Inter Milan,0,1,4,Stadio Marc''Antonio Bentegodi,Italy,Paolo Tagliavento,Italy
+3878610,2015-09-20,15:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,226,Hellas Verona,1,1,4,Gewiss Stadium,Italy,Fabio Maresca,Italy
+3878608,2015-09-20,15:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,291,Frosinone,1,0,4,Stadio Renato Dall''Ara,Italy,Daniele Orsato,Italy
+3878607,2015-09-20,15:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,232,Sassuolo,2,2,4,Estadio Olímpico,Italy,Davide Massa,Italy
+3878606,2015-09-20,15:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,234,Sampdoria,2,0,4,Stadio Olimpico Grande Torino,Italy,Piero Giacomelli,Italy
+3878605,2015-09-20,18:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,239,Fiorentina,0,1,4,Stadio Alberto Braglia (Modena),Italy,Marco Di Bello,Italy
+3879876,2016-05-15,18:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,228,Atalanta,1,2,38,Stadio Comunale Luigi Ferraris,Italy,Gianluca Aureliano,Italy
+3879875,2016-05-15,20:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,226,Hellas Verona,3,2,38,Stadio Renzo Barbera,Italy,Massimiliano Irrati,Italy
+3879874,2016-05-15,20:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,239,Fiorentina,2,4,38,Estadio Olímpico,Italy,Gianluca Manganiello,Italy
+3879873,2016-05-15,18:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,241,Torino,2,1,38,Stadio Carlo Castellani,Italy,Francesco Paolo Saia,Italy
+3879872,2016-05-15,18:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,240,Bologna,0,0,38,Stadio Marc''Antonio Bentegodi,Italy,Riccardo Ros,Italy
+3879871,2016-05-15,20:45:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,1683,Carpi,1,2,38,Dacia Arena,Italy,Paolo Silvio Mazzoleni,Italy
+3879870,2016-05-14,17:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,234,Sampdoria,5,0,38,Allianz Stadium    	,Italy,Claudio Gavillucci,Italy
+3879869,2016-05-14,20:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,229,AS Roma,1,3,38,Stadio Giuseppe Meazza    ,Italy,Nicola Rizzoli,Italy
+3879868,2016-05-14,20:45:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,238,Inter Milan,3,1,38,MAPEI Stadium - Città del Tricolore,Italy,Andrea Gervasoni,Italy
+3879867,2016-05-14,20:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,291,Frosinone,4,0,38,Stadio Diego Armando Maradona,Italy,Domenico Celi,Italy
+3879866,2016-05-08,12:30:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,231,Chievo,3,0,37,Estadio Olímpico,Italy,Domenico Celi,Italy
+3879865,2016-05-08,15:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,233,Genoa,0,3,37,Stadio Comunale Luigi Ferraris,Italy,Luca Banti,Italy
+3879864,2016-05-08,20:45:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,224,Juventus,2,1,37,Stadio Marc''Antonio Bentegodi,Italy,Fabio Maresca,Italy
+3879861,2016-05-08,15:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,232,Sassuolo,0,1,37,Stadio Comunale Matusa,Italy,Angelo Cervellera,Italy
+3879860,2016-05-08,15:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,2256,Palermo,0,0,37,Stadio Artemio Franchi    	,Italy,Daniele Orsato,Italy
+3879859,2016-05-08,15:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,236,Lazio,1,3,37,Stadio Alberto Braglia (Modena),Italy,Gianluca Rocchi,Italy
+3879858,2016-05-07,20:45:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,243,AC Milan,0,1,37,Stadio Renato Dall''Ara,Italy,Daniele Doveri,Italy
+3879857,2016-05-07,18:00:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,290,Empoli,2,1,37,Stadio Giuseppe Meazza    ,Italy,Marco Di Bello,Italy
+3879856,2016-05-02,19:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,229,AS Roma,2,3,36,Stadio Comunale Luigi Ferraris,Italy,Andrea Gervasoni,Italy
+3879855,2016-05-02,21:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,228,Atalanta,2,1,36,Stadio Diego Armando Maradona,Italy,Piero Giacomelli,Italy
+3879854,2016-05-01,15:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,226,Hellas Verona,1,0,36,MAPEI Stadium - Città del Tricolore,Italy,Claudio Gavillucci,Italy
+3879853,2016-05-01,20:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,238,Inter Milan,2,0,36,Estadio Olímpico,Italy,Luca Banti,Italy
+3879852,2016-05-01,15:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,234,Sampdoria,2,0,36,Stadio Renzo Barbera,Italy,Paolo Silvio Mazzoleni,Italy
+3879851,2016-05-01,15:00:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,291,Frosinone,3,3,36,Stadio Giuseppe Meazza    ,Italy,Davide Massa,Italy
+3879850,2016-05-01,12:30:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,1683,Carpi,2,0,36,Allianz Stadium    	,Italy,Massimiliano Irrati,Italy
+3879849,2016-05-01,15:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,240,Bologna,0,0,36,Stadio Carlo Castellani,Italy,Daniele Chiffi,Italy
+3879848,2016-04-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,239,Fiorentina,0,0,36,Stadio Marc''Antonio Bentegodi,Italy,Marco Guida,Italy
+3879846,2016-04-25,17:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,243,AC Milan,2,1,35,Stadio Marc''Antonio Bentegodi,Italy,Marco Di Bello,Italy
+3879845,2016-04-25,15:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,227,Napoli,1,0,35,Estadio Olímpico,Italy,Daniele Orsato,Italy
+3879844,2016-04-25,19:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,290,Empoli,1,0,35,Stadio Alberto Braglia (Modena),Italy,Paolo Valeri,Italy
+3879843,2016-04-24,15:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,232,Sassuolo,1,3,35,Stadio Olimpico Grande Torino,Italy,Michael Fabbri,Italy
+3879842,2016-04-24,15:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,231,Chievo,1,0,35,Gewiss Stadium,Italy,Angelo Cervellera,Italy
+3879841,2016-04-24,12:30:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,2256,Palermo,0,2,35,Stadio Comunale Matusa,Italy,Gianluca Rocchi,Italy
+3879835,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,291,Frosinone,5,1,34,Stadio Marc''Antonio Bentegodi,Italy,Carmine Russo,Italy
+3879834,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,239,Fiorentina,2,1,34,Dacia Arena,Italy,Davide Massa,Italy
+3879831,2016-04-20,18:30:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,234,Sampdoria,0,0,34,MAPEI Stadium - Città del Tricolore,Italy,Maurizio Mariani,Italy
+3879829,2016-04-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,226,Hellas Verona,1,0,34,Stadio Carlo Castellani,Italy,Marco Serra,Italy
+3879827,2016-04-19,20:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,240,Bologna,6,0,34,Stadio Diego Armando Maradona,Italy,Andrea Gervasoni,Italy
+3879826,2016-04-17,15:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,291,Frosinone,1,2,33,Stadio Marc''Antonio Bentegodi,Italy,Daniele Doveri,Italy
+3879824,2016-04-17,20:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,243,AC Milan,0,1,33,Stadio Comunale Luigi Ferraris,Italy,Paolo Valeri,Italy
+3879823,2016-04-17,12:30:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,229,AS Roma,3,3,33,Gewiss Stadium,Italy,Massimiliano Irrati,Italy
+3879822,2016-04-17,15:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,231,Chievo,0,0,33,Dacia Arena,Italy,Claudio Gavillucci,Italy
+3879821,2016-04-17,15:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,232,Sassuolo,3,1,33,Stadio Artemio Franchi    	,Italy,Luca Banti,Italy
+3879820,2016-04-17,15:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,2256,Palermo,4,0,33,Allianz Stadium    	,Italy,Piero Giacomelli,Italy
+3879819,2016-04-16,18:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,233,Genoa,4,1,33,Stadio Alberto Braglia (Modena),Italy,Nicola Rizzoli,Italy
+3879818,2016-04-16,15:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,241,Torino,0,1,33,Stadio Renato Dall''Ara,Italy,Rosario Abisso,Italy
+3879816,2016-04-11,20:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,240,Bologna,1,1,32,Estadio Olímpico,Italy,Davide Massa,Italy
+3879815,2016-04-10,15:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,228,Atalanta,2,1,32,Stadio Olimpico Grande Torino,Italy,Marco Di Bello,Italy
+3879814,2016-04-10,12:30:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,239,Fiorentina,2,0,32,Stadio Carlo Castellani,Italy,Antonio Damato,Italy
+3879813,2016-04-10,15:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,230,Udinese,2,0,32,Stadio Comunale Luigi Ferraris,Italy,Carmine Russo,Italy
+3879812,2016-04-10,20:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,236,Lazio,0,3,32,Stadio Renzo Barbera,Italy,Andrea Gervasoni,Italy
+3879811,2016-04-10,15:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,226,Hellas Verona,3,0,32,Stadio Diego Armando Maradona,Italy,Domenico Celi,Italy
+3879810,2016-04-09,20:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,224,Juventus,1,2,32,Stadio Giuseppe Meazza    ,Italy,Daniele Orsato,Italy
+3879809,2016-04-09,18:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,233,Genoa,0,1,32,MAPEI Stadium - Città del Tricolore,Italy,Claudio Gavillucci,Italy
+3879808,2016-04-09,15:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,238,Inter Milan,0,1,32,Stadio Comunale Matusa,Italy,Paolo Tagliavento,Italy
+3879807,2016-04-09,18:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,1683,Carpi,1,0,32,Stadio Marc''Antonio Bentegodi,Italy,Michael Fabbri,Italy
+3879806,2016-04-04,20:45:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,226,Hellas Verona,0,1,31,Stadio Renato Dall''Ara,Italy,Davide Ghersini,Italy
+3879805,2016-04-03,15:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,243,AC Milan,2,1,31,Gewiss Stadium,Italy,Gianluca Rocchi,Italy
+3879804,2016-04-03,15:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,291,Frosinone,4,0,31,Stadio Comunale Luigi Ferraris,Italy,Paolo Silvio Mazzoleni,Italy
+3879803,2016-04-03,12:30:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,227,Napoli,3,1,31,Dacia Arena,Italy,Massimiliano Irrati,Italy
+3879802,2016-04-03,15:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,2256,Palermo,3,1,31,Stadio Marc''Antonio Bentegodi,Italy,Maurizio Mariani,Italy
+3879801,2016-04-03,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,241,Torino,1,2,31,Stadio Giuseppe Meazza    ,Italy,Marco Guida,Italy
+3879800,2016-04-03,15:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,234,Sampdoria,1,1,31,Stadio Artemio Franchi    	,Italy,Andrea Gervasoni,Italy
+3879799,2016-04-03,15:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,229,AS Roma,1,4,31,Estadio Olímpico,Italy,Luca Banti,Italy
+3879798,2016-04-02,20:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,290,Empoli,1,0,31,Allianz Stadium    	,Italy,Gianpaolo Calvarese	,Italy
+3879797,2016-04-02,18:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,232,Sassuolo,1,3,31,Stadio Alberto Braglia (Modena),Italy,Angelo Cervellera,Italy
+3879796,2016-03-20,19:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,233,Genoa,3,1,30,Stadio Diego Armando Maradona,Italy,Andrea Gervasoni,Italy
+3879793,2016-03-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,230,Udinese,1,1,30,MAPEI Stadium - Città del Tricolore,Italy,Marco Di Bello,Italy
+3879791,2016-03-20,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,236,Lazio,1,1,30,Stadio Giuseppe Meazza    ,Italy,Paolo Tagliavento,Italy
+3879790,2016-03-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,224,Juventus,1,4,30,Stadio Olimpico Grande Torino,Italy,Nicola Rizzoli,Italy
+3879789,2016-03-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,239,Fiorentina,0,0,30,Stadio Comunale Matusa,Italy,Paolo Valeri,Italy
+3879775,2016-03-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,290,Empoli,1,0,28,Stadio Comunale Luigi Ferraris,Italy,Maurizio Mariani,Italy
+3879770,2016-03-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,224,Juventus,0,2,28,Gewiss Stadium,Italy,Paolo Valeri,Italy
+3879769,2016-03-05,21:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,231,Chievo,3,1,28,Stadio Diego Armando Maradona,Italy,Marco Di Bello,Italy
+3879768,2016-03-05,19:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,234,Sampdoria,0,3,28,Stadio Marc''Antonio Bentegodi,Italy,Angelo Cervellera,Italy
+3879767,2016-03-04,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,239,Fiorentina,4,1,28,Estadio Olímpico,Italy,Massimiliano Irrati,Italy
+3879766,2016-02-29,20:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,232,Sassuolo,0,2,27,Estadio Olímpico,Italy,Antonio Damato,Italy
+3879765,2016-02-29,22:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,227,Napoli,1,1,27,Stadio Artemio Franchi    	,Italy,Paolo Tagliavento,Italy
+3879764,2016-02-28,16:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,233,Genoa,1,0,27,Stadio Marc''Antonio Bentegodi,Italy,Michael Fabbri,Italy
+3879763,2016-02-28,16:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,291,Frosinone,2,0,27,Stadio Comunale Luigi Ferraris,Italy,Daniele Orsato,Italy
+3879762,2016-02-28,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,226,Hellas Verona,2,0,27,Dacia Arena,Italy,Daniele Doveri,Italy
+3879761,2016-02-28,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,228,Atalanta,1,1,27,Stadio Alberto Braglia (Modena),Italy,Gianpaolo Calvarese	,Italy
+3879760,2016-02-28,13:30:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,240,Bologna,0,0,27,Stadio Renzo Barbera,Italy,Marco Di Bello,Italy
+3879759,2016-02-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,238,Inter Milan,2,0,27,Allianz Stadium    	,Italy,Gianluca Rocchi,Italy
+3879758,2016-02-27,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,241,Torino,1,0,27,Stadio Giuseppe Meazza    ,Italy,Domenico Celi,Italy
+3879757,2016-02-27,19:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,229,AS Roma,1,3,27,Stadio Carlo Castellani,Italy,Andrea Gervasoni,Italy
+3879755,2016-02-21,19:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,236,Lazio,0,0,26,Stadio Comunale Matusa,Italy,Carmine Russo,Italy
+3879753,2016-02-21,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,290,Empoli,3,2,26,MAPEI Stadium - Città del Tricolore,Italy,Paolo Valeri,Italy
+3879752,2016-02-21,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,230,Udinese,2,1,26,Stadio Comunale Luigi Ferraris,Italy,Andrea Gervasoni,Italy
+3879751,2016-02-21,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,2256,Palermo,5,0,26,Estadio Olímpico,Italy,Piero Giacomelli,Italy
+3879736,2016-02-07,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,234,Sampdoria,2,1,24,Estadio Olímpico,Italy,Domenico Celi,Italy
+3879735,2016-02-07,19:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,290,Empoli,0,0,24,Gewiss Stadium,Italy,Michael Fabbri,Italy
+3879734,2016-02-07,16:00:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,230,Udinese,1,1,24,Stadio Giuseppe Meazza    ,Italy,Massimiliano Irrati,Italy
+3879733,2016-02-07,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,224,Juventus,0,2,24,Stadio Comunale Matusa,Italy,Davide Massa,Italy
+3879731,2016-02-07,16:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,1683,Carpi,1,0,24,Stadio Diego Armando Maradona,Italy,Daniele Doveri,Italy
+3879730,2016-02-07,13:30:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,238,Inter Milan,3,3,24,Stadio Marc''Antonio Bentegodi,Italy,Piero Giacomelli,Italy
+3879729,2016-02-07,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,2256,Palermo,2,2,24,MAPEI Stadium - Città del Tricolore,Italy,Maurizio Mariani,Italy
+3879728,2016-02-06,19:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,239,Fiorentina,1,1,24,Stadio Renato Dall''Ara,Italy,Luca Banti,Italy
+3879727,2016-02-06,21:45:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,236,Lazio,0,0,24,Stadio Comunale Luigi Ferraris,Italy,Daniele Orsato,Italy
+3879726,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,233,Genoa,1,0,23,Allianz Stadium    	,Italy,Carmine Russo,Italy
+3879725,2016-02-03,19:30:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,240,Bologna,1,0,23,Stadio Comunale Matusa,Italy,Andrea Gervasoni,Italy
+3879724,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,1683,Carpi,2,1,23,Stadio Artemio Franchi    	,Italy,Angelo Cervellera,Italy
+3879723,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,231,Chievo,1,0,23,Stadio Giuseppe Meazza    ,Italy,Paolo Valeri,Italy
+3879722,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,228,Atalanta,2,1,23,Stadio Marc''Antonio Bentegodi,Italy,Marco Di Bello,Italy
+3879721,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,243,AC Milan,0,2,23,Stadio Renzo Barbera,Italy,Paolo Silvio Mazzoleni,Italy
+3879720,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,227,Napoli,0,2,23,Estadio Olímpico,Italy,Massimiliano Irrati,Italy
+3879719,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,241,Torino,2,2,23,Stadio Comunale Luigi Ferraris,Italy,Marco Guida,Italy
+3879718,2016-02-03,21:45:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,230,Udinese,1,1,23,Stadio Carlo Castellani,Italy,Eugenio Abbattista,Italy
+3879717,2016-02-02,21:45:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,229,AS Roma,0,2,23,MAPEI Stadium - Città del Tricolore,Italy,Gianpaolo Calvarese	,Italy
+3879716,2016-01-31,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,239,Fiorentina,0,0,22,Stadio Comunale Luigi Ferraris,Italy,Piero Giacomelli,Italy
+3879715,2016-01-31,16:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,226,Hellas Verona,0,0,22,Stadio Olimpico Grande Torino,Italy,Maurizio Mariani,Italy
+3879714,2016-01-31,16:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,290,Empoli,5,1,22,Stadio Diego Armando Maradona,Italy,Davide Massa,Italy
+3879713,2016-01-31,13:30:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,224,Juventus,0,4,22,Stadio Marc''Antonio Bentegodi,Italy,Daniele Doveri,Italy
+3879712,2016-01-31,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,238,Inter Milan,3,0,22,Stadio Giuseppe Meazza    ,Italy,Antonio Damato,Italy
+3879711,2016-01-31,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,236,Lazio,0,0,22,Dacia Arena,Italy,Domenico Celi,Italy
+3879710,2016-01-31,16:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,234,Sampdoria,3,2,22,Stadio Renato Dall''Ara,Italy,Michael Fabbri,Italy
+3879709,2016-01-30,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,2256,Palermo,1,1,22,Stadio Alberto Braglia (Modena),Italy,Nicola Rizzoli,Italy
+3879708,2016-01-30,19:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,232,Sassuolo,1,1,22,Gewiss Stadium,Italy,Claudio Gavillucci,Italy
+3879698,2016-01-23,21:45:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,243,AC Milan,2,2,21,Stadio Carlo Castellani,Italy,Carmine Russo,Italy
+3879697,2016-01-23,19:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,228,Atalanta,0,0,21,Stadio Comunale Matusa,Italy,Paolo Valeri,Italy
+3879696,2016-01-20,21:45:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,241,Torino,1,1,16,MAPEI Stadium - Città del Tricolore,Italy,Domenico Celi,Italy
+3879695,2016-01-17,13:30:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,2256,Palermo,4,0,20,Stadio Comunale Luigi Ferraris,Italy,Domenico Celi,Italy
+3879694,2016-01-17,16:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,236,Lazio,2,2,20,Stadio Renato Dall''Ara,Italy,Marco Di Bello,Italy
+3879693,2016-01-17,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,224,Juventus,0,4,20,Dacia Arena,Italy,Gianluca Rocchi,Italy
+3879692,2016-01-17,16:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,290,Empoli,1,1,20,Stadio Marc''Antonio Bentegodi,Italy,Rosario Abisso,Italy
+3879691,2016-01-17,16:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,226,Hellas Verona,1,1,20,Estadio Olímpico,Italy,Davide Massa,Italy
+3879690,2016-01-17,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,239,Fiorentina,2,0,20,Stadio Giuseppe Meazza    ,Italy,Daniele Doveri,Italy
+3879689,2016-01-17,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,234,Sampdoria,2,1,20,Stadio Alberto Braglia (Modena),Italy,Maurizio Mariani,Italy
+3879688,2016-01-16,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,238,Inter Milan,1,1,20,Gewiss Stadium,Italy,Nicola Rizzoli,Italy
+3879687,2016-01-16,19:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,291,Frosinone,4,2,20,Stadio Olimpico Grande Torino,Italy,Massimiliano Irrati,Italy
+3879686,2016-01-16,21:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,232,Sassuolo,3,1,20,Stadio Diego Armando Maradona,Italy,Piero Giacomelli,Italy
+3879685,2016-01-10,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,233,Genoa,0,2,19,Gewiss Stadium,Italy,Marco Guida,Italy
+3879684,2016-01-10,21:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,224,Juventus,1,2,19,Stadio Comunale Luigi Ferraris,Italy,Paolo Silvio Mazzoleni,Italy
+3879683,2016-01-10,16:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,2256,Palermo,0,1,19,Stadio Marc''Antonio Bentegodi,Italy,Luca Banti,Italy
+3879682,2016-01-10,16:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,290,Empoli,0,1,19,Stadio Olimpico Grande Torino,Italy,Andrea Gervasoni,Italy
+3879681,2016-01-10,13:30:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,232,Sassuolo,0,1,19,Stadio Giuseppe Meazza    ,Italy,Daniele Doveri,Italy
+3879680,2016-01-10,16:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,231,Chievo,0,1,19,Stadio Renato Dall''Ara,Italy,Claudio Gavillucci,Italy
+3879679,2016-01-10,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,227,Napoli,1,5,19,Stadio Comunale Matusa,Italy,Paolo Tagliavento,Italy
+3879678,2016-01-09,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,230,Udinese,2,1,19,Stadio Alberto Braglia (Modena),Italy,Michael Fabbri,Italy
+3879677,2016-01-09,19:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,236,Lazio,1,3,19,Stadio Artemio Franchi    	,Italy,Nicola Rizzoli,Italy
+3879676,2016-01-09,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,243,AC Milan,1,1,19,Estadio Olímpico,Italy,Daniele Orsato,Italy
+3879675,2016-01-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,1683,Carpi,0,0,18,Estadio Olímpico,Italy,Carmine Russo,Italy
+3879674,2016-01-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,240,Bologna,0,1,18,Stadio Giuseppe Meazza    ,Italy,Davide Massa,Italy
+3879673,2016-01-06,13:30:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,228,Atalanta,2,1,18,Dacia Arena,Italy,Angelo Cervellera,Italy
+3879672,2016-01-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,229,AS Roma,3,3,18,Stadio Marc''Antonio Bentegodi,Italy,Massimiliano Irrati,Italy
+3879671,2016-01-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,239,Fiorentina,1,3,18,Stadio Renzo Barbera,Italy,Antonio Damato,Italy
+3879670,2016-01-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,226,Hellas Verona,3,0,18,Allianz Stadium    	,Italy,Gianpaolo Calvarese	,Italy
+3879669,2016-01-06,21:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,241,Torino,2,1,18,Stadio Diego Armando Maradona,Italy,Marco Di Bello,Italy
+3879668,2016-01-06,19:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,238,Inter Milan,0,1,18,Stadio Carlo Castellani,Italy,Domenico Celi,Italy
+3879667,2016-01-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,291,Frosinone,2,2,18,MAPEI Stadium - Città del Tricolore,Italy,Luca Pairetto,Italy
+3879666,2016-01-05,21:45:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,234,Sampdoria,2,3,18,Stadio Comunale Luigi Ferraris,Italy,Paolo Valeri,Italy
+3879664,2015-12-20,19:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,2256,Palermo,2,0,17,Stadio Comunale Luigi Ferraris,Italy,Michael Fabbri,Italy
+3879662,2015-12-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,231,Chievo,2,0,17,Stadio Artemio Franchi    	,Italy,Paolo Tagliavento,Italy
+3879661,2015-12-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,227,Napoli,1,3,17,Gewiss Stadium,Italy,Gianluca Rocchi,Italy
+3879660,2015-12-20,13:30:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,224,Juventus,2,3,17,Stadio Alberto Braglia (Modena),Italy,Piero Giacomelli,Italy
+3879659,2015-12-20,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,236,Lazio,1,2,17,Stadio Giuseppe Meazza    ,Italy,Paolo Silvio Mazzoleni,Italy
+3879658,2015-12-20,19:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,230,Udinese,0,1,17,Stadio Olimpico Grande Torino,Italy,Claudio Gavillucci,Italy
+3879657,2015-12-20,16:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,233,Genoa,2,0,17,Estadio Olímpico,Italy,Andrea Gervasoni,Italy
+3879656,2015-12-19,21:45:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,290,Empoli,2,3,17,Stadio Renato Dall''Ara,Italy,Maurizio Mariani,Italy
+3879655,2015-12-14,21:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,234,Sampdoria,1,1,16,Estadio Olímpico,Italy,Gianpaolo Calvarese	,Italy
+3879654,2015-12-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,228,Atalanta,1,0,16,Stadio Marc''Antonio Bentegodi,Italy,Fabrizio Pasqua,Italy
+3879652,2015-12-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,226,Hellas Verona,1,1,16,Stadio Giuseppe Meazza    ,Italy,Paolo Valeri,Italy
+3879651,2015-12-13,19:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,229,AS Roma,0,0,16,Stadio Diego Armando Maradona,Italy,Nicola Rizzoli,Italy
+3879650,2015-12-13,16:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,1683,Carpi,3,0,16,Stadio Carlo Castellani,Italy,Angelo Cervellera,Italy
+3879649,2015-12-12,19:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,291,Frosinone,4,1,16,Stadio Renzo Barbera,Italy,Daniele Doveri,Italy
+3879648,2015-12-12,21:45:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,238,Inter Milan,0,4,16,Dacia Arena,Italy,Davide Massa,Italy
+3879647,2015-12-12,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,240,Bologna,0,1,16,Stadio Comunale Luigi Ferraris,Italy,Marco Di Bello,Italy
+3879646,2015-12-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,230,Udinese,3,0,15,Stadio Artemio Franchi    	,Italy,Marco Guida,Italy
+3879644,2015-12-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,2256,Palermo,3,0,15,Gewiss Stadium,Italy,Carmine Russo,Italy
+3879643,2015-12-06,19:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,232,Sassuolo,1,3,15,Stadio Comunale Luigi Ferraris,Italy,Maurizio Mariani,Italy
+3879642,2015-12-06,21:45:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,243,AC Milan,0,0,15,Stadio Alberto Braglia (Modena),Italy,Massimiliano Irrati,Italy
+3879641,2015-12-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,290,Empoli,0,1,15,Stadio Marc''Antonio Bentegodi,Italy,Paolo Tagliavento,Italy
+3879640,2015-12-06,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,231,Chievo,0,2,15,Stadio Comunale Matusa,Italy,Gianluca Rocchi,Italy
+3879639,2015-12-05,16:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,229,AS Roma,1,1,15,Stadio Olimpico Grande Torino,Italy,Antonio Damato,Italy
+3879638,2015-12-05,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,233,Genoa,1,0,15,Stadio Giuseppe Meazza    ,Italy,Piero Giacomelli,Italy
+3879637,2015-12-04,21:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,224,Juventus,0,2,15,Estadio Olímpico,Italy,Luca Banti,Italy
+3879635,2015-11-30,22:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,238,Inter Milan,2,1,14,Stadio Diego Armando Maradona,Italy,Daniele Orsato,Italy
+3879634,2015-11-29,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,1683,Carpi,1,2,14,Stadio Comunale Luigi Ferraris,Italy,Claudio Gavillucci,Italy
+3879633,2015-11-29,19:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,236,Lazio,1,0,14,Stadio Carlo Castellani,Italy,Michael Fabbri,Italy
+3879631,2015-11-29,16:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,230,Udinese,2,3,14,Stadio Marc''Antonio Bentegodi,Italy,Andrea Gervasoni,Italy
+3879630,2015-11-29,21:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,224,Juventus,0,3,14,Stadio Renzo Barbera,Italy,Paolo Valeri,Italy
+3879629,2015-11-29,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,226,Hellas Verona,3,2,14,Stadio Comunale Matusa,Italy,Nicola Rizzoli,Italy
+3879619,2015-11-22,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,232,Sassuolo,2,1,13,Stadio Comunale Luigi Ferraris,Italy,Nicola Rizzoli,Italy
+3879618,2015-11-21,21:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,243,AC Milan,1,0,13,Allianz Stadium    	,Italy,Paolo Silvio Mazzoleni,Italy
+3879617,2015-11-21,19:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,229,AS Roma,2,2,13,Stadio Renato Dall''Ara,Italy,Gianluca Rocchi,Italy
+3879616,2015-11-08,21:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,239,Fiorentina,0,2,12,Stadio Comunale Luigi Ferraris,Italy,Carmine Russo,Italy
+3879615,2015-11-08,16:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,1683,Carpi,1,0,12,MAPEI Stadium - Città del Tricolore,Italy,Paolo Valeri,Italy
+3879614,2015-11-08,13:30:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,238,Inter Milan,0,1,12,Stadio Olimpico Grande Torino,Italy,Massimiliano Irrati,Italy
+3879613,2015-11-08,16:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,224,Juventus,1,3,12,Stadio Carlo Castellani,Italy,Davide Massa,Italy
+3879612,2015-11-08,16:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,233,Genoa,2,2,12,Stadio Comunale Matusa,Italy,Gianpaolo Calvarese	,Italy
+3879611,2015-11-08,16:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,231,Chievo,1,0,12,Stadio Renzo Barbera,Italy,Maurizio Mariani,Italy
+3879610,2015-11-08,16:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,236,Lazio,2,0,12,Estadio Olímpico,Italy,Paolo Tagliavento,Italy
+3879608,2015-11-07,19:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,240,Bologna,0,2,12,Stadio Marc''Antonio Bentegodi,Italy,Daniele Orsato,Italy
+3879607,2015-11-07,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,228,Atalanta,0,0,12,Stadio Giuseppe Meazza    ,Italy,Piero Giacomelli,Italy
+3879606,2015-11-02,20:00:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,234,Sampdoria,1,1,11,Stadio Marc''Antonio Bentegodi,Italy,Claudio Gavillucci,Italy
+3879605,2015-11-02,22:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,290,Empoli,0,1,11,Stadio Renzo Barbera,Italy,Marco Di Bello,Italy
+3879604,2015-11-01,16:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,227,Napoli,0,0,11,Stadio Comunale Luigi Ferraris,Italy,Daniele Doveri,Italy
+3879603,2015-11-01,16:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,232,Sassuolo,0,0,11,Dacia Arena,Italy,Federico La Penna,Italy
+3879602,2015-11-01,13:30:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,291,Frosinone,4,1,11,Stadio Artemio Franchi    	,Italy,Michael Fabbri,Italy
+3879601,2015-11-01,16:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,228,Atalanta,3,0,11,Stadio Renato Dall''Ara,Italy,Marco Guida,Italy
+3879600,2015-11-01,16:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,226,Hellas Verona,0,0,11,Stadio Alberto Braglia (Modena),Italy,Paolo Silvio Mazzoleni,Italy
+3879599,2015-11-01,21:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,243,AC Milan,1,3,11,Estadio Olímpico,Italy,Antonio Damato,Italy
+3879598,2015-10-31,21:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,229,AS Roma,1,0,11,Stadio Giuseppe Meazza    ,Italy,Nicola Rizzoli,Italy
+3879597,2015-10-31,19:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,241,Torino,2,1,11,Allianz Stadium    	,Italy,Gianluca Rocchi,Italy
+3879596,2015-10-29,21:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,290,Empoli,1,1,10,Stadio Comunale Luigi Ferraris,Italy,Angelo Cervellera,Italy
+3879595,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,239,Fiorentina,0,2,10,Stadio Marc''Antonio Bentegodi,Italy,Paolo Valeri,Italy
+3879594,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,231,Chievo,1,0,10,Stadio Giuseppe Meazza    ,Italy,Gianpaolo Calvarese	,Italy
+3879593,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,2256,Palermo,2,0,10,Stadio Diego Armando Maradona,Italy,Piero Giacomelli,Italy
+3879592,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,230,Udinese,3,1,10,Estadio Olímpico,Italy,Carmine Russo,Italy
+3879591,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,224,Juventus,1,0,10,MAPEI Stadium - Città del Tricolore,Italy,Andrea Gervasoni,Italy
+3879590,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,233,Genoa,3,3,10,Stadio Olimpico Grande Torino,Italy,Daniele Chiffi,Italy
+3879589,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,1683,Carpi,2,1,10,Stadio Comunale Matusa,Italy,Antonio Damato,Italy
+3879588,2015-10-28,21:45:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,236,Lazio,2,1,10,Gewiss Stadium,Italy,Massimiliano Irrati,Italy
+3879586,2015-10-25,12:30:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,226,Hellas Verona,4,1,9,Stadio Comunale Luigi Ferraris,Italy,Maurizio Mariani,Italy
+3879584,2015-10-25,15:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,291,Frosinone,1,0,9,Dacia Arena,Italy,Nicola Rizzoli,Italy
+3879583,2015-10-25,18:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,229,AS Roma,1,2,9,Stadio Artemio Franchi    	,Italy,Daniele Orsato,Italy
+3879581,2015-10-25,20:45:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,227,Napoli,0,1,9,Stadio Marc''Antonio Bentegodi,Italy,Davide Massa,Italy
+3879580,2015-10-25,15:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,228,Atalanta,2,0,9,Allianz Stadium    	,Italy,Marco Di Bello,Italy
+3879578,2015-10-24,18:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,240,Bologna,1,2,9,Stadio Alberto Braglia (Modena),Italy,Paolo Tagliavento,Italy
+3879577,2015-10-24,15:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,233,Genoa,2,0,9,Stadio Carlo Castellani,Italy,Domenico Celi,Italy
+3879576,2015-10-18,15:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,234,Sampdoria,2,0,8,Stadio Comunale Matusa,Italy,Massimiliano Irrati,Italy
+3879575,2015-10-18,15:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,230,Udinese,1,1,8,Stadio Marc''Antonio Bentegodi,Italy,Claudio Gavillucci,Italy
+3879574,2015-10-18,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,224,Juventus,0,0,8,Stadio Giuseppe Meazza    ,Italy,Paolo Valeri,Italy
+3879573,2015-10-18,15:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,236,Lazio,2,1,8,MAPEI Stadium - Città del Tricolore,Italy,Marco Guida,Italy
+3879572,2015-10-18,15:00:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,239,Fiorentina,2,1,8,Stadio Diego Armando Maradona,Italy,Luca Banti,Italy
+3879571,2015-10-18,15:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,1683,Carpi,3,0,8,Gewiss Stadium,Italy,Fabrizio Pasqua,Italy
+3879570,2015-10-18,15:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,231,Chievo,3,2,8,Stadio Comunale Luigi Ferraris,Italy,Paolo Silvio Mazzoleni,Italy
+3879569,2015-10-18,12:30:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,2256,Palermo,0,1,8,Stadio Renato Dall''Ara,Italy,Michael Fabbri,Italy
+3879568,2015-10-17,20:45:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,243,AC Milan,1,1,8,Stadio Olimpico Grande Torino,Italy,Andrea Gervasoni,Italy
+3879565,2015-10-04,15:00:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,238,Inter Milan,1,1,7,Stadio Comunale Luigi Ferraris,Italy,Gianluca Rocchi,Italy
+3879563,2015-10-04,12:30:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,232,Sassuolo,1,0,7,Stadio Carlo Castellani,Italy,Gianpaolo Calvarese	,Italy
+3879561,2015-10-04,20:45:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,228,Atalanta,3,0,7,Stadio Artemio Franchi    	,Italy,Davide Massa,Italy
+3879560,2015-10-04,18:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,291,Frosinone,2,0,7,Estadio Olímpico,Italy,Marco Di Bello,Italy
+3879559,2015-10-04,18:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,240,Bologna,3,1,7,Allianz Stadium    	,Italy,Domenico Celi,Italy
+3879558,2015-10-03,18:00:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,241,Torino,2,1,7,Stadio Alberto Braglia (Modena),Italy,Carmine Russo,Italy
+3879557,2015-10-03,20:45:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,226,Hellas Verona,1,1,7,Stadio Marc''Antonio Bentegodi,Italy,Daniele Doveri,Italy
+3879555,2015-09-28,21:00:00.000,12,Serie A,Italy,27,2015/2016,228,Atalanta,234,Sampdoria,2,1,6,Gewiss Stadium,Italy,Paolo Valeri,Italy
+3879554,2015-09-27,15:00:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,2256,Palermo,2,1,6,Stadio Olimpico Grande Torino,Italy,Maurizio Mariani,Italy
+3879553,2015-09-27,15:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,231,Chievo,1,1,6,MAPEI Stadium - Città del Tricolore,Italy,Michael Fabbri,Italy
+3879552,2015-09-27,15:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,230,Udinese,1,2,6,Stadio Renato Dall''Ara,Italy,Andrea Gervasoni,Italy
+3879551,2015-09-27,15:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,236,Lazio,1,2,6,Stadio Marc''Antonio Bentegodi,Italy,Piero Giacomelli,Italy
+3879550,2015-09-27,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,239,Fiorentina,1,4,6,Stadio Giuseppe Meazza    ,Italy,Antonio Damato,Italy
+3879549,2015-09-27,12:30:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,243,AC Milan,1,0,6,Stadio Comunale Luigi Ferraris,Italy,Paolo Tagliavento,Italy
+3879548,2015-09-26,20:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,224,Juventus,2,1,6,Stadio Diego Armando Maradona,Italy,Daniele Orsato,Italy
+3879547,2015-09-26,18:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,1683,Carpi,5,1,6,Estadio Olímpico,Italy,Massimiliano Irrati,Italy
+3879546,2015-09-24,20:45:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,228,Atalanta,0,1,5,Stadio Carlo Castellani,Italy,Claudio Gavillucci,Italy
+3879545,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,229,AS Roma,2,1,5,Stadio Comunale Luigi Ferraris,Italy,Luca Banti,Italy
+3879544,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,232,Sassuolo,0,1,5,Stadio Renzo Barbera,Italy,Luca Pairetto,Italy
+3879543,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,291,Frosinone,1,1,5,Allianz Stadium    	,Italy,Angelo Cervellera,Italy
+3879542,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,226,Hellas Verona,1,0,5,Stadio Giuseppe Meazza    ,Italy,Carmine Russo,Italy
+3879541,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,240,Bologna,2,0,5,Stadio Artemio Franchi    	,Italy,Gianpaolo Calvarese	,Italy
+3879540,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,241,Torino,1,0,5,Stadio Marc''Antonio Bentegodi,Italy,Domenico Celi,Italy
+3879539,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,227,Napoli,0,0,5,Stadio Alberto Braglia (Modena),Italy,Gianluca Rocchi,Italy
+3879538,2015-09-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,233,Genoa,2,0,5,Estadio Olímpico,Italy,Nicola Rizzoli,Italy
+3879537,2015-09-22,20:45:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,243,AC Milan,2,3,5,Dacia Arena,Italy,Daniele Doveri,Italy
+3878609,2015-09-20,15:00:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,224,Juventus,0,2,4,Stadio Comunale Luigi Ferraris,Italy,Paolo Valeri,Italy
+3878604,2015-09-20,20:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,236,Lazio,5,0,4,Stadio Diego Armando Maradona,Italy,Antonio Damato,Italy
+3878603,2015-09-19,18:00:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,290,Empoli,1,2,4,Dacia Arena,Italy,Michael Fabbri,Italy
+3878602,2015-09-19,20:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,2256,Palermo,3,2,4,Stadio Giuseppe Meazza    ,Italy,Carmine Russo,Italy
+3878601,2015-09-14,20:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,240,Bologna,2,0,3,Stadio Comunale Luigi Ferraris,Italy,Angelo Cervellera,Italy
+3878600,2015-09-13,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,243,AC Milan,1,0,3,Stadio Giuseppe Meazza    ,Italy,Gianluca Rocchi,Italy
+3878599,2015-09-13,15:00:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,228,Atalanta,2,2,3,MAPEI Stadium - Città del Tricolore,Italy,Maurizio Mariani,Italy
+3878598,2015-09-13,15:00:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,1683,Carpi,2,2,3,Stadio Renzo Barbera,Italy,Claudio Gavillucci,Italy
+3878597,2015-09-13,15:00:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,227,Napoli,2,2,3,Stadio Carlo Castellani,Italy,Luca Banti,Italy
+3878596,2015-09-13,12:30:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,241,Torino,2,2,3,Stadio Marc''Antonio Bentegodi,Italy,Massimiliano Irrati,Italy
+3878595,2015-09-13,18:00:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,230,Udinese,2,0,3,Estadio Olímpico,Italy,Gianpaolo Calvarese	,Italy
+3878594,2015-09-12,20:45:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,231,Chievo,1,1,3,Allianz Stadium    	,Italy,Marco Guida,Italy
+3878593,2015-09-12,18:00:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,229,AS Roma,0,2,3,Stadio Comunale Matusa,Italy,Andrea Gervasoni,Italy
+3878592,2015-09-12,18:00:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,233,Genoa,1,0,3,Stadio Artemio Franchi    	,Italy,Daniele Doveri,Italy
+3878558,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,227,Napoli,234,Sampdoria,2,2,2,Stadio Diego Armando Maradona,Italy,Andrea Gervasoni,Italy
+3878557,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,230,Udinese,2256,Palermo,0,1,2,Dacia Arena,Italy,Antonio Damato,Italy
+3878556,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,241,Torino,239,Fiorentina,3,1,2,Stadio Olimpico Grande Torino,Italy,Paolo Tagliavento,Italy
+3878555,2015-08-30,18:00:00.000,12,Serie A,Italy,27,2015/2016,229,AS Roma,224,Juventus,2,1,2,Estadio Olímpico,Italy,Nicola Rizzoli,Italy
+3878554,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,233,Genoa,226,Hellas Verona,2,0,2,Stadio Comunale Luigi Ferraris,Italy,Daniele Orsato,Italy
+3878553,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,231,Chievo,236,Lazio,4,0,2,Stadio Marc''Antonio Bentegodi,Italy,Marco Di Bello,Italy
+3878552,2015-08-30,20:45:00.000,12,Serie A,Italy,27,2015/2016,1683,Carpi,238,Inter Milan,1,2,2,Stadio Alberto Braglia (Modena),Italy,Davide Massa,Italy
+3878551,2015-08-29,20:45:00.000,12,Serie A,Italy,27,2015/2016,243,AC Milan,290,Empoli,2,1,2,Stadio Giuseppe Meazza    ,Italy,Piero Giacomelli,Italy
+3878550,2015-08-29,18:00:00.000,12,Serie A,Italy,27,2015/2016,240,Bologna,232,Sassuolo,0,1,2,Stadio Renato Dall''Ara,Italy,Carmine Russo,Italy
+3878549,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,290,Empoli,231,Chievo,1,3,1,Stadio Carlo Castellani,Italy,Maurizio Mariani,Italy
+3878548,2015-08-23,18:00:00.000,12,Serie A,Italy,27,2015/2016,224,Juventus,230,Udinese,0,1,1,Allianz Stadium    	,Italy,Paolo Silvio Mazzoleni,Italy
+3878547,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,291,Frosinone,241,Torino,1,2,1,Stadio Comunale Matusa,Italy,Luca Banti,Italy
+3878546,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,232,Sassuolo,227,Napoli,2,1,1,MAPEI Stadium - Città del Tricolore,Italy,Daniele Doveri,Italy
+3878545,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,234,Sampdoria,1683,Carpi,5,2,1,Stadio Comunale Luigi Ferraris,Italy,Michael Fabbri,Italy
+3878544,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,2256,Palermo,233,Genoa,1,0,1,Stadio Renzo Barbera,Italy,Massimiliano Irrati,Italy
+3878543,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,238,Inter Milan,228,Atalanta,1,0,1,Stadio Giuseppe Meazza    ,Italy,Gianpaolo Calvarese	,Italy
+3878542,2015-08-23,20:45:00.000,12,Serie A,Italy,27,2015/2016,239,Fiorentina,243,AC Milan,2,0,1,Stadio Artemio Franchi    	,Italy,Paolo Valeri,Italy
+3878541,2015-08-22,18:00:00.000,12,Serie A,Italy,27,2015/2016,226,Hellas Verona,229,AS Roma,1,1,1,Stadio Marc''Antonio Bentegodi,Italy,Marco Guida,Italy
+3878540,2015-08-22,20:45:00.000,12,Serie A,Italy,27,2015/2016,236,Lazio,240,Bologna,2,1,1,Estadio Olímpico,Italy,Gianluca Rocchi,Italy
+3889182,1986-11-09,13:00:00.000,12,Serie A,Italy,86,1986/1987,224,Juventus,227,Napoli,1,3,9,Stadio Olimpico Grande Torino,Italy,Luigi Agnolin,Italy

@@ -1,0 +1,103 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3942819,2024-07-10,22:00:00.000,55,UEFA Euro,Europe,282,2024,941,Netherlands,768,England,1,2,6,Signal-Iduna-Park,Germany,Felix Zwayer,Germany
+3943043,2024-07-14,22:00:00.000,55,UEFA Euro,Europe,282,2024,772,Spain,768,England,2,1,7,Olympiastadion Berlin,Germany,François Letexier,France
+3942752,2024-07-09,22:00:00.000,55,UEFA Euro,Europe,282,2024,772,Spain,771,France,2,1,6,Allianz Arena,Germany,Slavko Vinčić,Slovenia
+3942382,2024-07-06,22:00:00.000,55,UEFA Euro,Europe,282,2024,941,Netherlands,909,Turkey,2,1,5,Olympiastadion Berlin,Germany,Clément Turpin,France
+3942349,2024-07-05,22:00:00.000,55,UEFA Euro,Europe,282,2024,780,Portugal,771,France,0,0,5,Volksparkstadion,Germany,Michael Oliver,England
+3930180,2024-06-25,19:00:00.000,55,UEFA Euro,Europe,282,2024,941,Netherlands,915,Austria,2,3,3,Olympiastadion Berlin,Germany,Ivan Kružliak,Slovakia
+3930171,2024-06-20,19:00:00.000,55,UEFA Euro,Europe,282,2024,776,Denmark,768,England,1,1,2,Deutsche Bank Park,Germany,Artur Manuel Ribeiro Soares Dias,Portugal
+3942227,2024-07-06,19:00:00.000,55,UEFA Euro,Europe,282,2024,768,England,773,Switzerland,1,1,5,Merkur Spiel-Arena,Germany,Daniele Orsato,Italy
+3942226,2024-07-05,19:00:00.000,55,UEFA Euro,Europe,282,2024,772,Spain,770,Germany,2,1,5,MHPArena,Germany,Anthony Taylor,England
+3938645,2024-06-26,19:00:00.000,55,UEFA Euro,Europe,282,2024,911,Ukraine,782,Belgium,0,0,3,MHPArena,Germany,Anthony Taylor,England
+3930184,2024-06-26,22:00:00.000,55,UEFA Euro,Europe,282,2024,912,Czech Republic,909,Turkey,1,2,3,Volksparkstadion,Germany,István Kovács,Romania
+3941022,2024-07-02,22:00:00.000,55,UEFA Euro,Europe,282,2024,915,Austria,909,Turkey,1,2,4,Red Bull Arena,Germany,Artur Manuel Ribeiro Soares Dias,Portugal
+3941021,2024-07-02,19:00:00.000,55,UEFA Euro,Europe,282,2024,905,Romania,941,Netherlands,0,3,4,Allianz Arena,Germany,Felix Zwayer,Germany
+3941020,2024-07-01,22:00:00.000,55,UEFA Euro,Europe,282,2024,780,Portugal,944,Slovenia,0,0,4,Deutsche Bank Park,Germany,Daniele Orsato,Italy
+3941019,2024-07-01,19:00:00.000,55,UEFA Euro,Europe,282,2024,771,France,782,Belgium,1,0,4,Merkur Spiel-Arena,Germany,Glenn Nyberg,Sweden
+3941018,2024-06-30,22:00:00.000,55,UEFA Euro,Europe,282,2024,772,Spain,2138,Georgia,4,1,4,RheinEnergieStadion,Germany,François Letexier,France
+3941017,2024-06-30,19:00:00.000,55,UEFA Euro,Europe,282,2024,768,England,908,Slovakia,2,1,4,VELTINS-Arena,Germany,Halil Umut Meler,Turkey
+3930182,2024-06-25,22:00:00.000,55,UEFA Euro,Europe,282,2024,776,Denmark,786,Serbia,0,0,3,Allianz Arena,Germany,François Letexier,France
+3930179,2024-06-24,22:00:00.000,55,UEFA Euro,Europe,282,2024,906,Albania,772,Spain,0,1,3,Merkur Spiel-Arena,Germany,Glenn Nyberg,Sweden
+3940983,2024-06-29,22:00:00.000,55,UEFA Euro,Europe,282,2024,770,Germany,776,Denmark,2,0,4,Signal-Iduna-Park,Germany,Michael Oliver,England
+3940878,2024-06-29,19:00:00.000,55,UEFA Euro,Europe,282,2024,773,Switzerland,914,Italy,2,0,4,Olympiastadion Berlin,Germany,Szymon Marciniak,Poland
+3930177,2024-06-23,22:00:00.000,55,UEFA Euro,Europe,282,2024,942,Scotland,916,Hungary,0,1,3,MHPArena,Germany,Facundo Tello Figueroa,Argentina
+3930173,2024-06-21,22:00:00.000,55,UEFA Euro,Europe,282,2024,941,Netherlands,771,France,0,0,2,Trainingszentrum RB Leipzig Platz 1,Germany,Anthony Taylor,England
+3930172,2024-06-20,22:00:00.000,55,UEFA Euro,Europe,282,2024,772,Spain,914,Italy,1,0,2,VELTINS-Arena,Germany,Slavko Vinčić,Slovenia
+3930167,2024-06-19,16:00:00.000,55,UEFA Euro,Europe,282,2024,785,Croatia,906,Albania,2,2,2,Volksparkstadion,Germany,François Letexier,France
+3930168,2024-06-19,19:00:00.000,55,UEFA Euro,Europe,282,2024,770,Germany,916,Hungary,2,0,2,MHPArena,Germany,Danny Desmond Makkelie,Netherlands
+3930165,2024-06-17,22:00:00.000,55,UEFA Euro,Europe,282,2024,915,Austria,771,France,0,1,1,Merkur Spiel-Arena,Germany,Jesús Gil Manzano,Spain
+3930164,2024-06-17,19:00:00.000,55,UEFA Euro,Europe,282,2024,782,Belgium,908,Slovakia,0,1,1,Deutsche Bank Park,Germany,Halil Umut Meler,Turkey
+3930161,2024-06-15,22:00:00.000,55,UEFA Euro,Europe,282,2024,914,Italy,906,Albania,2,1,1,Signal-Iduna-Park,Germany,Felix Zwayer,Germany
+3938637,2024-06-16,16:00:00.000,55,UEFA Euro,Europe,282,2024,789,Poland,941,Netherlands,1,2,1,Volksparkstadion,Germany,Artur Manuel Ribeiro Soares Dias,Portugal
+3938640,2024-06-21,16:00:00.000,55,UEFA Euro,Europe,282,2024,908,Slovakia,911,Ukraine,1,2,2,Merkur Spiel-Arena,Germany,Michael Oliver,England
+3938642,2024-06-22,16:00:00.000,55,UEFA Euro,Europe,282,2024,2138,Georgia,912,Czech Republic,1,1,2,Volksparkstadion,Germany,Daniel Siebert,Germany
+3938639,2024-06-18,19:00:00.000,55,UEFA Euro,Europe,282,2024,909,Turkey,2138,Georgia,3,1,1,Signal-Iduna-Park,Germany,Facundo Tello Figueroa,Argentina
+3938641,2024-06-21,19:00:00.000,55,UEFA Euro,Europe,282,2024,789,Poland,915,Austria,1,3,2,Olympiastadion Berlin,Germany,Halil Umut Meler,Turkey
+3938644,2024-06-26,22:00:00.000,55,UEFA Euro,Europe,282,2024,2138,Georgia,780,Portugal,2,0,3,VELTINS-Arena,Germany,Sandro Schärer,Switzerland
+3938643,2024-06-25,19:00:00.000,55,UEFA Euro,Europe,282,2024,771,France,789,Poland,1,1,3,Signal-Iduna-Park,Germany,Marco Guida,Italy
+3938638,2024-06-17,16:00:00.000,55,UEFA Euro,Europe,282,2024,905,Romania,911,Ukraine,3,0,1,Allianz Arena,Germany,Glenn Nyberg,Sweden
+3930183,2024-06-26,19:00:00.000,55,UEFA Euro,Europe,282,2024,908,Slovakia,905,Romania,1,1,3,Deutsche Bank Park,Germany,Daniel Siebert,Germany
+3930181,2024-06-25,22:00:00.000,55,UEFA Euro,Europe,282,2024,768,England,944,Slovenia,0,0,3,RheinEnergieStadion,Germany,Clément Turpin,France
+3930178,2024-06-24,22:00:00.000,55,UEFA Euro,Europe,282,2024,785,Croatia,914,Italy,1,1,3,Red Bull Arena,Germany,Danny Desmond Makkelie,Netherlands
+3930176,2024-06-23,22:00:00.000,55,UEFA Euro,Europe,282,2024,773,Switzerland,770,Germany,1,1,3,Deutsche Bank Park,Germany,Daniele Orsato,Italy
+3930175,2024-06-22,22:00:00.000,55,UEFA Euro,Europe,282,2024,782,Belgium,905,Romania,2,0,2,RheinEnergieStadion,Germany,Szymon Marciniak,Poland
+3930174,2024-06-22,19:00:00.000,55,UEFA Euro,Europe,282,2024,909,Turkey,780,Portugal,0,3,2,Signal-Iduna-Park,Germany,Felix Zwayer,Germany
+3930170,2024-06-20,16:00:00.000,55,UEFA Euro,Europe,282,2024,944,Slovenia,786,Serbia,1,1,2,Allianz Arena,Germany,István Kovács,Romania
+3930169,2024-06-19,22:00:00.000,55,UEFA Euro,Europe,282,2024,942,Scotland,773,Switzerland,1,1,2,RheinEnergieStadion,Germany,Ivan Kružliak,Slovakia
+3930166,2024-06-18,22:00:00.000,55,UEFA Euro,Europe,282,2024,780,Portugal,912,Czech Republic,2,1,1,Red Bull Arena,Germany,Marco Guida,Italy
+3930163,2024-06-16,22:00:00.000,55,UEFA Euro,Europe,282,2024,786,Serbia,768,England,0,1,1,VELTINS-Arena,Germany,Daniele Orsato,Italy
+3930162,2024-06-16,19:00:00.000,55,UEFA Euro,Europe,282,2024,944,Slovenia,776,Denmark,1,1,1,MHPArena,Germany,Sandro Schärer,Switzerland
+3930160,2024-06-15,19:00:00.000,55,UEFA Euro,Europe,282,2024,772,Spain,785,Croatia,3,0,1,Olympiastadion Berlin,Germany,Michael Oliver,England
+3930159,2024-06-15,16:00:00.000,55,UEFA Euro,Europe,282,2024,916,Hungary,773,Switzerland,1,3,1,RheinEnergieStadion,Germany,Slavko Vinčić,Slovenia
+3930158,2024-06-14,22:00:00.000,55,UEFA Euro,Europe,282,2024,770,Germany,942,Scotland,5,1,1,Allianz Arena,Germany,Clément Turpin,France
+3795108,2021-07-02,18:00:00.000,55,UEFA Euro,Europe,43,2020,773,Switzerland,772,Spain,1,1,5,Saint-Petersburg Stadium,Russia,Michael Oliver,England
+3788769,2021-06-21,21:00:00.000,55,UEFA Euro,Europe,43,2020,796,Russia,776,Denmark,1,4,3,Parken,Denmark,Clément Turpin,France
+3788766,2021-06-20,18:00:00.000,55,UEFA Euro,Europe,43,2020,914,Italy,907,Wales,1,0,3,Estadio Olímpico,Italy,Ovidiu Alin Hațegan,Romania
+3795220,2021-07-06,21:00:00.000,55,UEFA Euro,Europe,43,2020,914,Italy,772,Spain,1,1,6,Wembley Stadium,England,Felix Brych,Germany
+3788761,2021-06-18,15:00:00.000,55,UEFA Euro,Europe,43,2020,790,Sweden,908,Slovakia,1,0,2,Saint-Petersburg Stadium,Russia,Daniel Siebert,Germany
+3788764,2021-06-19,18:00:00.000,55,UEFA Euro,Europe,43,2020,780,Portugal,770,Germany,2,4,2,Allianz Arena,Germany,Anthony Taylor,England
+3788773,2021-06-23,21:00:00.000,55,UEFA Euro,Europe,43,2020,780,Portugal,771,France,2,2,3,Puskás Aréna,Hungary,Antonio Miguel Mateu Lahoz,Spain
+3788755,2021-06-16,18:00:00.000,55,UEFA Euro,Europe,43,2020,909,Turkey,907,Wales,0,2,2,Bakı Olimpiya Stadionu,Azerbaijan,Artur Manuel Ribeiro Soares Dias,Portugal
+3788754,2021-06-16,21:00:00.000,55,UEFA Euro,Europe,43,2020,914,Italy,773,Switzerland,3,0,2,Estadio Olímpico,Italy,Sergey Karasev,Russia
+3788762,2021-06-19,21:00:00.000,55,UEFA Euro,Europe,43,2020,772,Spain,789,Poland,1,1,2,Estadio de La Cartuja,Spain,Daniele Orsato,Italy
+3788760,2021-06-18,18:00:00.000,55,UEFA Euro,Europe,43,2020,785,Croatia,912,Czech Republic,1,1,2,Hampden Park,Scotland,Carlos del Cerro Grande,Spain
+3788747,2021-06-13,18:00:00.000,55,UEFA Euro,Europe,43,2020,915,Austria,2358,North Macedonia,3,1,1,Arena Naţională,Romania,Lars Christian Andreas Ekberg,Sweden
+3788741,2021-06-11,21:00:00.000,55,UEFA Euro,Europe,43,2020,909,Turkey,914,Italy,0,3,1,Estadio Olímpico,Italy,Danny Desmond Makkelie,Netherlands
+3795109,2021-07-03,18:00:00.000,55,UEFA Euro,Europe,43,2020,912,Czech Republic,776,Denmark,1,2,5,Bakı Olimpiya Stadionu,Azerbaijan,Björn Kuipers,Netherlands
+3795187,2021-07-03,21:00:00.000,55,UEFA Euro,Europe,43,2020,911,Ukraine,768,England,0,4,5,Estadio Olímpico,Italy,Felix Brych,Germany
+3788770,2021-06-21,18:00:00.000,55,UEFA Euro,Europe,43,2020,2358,North Macedonia,941,Netherlands,0,3,3,Johan Cruijff Arena (Amsterdam),Netherlands,Istvan Kovacs,Romania
+3795506,2021-07-11,21:00:00.000,55,UEFA Euro,Europe,43,2020,914,Italy,768,England,1,1,7,Wembley Stadium,England,Björn Kuipers,Netherlands
+3794688,2021-06-29,18:00:00.000,55,UEFA Euro,Europe,43,2020,768,England,770,Germany,2,0,4,Wembley Stadium,England,Danny Desmond Makkelie,Netherlands
+3794692,2021-06-29,21:00:00.000,55,UEFA Euro,Europe,43,2020,790,Sweden,911,Ukraine,1,2,4,Hampden Park,Scotland,Daniele Orsato,Italy
+3794686,2021-06-28,18:00:00.000,55,UEFA Euro,Europe,43,2020,785,Croatia,772,Spain,3,5,4,Parken,Denmark,Cüneyt Çakιr,Turkey
+3794687,2021-06-27,21:00:00.000,55,UEFA Euro,Europe,43,2020,782,Belgium,780,Portugal,1,0,4,Estadio de La Cartuja,Spain,Felix Brych,Germany
+3794685,2021-06-26,21:00:00.000,55,UEFA Euro,Europe,43,2020,914,Italy,915,Austria,2,1,4,Wembley Stadium,England,Anthony Taylor,England
+3788774,2021-06-23,21:00:00.000,55,UEFA Euro,Europe,43,2020,770,Germany,916,Hungary,2,2,3,Allianz Arena,Germany,Sergey Karasev,Russia
+3788771,2021-06-22,21:00:00.000,55,UEFA Euro,Europe,43,2020,785,Croatia,942,Scotland,3,1,3,Hampden Park,Scotland,Fernando Andrés Rapallini,Argentina
+3788772,2021-06-22,21:00:00.000,55,UEFA Euro,Europe,43,2020,912,Czech Republic,768,England,0,1,3,Wembley Stadium,England,Artur Manuel Ribeiro Soares Dias,Portugal
+3788768,2021-06-21,21:00:00.000,55,UEFA Euro,Europe,43,2020,1835,Finland,782,Belgium,0,2,3,Saint-Petersburg Stadium,Russia,Felix Brych,Germany
+3788767,2021-06-21,18:00:00.000,55,UEFA Euro,Europe,43,2020,911,Ukraine,915,Austria,0,1,3,Arena Naţională,Romania,Cüneyt Çakιr,Turkey
+3788753,2021-06-16,15:00:00.000,55,UEFA Euro,Europe,43,2020,1835,Finland,796,Russia,0,1,2,Saint-Petersburg Stadium,Russia,Danny Desmond Makkelie,Netherlands
+3788765,2021-06-20,18:00:00.000,55,UEFA Euro,Europe,43,2020,773,Switzerland,909,Turkey,3,1,3,Bakı Olimpiya Stadionu,Azerbaijan,Slavko Vinčić,Slovenia
+3788763,2021-06-19,15:00:00.000,55,UEFA Euro,Europe,43,2020,916,Hungary,771,France,1,1,2,Puskás Aréna,Hungary,Michael Oliver,England
+3788759,2021-06-18,21:00:00.000,55,UEFA Euro,Europe,43,2020,768,England,942,Scotland,0,0,2,Wembley Stadium,England,Antonio Miguel Mateu Lahoz,Spain
+3788758,2021-06-17,15:00:00.000,55,UEFA Euro,Europe,43,2020,911,Ukraine,2358,North Macedonia,2,1,2,Arena Naţională,Romania,Fernando Andrés Rapallini,Argentina
+3788757,2021-06-17,18:00:00.000,55,UEFA Euro,Europe,43,2020,776,Denmark,782,Belgium,1,2,2,Parken,Denmark,Björn Kuipers,Netherlands
+3788745,2021-06-13,15:00:00.000,55,UEFA Euro,Europe,43,2020,768,England,785,Croatia,1,0,1,Wembley Stadium,England,Daniele Orsato,Italy
+3795107,2021-07-02,21:00:00.000,55,UEFA Euro,Europe,43,2020,782,Belgium,914,Italy,1,2,5,Allianz Arena,Germany,Slavko Vinčić,Slovenia
+3795221,2021-07-07,21:00:00.000,55,UEFA Euro,Europe,43,2020,768,England,776,Denmark,2,1,6,Wembley Stadium,England,Danny Desmond Makkelie,Netherlands
+3794689,2021-06-26,18:00:00.000,55,UEFA Euro,Europe,43,2020,907,Wales,776,Denmark,0,4,4,Johan Cruijff Arena (Amsterdam),Netherlands,Daniel Siebert,Germany
+3788746,2021-06-13,21:00:00.000,55,UEFA Euro,Europe,43,2020,941,Netherlands,911,Ukraine,3,2,1,Johan Cruijff Arena (Amsterdam),Netherlands,Felix Brych,Germany
+3794691,2021-06-28,21:00:00.000,55,UEFA Euro,Europe,43,2020,771,France,773,Switzerland,3,3,4,Arena Naţională,Romania,Fernando Andrés Rapallini,Argentina
+3794690,2021-06-27,18:00:00.000,55,UEFA Euro,Europe,43,2020,941,Netherlands,912,Czech Republic,0,2,4,Puskás Aréna,Hungary,Sergey Karasev,Russia
+3788756,2021-06-17,21:00:00.000,55,UEFA Euro,Europe,43,2020,941,Netherlands,915,Austria,2,0,2,Johan Cruijff Arena (Amsterdam),Netherlands,Orel Grinfeeld,Israel
+3788749,2021-06-14,18:00:00.000,55,UEFA Euro,Europe,43,2020,789,Poland,908,Slovakia,1,2,1,Saint-Petersburg Stadium,Russia,Ovidiu Alin Hațegan,Romania
+3788750,2021-06-14,21:00:00.000,55,UEFA Euro,Europe,43,2020,772,Spain,790,Sweden,0,0,1,Estadio de La Cartuja,Spain,Slavko Vinčić,Slovenia
+3788748,2021-06-14,15:00:00.000,55,UEFA Euro,Europe,43,2020,942,Scotland,912,Czech Republic,0,2,1,Hampden Park,Scotland,Daniel Siebert,Germany
+3788751,2021-06-15,21:00:00.000,55,UEFA Euro,Europe,43,2020,771,France,770,Germany,1,0,1,Allianz Arena,Germany,Carlos del Cerro Grande,Spain
+3788752,2021-06-15,18:00:00.000,55,UEFA Euro,Europe,43,2020,916,Hungary,780,Portugal,0,3,1,Puskás Aréna,Hungary,Cüneyt Çakιr,Turkey
+3788742,2021-06-12,18:00:00.000,55,UEFA Euro,Europe,43,2020,776,Denmark,1835,Finland,0,1,1,Parken,Denmark,Anthony Taylor,England
+3788775,2021-06-23,18:00:00.000,55,UEFA Euro,Europe,43,2020,908,Slovakia,772,Spain,0,5,3,Estadio de La Cartuja,Spain,Björn Kuipers,Netherlands
+3788776,2021-06-23,18:00:00.000,55,UEFA Euro,Europe,43,2020,790,Sweden,789,Poland,3,2,3,Saint-Petersburg Stadium,Russia,Michael Oliver,England
+3788743,2021-06-12,21:00:00.000,55,UEFA Euro,Europe,43,2020,782,Belgium,796,Russia,3,0,1,Saint-Petersburg Stadium,Russia,Antonio Miguel Mateu Lahoz,Spain
+3788744,2021-06-12,15:00:00.000,55,UEFA Euro,Europe,43,2020,907,Wales,773,Switzerland,1,1,1,Bakı Olimpiya Stadionu,Azerbaijan,Clément Turpin,France

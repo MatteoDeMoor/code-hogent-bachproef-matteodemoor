@@ -1,0 +1,341 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3890561,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,181,Schalke 04,1,4,34,PreZero Arena,Germany,Felix Brych,Germany
+3890505,2016-04-02,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,184,Eintracht Frankfurt,1,0,28,Allianz Arena,Germany,Florian Meyer,Germany
+3890511,2016-04-08,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,178,Hannover 96,2,2,29,Olympiastadion Berlin,Germany,Benjamin Brand,Germany
+3890515,2016-04-09,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,872,Darmstadt 98,1,2,29,Volksparkstadion,Germany,Peter Sippel,Germany
+3890411,2015-12-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,177,FSV Mainz 05,2,0,17,Olympiastadion Berlin,Germany,Peter Sippel,Germany
+3890397,2015-12-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,178,Hannover 96,1,0,16,PreZero Arena,Germany,Jochen Drees,Germany
+3890401,2015-12-13,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,184,Eintracht Frankfurt,4,1,16,Signal-Iduna-Park,Germany,Christian Dingert,Germany
+3890396,2015-12-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,171,Hamburger SV,1,1,16,Volkswagen Arena,Germany,Wolfgang Stark,Germany
+3890384,2015-11-29,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,174,VfB Stuttgart,4,1,14,Signal-Iduna-Park,Germany,Manuel Gräfe,Germany
+3890385,2015-12-04,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,178,Hannover 96,3,1,15,VELTINS-Arena,Germany,Wolfgang Stark,Germany
+3890282,2015-08-29,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,178,Hannover 96,3,0,3,Mewa Arena,Germany,Peter Sippel,Germany
+3890287,2015-09-12,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,172,Augsburg,2,1,4,Allianz Arena,Germany,Knut Kircher,Germany
+3890269,2015-08-22,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,174,VfB Stuttgart,3,2,2,Volksparkstadion,Germany,Günter Perl,Germany
+3890268,2015-08-21,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,176,Werder Bremen,1,1,2,Olympiastadion Berlin,Germany,Sascha Stegemann,Germany
+3890402,2015-12-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,181,Schalke 04,2,1,16,WWK Arena,Germany,Florian Meyer,Germany
+3890564,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,171,Hamburger SV,1,3,34,WWK Arena,Germany,Florian Meyer,Germany
+3890563,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,189,Ingolstadt,3,2,34,BayArena,Germany,Guido Winkmann,Germany
+3890562,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,186,FC Köln,2,2,34,Signal-Iduna-Park,Germany,Michael Weiner,Germany
+3890560,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,185,Borussia Mönchengladbach,0,2,34,Merck-Stadion am Böllenfalltor,Germany,Peter Sippel,Germany
+3890559,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,178,Hannover 96,3,1,34,Allianz Arena,Germany,Knut Kircher,Germany
+3890558,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,173,Hertha Berlin,0,0,34,Mewa Arena,Germany,Sascha Stegemann,Germany
+3890557,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,184,Eintracht Frankfurt,1,0,34,Wohninvest Weserstadion ,Germany,Deniz Aytekin,Germany
+3890556,2016-05-14,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,174,VfB Stuttgart,3,1,34,Volkswagen Arena,Germany,Manuel Gräfe,Germany
+3890555,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,872,Darmstadt 98,1,2,33,Olympiastadion Berlin,Germany,Felix Brych,Germany
+3890554,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,176,Werder Bremen,0,0,33,RheinEnergieStadion,Germany,Felix Zwayer,Germany
+3890553,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,180,Borussia Dortmund,1,0,33,Deutsche Bank Park,Germany,Daniel Siebert,Germany
+3890552,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,177,FSV Mainz 05,1,3,33,Mercedes-Benz-Arena,Germany,Deniz Aytekin,Germany
+3890551,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,179,Wolfsburg,0,1,33,Volksparkstadion,Germany,Benjamin Brand,Germany
+3890550,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,904,Bayer Leverkusen,2,1,33,Stadion im BORUSSIA-PARK,Germany,Bastian Dankert,Germany
+3890549,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,172,Augsburg,1,1,33,VELTINS-Arena,Germany,Christian Dingert,Germany
+3890548,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,169,Bayern Munich,1,2,33,Audi-Sportpark,Germany,Florian Meyer,Germany
+3890547,2016-05-07,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,175,Hoffenheim,1,0,33,Heinz von Heiden-Arena,Germany,Wolfgang Stark,Germany
+3890546,2016-05-02,20:15:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,174,VfB Stuttgart,6,2,32,Wohninvest Weserstadion ,Germany,Felix Brych,Germany
+3890545,2016-04-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,171,Hamburger SV,0,0,32,Mewa Arena,Germany,Guido Winkmann,Germany
+3890544,2016-04-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,189,Ingolstadt,2,1,32,PreZero Arena,Germany,Bastian Dankert,Germany
+3890543,2016-04-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,181,Schalke 04,1,3,32,Heinz von Heiden-Arena,Germany,Günter Perl,Germany
+3890542,2016-04-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,179,Wolfsburg,5,1,32,Signal-Iduna-Park,Germany,Robert Hartmann,Germany
+3890541,2016-04-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,185,Borussia Mönchengladbach,1,1,32,Allianz Arena,Germany,Daniel Siebert,Germany
+3890540,2016-04-30,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,173,Hertha Berlin,2,1,32,BayArena,Germany,Tobias Stieler,Germany
+3890539,2016-04-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,184,Eintracht Frankfurt,1,2,32,Merck-Stadion am Böllenfalltor,Germany,Manuel Gräfe,Germany
+3890538,2016-04-29,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,186,FC Köln,0,0,32,WWK Arena,Germany,Tobias Welz,Germany
+3890537,2016-04-24,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,177,FSV Mainz 05,2,1,31,Deutsche Bank Park,Germany,Felix Zwayer,Germany
+3890536,2016-04-24,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,175,Hoffenheim,3,1,31,Stadion im BORUSSIA-PARK,Germany,Robert Hartmann,Germany
+3890535,2016-04-23,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,172,Augsburg,0,2,31,Volkswagen Arena,Germany,Knut Kircher,Germany
+3890534,2016-04-23,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,904,Bayer Leverkusen,2,3,31,VELTINS-Arena,Germany,Wolfgang Stark,Germany
+3890533,2016-04-23,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,169,Bayern Munich,0,2,31,Olympiastadion Berlin,Germany,Marco Fritz,Germany
+3890532,2016-04-23,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,178,Hannover 96,2,2,31,Audi-Sportpark,Germany,Sascha Stegemann,Germany
+3890531,2016-04-23,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,872,Darmstadt 98,4,1,31,RheinEnergieStadion,Germany,Christian Dingert,Germany
+3890530,2016-04-23,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,180,Borussia Dortmund,0,3,31,Mercedes-Benz-Arena,Germany,Daniel Siebert,Germany
+3890529,2016-04-22,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,176,Werder Bremen,2,1,31,Volksparkstadion,Germany,Manuel Gräfe,Germany
+3890528,2016-04-17,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,171,Hamburger SV,3,0,30,Signal-Iduna-Park,Germany,Marco Fritz,Germany
+3890527,2016-04-17,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,186,FC Köln,2,3,30,Mewa Arena,Germany,Peter Sippel,Germany
+3890526,2016-04-16,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,181,Schalke 04,3,0,30,Allianz Arena,Germany,Tobias Welz,Germany
+3890525,2016-04-16,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,189,Ingolstadt,2,0,30,Merck-Stadion am Böllenfalltor,Germany,Michael Weiner,Germany
+3890524,2016-04-16,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,173,Hertha Berlin,2,1,30,PreZero Arena,Germany,Guido Winkmann,Germany
+3890523,2016-04-16,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,179,Wolfsburg,3,2,30,Wohninvest Weserstadion ,Germany,Wolfgang Stark,Germany
+3890522,2016-04-16,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,174,VfB Stuttgart,1,0,30,WWK Arena,Germany,Tobias Stieler,Germany
+3890521,2016-04-16,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,184,Eintracht Frankfurt,3,0,30,BayArena,Germany,Deniz Aytekin,Germany
+3890520,2016-04-15,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,185,Borussia Mönchengladbach,2,0,30,Heinz von Heiden-Arena,Germany,Markus Schmidt,Germany
+3890519,2016-04-10,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,904,Bayer Leverkusen,0,2,29,RheinEnergieStadion,Germany,Manuel Gräfe,Germany
+3890518,2016-04-10,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,180,Borussia Dortmund,2,2,29,VELTINS-Arena,Germany,Felix Zwayer,Germany
+3890517,2016-04-09,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,185,Borussia Mönchengladbach,1,0,29,Audi-Sportpark,Germany,Tobias Welz,Germany
+3890516,2016-04-09,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,169,Bayern Munich,1,3,29,Mercedes-Benz-Arena,Germany,Bastian Dankert,Germany
+3890514,2016-04-09,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,172,Augsburg,1,2,29,Wohninvest Weserstadion ,Germany,Daniel Siebert,Germany
+3890513,2016-04-09,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,177,FSV Mainz 05,1,1,29,Volkswagen Arena,Germany,Günter Perl,Germany
+3890512,2016-04-09,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,175,Hoffenheim,0,2,29,Deutsche Bank Park,Germany,Felix Brych,Germany
+3890510,2016-04-03,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,173,Hertha Berlin,5,0,28,Stadion im BORUSSIA-PARK,Germany,Sascha Stegemann,Germany
+3890509,2016-04-03,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,186,FC Köln,1,1,28,PreZero Arena,Germany,Deniz Aytekin,Germany
+3890508,2016-04-02,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,181,Schalke 04,3,0,28,Audi-Sportpark,Germany,Daniel Siebert,Germany
+3890507,2016-04-02,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,176,Werder Bremen,3,2,28,Signal-Iduna-Park,Germany,Tobias Welz,Germany
+3890506,2016-04-02,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,174,VfB Stuttgart,2,2,28,Merck-Stadion am Böllenfalltor,Germany,Felix Zwayer,Germany
+3890504,2016-04-02,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,171,Hamburger SV,0,3,28,Heinz von Heiden-Arena,Germany,Robert Hartmann,Germany
+3890503,2016-04-02,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,172,Augsburg,4,2,28,Mewa Arena,Germany,Patrick Ittrich,Germany
+3890502,2016-04-01,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,179,Wolfsburg,3,0,28,BayArena,Germany,Felix Brych,Germany
+3890501,2016-03-20,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,180,Borussia Dortmund,1,3,27,WWK Arena,Germany,Christian Dingert,Germany
+3890500,2016-03-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,904,Bayer Leverkusen,0,2,27,Mercedes-Benz-Arena,Germany,Daniel Siebert,Germany
+3890499,2016-03-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,175,Hoffenheim,1,3,27,Volksparkstadion,Germany,Knut Kircher,Germany
+3890498,2016-03-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,872,Darmstadt 98,1,1,27,Volkswagen Arena,Germany,Markus Schmidt,Germany
+3890497,2016-03-19,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,178,Hannover 96,1,0,27,Deutsche Bank Park,Germany,Wolfgang Stark,Germany
+3890496,2016-03-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,189,Ingolstadt,2,1,27,Olympiastadion Berlin,Germany,Patrick Ittrich,Germany
+3890495,2016-03-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,169,Bayern Munich,0,1,27,RheinEnergieStadion,Germany,Tobias Welz,Germany
+3890494,2016-03-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,177,FSV Mainz 05,1,1,27,Wohninvest Weserstadion ,Germany,Manuel Gräfe,Germany
+3890493,2016-03-18,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,185,Borussia Mönchengladbach,2,1,27,VELTINS-Arena,Germany,Marco Fritz,Germany
+3890492,2016-03-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,171,Hamburger SV,1,0,26,BayArena,Germany,Christian Dingert,Germany
+3890491,2016-03-13,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,177,FSV Mainz 05,2,0,26,Signal-Iduna-Park,Germany,Deniz Aytekin,Germany
+3890490,2016-03-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,186,FC Köln,0,2,26,Heinz von Heiden-Arena,Germany,Peter Sippel,Germany
+3890489,2016-03-12,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,176,Werder Bremen,5,0,26,Allianz Arena,Germany,Guido Winkmann,Germany
+3890488,2016-03-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,184,Eintracht Frankfurt,3,0,26,Stadion im BORUSSIA-PARK,Germany,Michael Weiner,Germany
+3890487,2016-03-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,172,Augsburg,2,2,26,Merck-Stadion am Böllenfalltor,Germany,Bastian Dankert,Germany
+3890486,2016-03-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,179,Wolfsburg,1,0,26,PreZero Arena,Germany,Robert Hartmann,Germany
+3890485,2016-03-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,174,VfB Stuttgart,3,3,26,Audi-Sportpark,Germany,Manuel Gräfe,Germany
+3890484,2016-03-11,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,181,Schalke 04,2,0,26,Olympiastadion Berlin,Germany,Tobias Welz,Germany
+3890483,2016-03-06,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,173,Hertha Berlin,2,0,25,Volksparkstadion,Germany,Felix Brych,Germany
+3890482,2016-03-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,872,Darmstadt 98,0,0,25,Mewa Arena,Germany,Benjamin Brand,Germany
+3890481,2016-03-05,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,169,Bayern Munich,0,0,25,Signal-Iduna-Park,Germany,Tobias Stieler,Germany
+3890480,2016-03-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,181,Schalke 04,1,3,25,RheinEnergieStadion,Germany,Wolfgang Stark,Germany
+3890479,2016-03-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,189,Ingolstadt,1,1,25,Deutsche Bank Park,Germany,Sascha Stegemann,Germany
+3890478,2016-03-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,178,Hannover 96,4,1,25,Wohninvest Weserstadion ,Germany,Felix Zwayer,Germany
+3890477,2016-03-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,904,Bayer Leverkusen,3,3,25,WWK Arena,Germany,Markus Schmidt,Germany
+3890476,2016-03-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,175,Hoffenheim,5,1,25,Mercedes-Benz-Arena,Germany,Christian Dingert,Germany
+3890475,2016-03-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,185,Borussia Mönchengladbach,2,1,25,Volkswagen Arena,Germany,Daniel Siebert,Germany
+3890474,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,177,FSV Mainz 05,1,2,24,Allianz Arena,Germany,Sascha Stegemann,Germany
+3890473,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,171,Hamburger SV,3,2,24,VELTINS-Arena,Germany,Günter Perl,Germany
+3890472,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,176,Werder Bremen,1,4,24,BayArena,Germany,Marco Fritz,Germany
+3890471,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,174,VfB Stuttgart,4,0,24,Stadion im BORUSSIA-PARK,Germany,Tobias Welz,Germany
+3890470,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,184,Eintracht Frankfurt,2,0,24,Olympiastadion Berlin,Germany,Knut Kircher,Germany
+3890469,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,172,Augsburg,2,1,24,PreZero Arena,Germany,Guido Winkmann,Germany
+3890468,2016-03-02,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,180,Borussia Dortmund,0,2,24,Merck-Stadion am Böllenfalltor,Germany,Manuel Gräfe,Germany
+3890467,2016-03-01,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,186,FC Köln,1,1,24,Audi-Sportpark,Germany,Florian Meyer,Germany
+3890466,2016-03-01,21:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,179,Wolfsburg,0,4,24,Heinz von Heiden-Arena,Germany,Bastian Dankert,Germany
+3890465,2016-02-28,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,181,Schalke 04,0,0,23,Deutsche Bank Park,Germany,Felix Brych,Germany
+3890464,2016-02-28,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,175,Hoffenheim,3,1,23,Signal-Iduna-Park,Germany,Peter Sippel,Germany
+3890463,2016-02-28,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,904,Bayer Leverkusen,3,1,23,Mewa Arena,Germany,Deniz Aytekin,Germany
+3890462,2016-02-28,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,185,Borussia Mönchengladbach,2,2,23,WWK Arena,Germany,Knut Kircher,Germany
+3890461,2016-02-27,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,189,Ingolstadt,1,1,23,Volksparkstadion,Germany,Marco Fritz,Germany
+3890460,2016-02-27,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,178,Hannover 96,1,2,23,Mercedes-Benz-Arena,Germany,Sascha Stegemann,Germany
+3890459,2016-02-27,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,872,Darmstadt 98,2,2,23,Wohninvest Weserstadion ,Germany,Robert Hartmann,Germany
+3890458,2016-02-27,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,169,Bayern Munich,0,2,23,Volkswagen Arena,Germany,Manuel Gräfe,Germany
+3890457,2016-02-26,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,173,Hertha Berlin,0,1,23,RheinEnergieStadion,Germany,Tobias Stieler,Germany
+3890456,2016-02-21,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,180,Borussia Dortmund,0,1,22,BayArena,Germany,Felix Zwayer,Germany
+3890455,2016-02-21,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,174,VfB Stuttgart,1,1,22,VELTINS-Arena,Germany,Bastian Dankert,Germany
+3890454,2016-02-21,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,172,Augsburg,0,1,22,Heinz von Heiden-Arena,Germany,Daniel Siebert,Germany
+3890453,2016-02-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,872,Darmstadt 98,3,1,22,Allianz Arena,Germany,Michael Weiner,Germany
+3890452,2016-02-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,177,FSV Mainz 05,3,2,22,PreZero Arena,Germany,Günter Perl,Germany
+3890451,2016-02-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,179,Wolfsburg,1,1,22,Olympiastadion Berlin,Germany,Sascha Stegemann,Germany
+3890450,2016-02-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,186,FC Köln,1,0,22,Stadion im BORUSSIA-PARK,Germany,Knut Kircher,Germany
+3890449,2016-02-20,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,176,Werder Bremen,2,0,22,Audi-Sportpark,Germany,Tobias Welz,Germany
+3890448,2016-02-19,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,171,Hamburger SV,0,0,22,Deutsche Bank Park,Germany,Wolfgang Stark,Germany
+3890447,2016-02-14,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,185,Borussia Mönchengladbach,3,2,21,Volksparkstadion,Germany,Deniz Aytekin,Germany
+3890446,2016-02-14,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,169,Bayern Munich,1,3,21,WWK Arena,Germany,Florian Meyer,Germany
+3890445,2016-02-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,189,Ingolstadt,2,0,21,Volkswagen Arena,Germany,Patrick Ittrich,Germany
+3890444,2016-02-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,904,Bayer Leverkusen,1,2,21,Merck-Stadion am Böllenfalltor,Germany,Jochen Drees,Germany
+3890443,2016-02-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,175,Hoffenheim,1,1,21,Wohninvest Weserstadion ,Germany,Benjamin Brand,Germany
+3890442,2016-02-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,178,Hannover 96,1,0,21,Signal-Iduna-Park,Germany,Günter Perl,Germany
+3890441,2016-02-13,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,173,Hertha Berlin,2,0,21,Mercedes-Benz-Arena,Germany,Christian Dingert,Germany
+3890440,2016-02-13,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,184,Eintracht Frankfurt,3,1,21,RheinEnergieStadion,Germany,Felix Zwayer,Germany
+3890439,2016-02-12,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,181,Schalke 04,2,1,21,Mewa Arena,Germany,Manuel Gräfe,Germany
+3890438,2016-02-07,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,186,FC Köln,1,1,20,Volksparkstadion,Germany,Felix Brych,Germany
+3890437,2016-02-07,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,872,Darmstadt 98,0,2,20,PreZero Arena,Germany,Christian Dingert,Germany
+3890436,2016-02-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,172,Augsburg,2,1,20,Audi-Sportpark,Germany,Michael Weiner,Germany
+3890435,2016-02-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,180,Borussia Dortmund,0,0,20,Olympiastadion Berlin,Germany,Marco Fritz,Germany
+3890434,2016-02-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,177,FSV Mainz 05,0,1,20,Heinz von Heiden-Arena,Germany,Robert Hartmann,Germany
+3890433,2016-02-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,174,VfB Stuttgart,2,4,20,Deutsche Bank Park,Germany,Peter Sippel,Germany
+3890432,2016-02-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,179,Wolfsburg,3,0,20,VELTINS-Arena,Germany,Tobias Welz,Germany
+3890431,2016-02-06,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,169,Bayern Munich,0,0,20,BayArena,Germany,Knut Kircher,Germany
+3890430,2016-02-05,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,176,Werder Bremen,5,1,20,Stadion im BORUSSIA-PARK,Germany,Sascha Stegemann,Germany
+3890429,2016-01-31,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,186,FC Köln,1,1,19,Volkswagen Arena,Germany,Wolfgang Stark,Germany
+3890428,2016-01-31,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,175,Hoffenheim,2,0,19,Allianz Arena,Germany,Jochen Drees,Germany
+3890427,2016-01-30,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,178,Hannover 96,3,0,19,BayArena,Germany,Tobias Welz,Germany
+3890426,2016-01-30,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,184,Eintracht Frankfurt,0,0,19,WWK Arena,Germany,Sascha Stegemann,Germany
+3890425,2016-01-30,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,173,Hertha Berlin,3,3,19,Wohninvest Weserstadion ,Germany,Bastian Dankert,Germany
+3890424,2016-01-30,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,181,Schalke 04,0,2,19,Merck-Stadion am Böllenfalltor,Germany,Daniel Siebert,Germany
+3890423,2016-01-30,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,171,Hamburger SV,2,1,19,Mercedes-Benz-Arena,Germany,Günter Perl,Germany
+3890422,2016-01-30,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,189,Ingolstadt,2,0,19,Signal-Iduna-Park,Germany,Guido Winkmann,Germany
+3890421,2016-01-29,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,185,Borussia Mönchengladbach,1,0,19,Mewa Arena,Germany,Benjamin Brand,Germany
+3890420,2016-01-24,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,179,Wolfsburg,3,2,18,Deutsche Bank Park,Germany,Knut Kircher,Germany
+3890419,2016-01-24,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,176,Werder Bremen,1,3,18,VELTINS-Arena,Germany,Christian Dingert,Germany
+3890418,2016-01-23,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,872,Darmstadt 98,1,2,18,Heinz von Heiden-Arena,Germany,Deniz Aytekin,Germany
+3890417,2016-01-23,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,180,Borussia Dortmund,1,3,18,Stadion im BORUSSIA-PARK,Germany,Felix Brych,Germany
+3890416,2016-01-23,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,177,FSV Mainz 05,1,0,18,Audi-Sportpark,Germany,Florian Meyer,Germany
+3890415,2016-01-23,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,904,Bayer Leverkusen,1,1,18,PreZero Arena,Germany,Marco Fritz,Germany
+3890414,2016-01-23,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,172,Augsburg,0,0,18,Olympiastadion Berlin,Germany,Tobias Stieler,Germany
+3890413,2016-01-23,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,174,VfB Stuttgart,1,3,18,RheinEnergieStadion,Germany,Manuel Gräfe,Germany
+3890412,2016-01-22,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,169,Bayern Munich,1,2,18,Volksparkstadion,Germany,Felix Zwayer,Germany
+3890410,2015-12-20,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,872,Darmstadt 98,3,2,17,Stadion im BORUSSIA-PARK,Germany,Benjamin Brand,Germany
+3890409,2015-12-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,904,Bayer Leverkusen,0,1,17,Audi-Sportpark,Germany,Felix Zwayer,Germany
+3890408,2015-12-19,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,179,Wolfsburg,3,1,17,Mercedes-Benz-Arena,Germany,Felix Brych,Germany
+3890407,2015-12-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,169,Bayern Munich,0,1,17,Heinz von Heiden-Arena,Germany,Manuel Gräfe,Germany
+3890406,2015-12-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,180,Borussia Dortmund,2,1,17,RheinEnergieStadion,Germany,Knut Kircher,Germany
+3890405,2015-12-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,176,Werder Bremen,2,1,17,Deutsche Bank Park,Germany,Wolfgang Stark,Germany
+3890404,2015-12-19,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,172,Augsburg,0,1,17,Volksparkstadion,Germany,Bastian Dankert,Germany
+3890403,2015-12-18,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,175,Hoffenheim,1,0,17,VELTINS-Arena,Germany,Sascha Stegemann,Germany
+3890400,2015-12-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,186,FC Köln,1,1,16,Wohninvest Weserstadion ,Germany,Guido Winkmann,Germany
+3890399,2015-12-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,189,Ingolstadt,2,0,16,Allianz Arena,Germany,Michael Weiner,Germany
+3890398,2015-12-12,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,173,Hertha Berlin,0,4,16,Merck-Stadion am Böllenfalltor,Germany,Günter Perl,Germany
+3890395,2015-12-12,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,185,Borussia Mönchengladbach,5,0,16,BayArena,Germany,Tobias Stieler,Germany
+3890394,2015-12-11,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,174,VfB Stuttgart,0,0,16,Mewa Arena,Germany,Felix Zwayer,Germany
+3890393,2015-12-06,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,872,Darmstadt 98,0,1,15,Deutsche Bank Park,Germany,Felix Brych,Germany
+3890392,2015-12-06,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,176,Werder Bremen,1,1,15,Mercedes-Benz-Arena,Germany,Florian Meyer,Germany
+3890391,2015-12-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,172,Augsburg,0,1,15,RheinEnergieStadion,Germany,Daniel Siebert,Germany
+3890390,2015-12-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,904,Bayer Leverkusen,2,1,15,Olympiastadion Berlin,Germany,Robert Hartmann,Germany
+3890389,2015-12-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,175,Hoffenheim,1,1,15,Audi-Sportpark,Germany,Manuel Gräfe,Germany
+3890388,2015-12-05,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,180,Borussia Dortmund,1,2,15,Volkswagen Arena,Germany,Tobias Stieler,Germany
+3890387,2015-12-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,169,Bayern Munich,3,1,15,Stadion im BORUSSIA-PARK,Germany,Felix Zwayer,Germany
+3890386,2015-12-05,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,177,FSV Mainz 05,1,3,15,Volksparkstadion,Germany,Benjamin Brand,Germany
+3890383,2015-11-29,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,179,Wolfsburg,0,0,14,WWK Arena,Germany,Christian Dingert,Germany
+3890382,2015-11-29,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,181,Schalke 04,1,1,14,BayArena,Germany,Marco Fritz,Germany
+3890381,2015-11-28,16:45:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,184,Eintracht Frankfurt,2,1,14,Mewa Arena,Germany,Bastian Dankert,Germany
+3890380,2015-11-28,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,189,Ingolstadt,4,0,14,Heinz von Heiden-Arena,Germany,Tobias Stieler,Germany
+3890379,2015-11-28,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,171,Hamburger SV,1,3,14,Wohninvest Weserstadion ,Germany,Knut Kircher,Germany
+3890378,2015-11-28,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,173,Hertha Berlin,2,0,14,Allianz Arena,Germany,Jochen Drees,Germany
+3890377,2015-11-28,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,185,Borussia Mönchengladbach,3,3,14,PreZero Arena,Germany,Michael Weiner,Germany
+3890376,2015-11-27,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,186,FC Köln,0,0,14,Merck-Stadion am Böllenfalltor,Germany,Deniz Aytekin,Germany
+3890375,2015-11-22,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,175,Hoffenheim,1,0,13,Olympiastadion Berlin,Germany,Guido Winkmann,Germany
+3890374,2015-11-22,18:45:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,872,Darmstadt 98,3,1,13,Audi-Sportpark,Germany,Knut Kircher,Germany
+3890373,2015-11-21,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,178,Hannover 96,2,1,13,Stadion im BORUSSIA-PARK,Germany,Felix Brych,Germany
+3890372,2015-11-21,16:45:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,172,Augsburg,0,4,13,Mercedes-Benz-Arena,Germany,Sascha Stegemann,Germany
+3890371,2015-11-21,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,177,FSV Mainz 05,0,0,13,RheinEnergieStadion,Germany,Wolfgang Stark,Germany
+3890370,2015-11-21,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,904,Bayer Leverkusen,1,3,13,Deutsche Bank Park,Germany,Deniz Aytekin,Germany
+3890369,2015-11-21,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,169,Bayern Munich,1,3,13,VELTINS-Arena,Germany,Tobias Stieler,Germany
+3890368,2015-11-21,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,176,Werder Bremen,6,0,13,Volkswagen Arena,Germany,Peter Sippel,Germany
+3890367,2015-11-20,21:45:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,180,Borussia Dortmund,3,1,13,Volksparkstadion,Germany,Felix Zwayer,Germany
+3890366,2015-11-08,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,176,Werder Bremen,1,2,12,WWK Arena,Germany,Tobias Stieler,Germany
+3890365,2015-11-08,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,181,Schalke 04,3,2,12,Signal-Iduna-Park,Germany,Felix Brych,Germany
+3890364,2015-11-07,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,174,VfB Stuttgart,4,0,12,Allianz Arena,Germany,Bastian Dankert,Germany
+3890363,2015-11-07,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,189,Ingolstadt,0,0,12,Stadion im BORUSSIA-PARK,Germany,Marco Fritz,Germany
+3890362,2015-11-07,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,184,Eintracht Frankfurt,0,0,12,PreZero Arena,Germany,Knut Kircher,Germany
+3890361,2015-11-07,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,179,Wolfsburg,2,0,12,Mewa Arena,Germany,Daniel Siebert,Germany
+3890360,2015-11-07,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,171,Hamburger SV,1,1,12,Merck-Stadion am Böllenfalltor,Germany,Wolfgang Stark,Germany
+3890359,2015-11-07,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,186,FC Köln,1,2,12,BayArena,Germany,Felix Zwayer,Germany
+3890358,2015-11-06,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,173,Hertha Berlin,1,3,12,Heinz von Heiden-Arena,Germany,Christian Dingert,Germany
+3890357,2015-11-01,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,872,Darmstadt 98,2,0,11,Mercedes-Benz-Arena,Germany,Robert Hartmann,Germany
+3890356,2015-11-01,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,178,Hannover 96,1,2,11,Volksparkstadion,Germany,Sascha Stegemann,Germany
+3890355,2015-10-31,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,189,Ingolstadt,1,1,11,VELTINS-Arena,Germany,Florian Meyer,Germany
+3890354,2015-10-31,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,177,FSV Mainz 05,3,3,11,WWK Arena,Germany,Marco Fritz,Germany
+3890353,2015-10-31,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,180,Borussia Dortmund,1,3,11,Wohninvest Weserstadion ,Germany,Tobias Welz,Germany
+3890352,2015-10-31,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,175,Hoffenheim,0,0,11,RheinEnergieStadion,Germany,Günter Perl,Germany
+3890351,2015-10-31,16:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,185,Borussia Mönchengladbach,1,4,11,Olympiastadion Berlin,Germany,Peter Sippel,Germany
+3890350,2015-10-31,19:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,904,Bayer Leverkusen,2,1,11,Volkswagen Arena,Germany,Manuel Gräfe,Germany
+3890349,2015-10-30,21:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,169,Bayern Munich,0,0,11,Deutsche Bank Park,Germany,Daniel Siebert,Germany
+3890348,2015-10-25,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,181,Schalke 04,3,1,10,Stadion im BORUSSIA-PARK,Germany,Wolfgang Stark,Germany
+3890347,2015-10-25,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,172,Augsburg,5,1,10,Signal-Iduna-Park,Germany,Manuel Gräfe,Germany
+3890346,2015-10-24,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,174,VfB Stuttgart,4,3,10,BayArena,Germany,Felix Brych,Germany
+3890345,2015-10-24,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,184,Eintracht Frankfurt,1,2,10,Heinz von Heiden-Arena,Germany,Felix Zwayer,Germany
+3890344,2015-10-24,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,176,Werder Bremen,1,3,10,Mewa Arena,Germany,Robert Hartmann,Germany
+3890343,2015-10-24,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,173,Hertha Berlin,0,1,10,Audi-Sportpark,Germany,Sascha Stegemann,Germany
+3890342,2015-10-24,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,179,Wolfsburg,0,1,10,Merck-Stadion am Böllenfalltor,Germany,Günter Perl,Germany
+3890341,2015-10-24,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,186,FC Köln,4,0,10,Allianz Arena,Germany,Florian Meyer,Germany
+3890340,2015-10-23,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,171,Hamburger SV,0,1,10,PreZero Arena,Germany,Daniel Siebert,Germany
+3890339,2015-10-18,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,178,Hannover 96,0,1,9,RheinEnergieStadion,Germany,Bastian Dankert,Germany
+3890338,2015-10-18,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,189,Ingolstadt,1,0,9,Mercedes-Benz-Arena,Germany,Guido Winkmann,Germany
+3890337,2015-10-17,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,904,Bayer Leverkusen,0,0,9,Volksparkstadion,Germany,Tobias Welz,Germany
+3890336,2015-10-17,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,173,Hertha Berlin,2,1,9,VELTINS-Arena,Germany,Marco Fritz,Germany
+3890335,2015-10-17,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,175,Hoffenheim,4,2,9,Volkswagen Arena,Germany,Felix Brych,Germany
+3890334,2015-10-17,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,185,Borussia Mönchengladbach,1,5,9,Deutsche Bank Park,Germany,Florian Meyer,Germany
+3890333,2015-10-17,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,872,Darmstadt 98,0,2,9,WWK Arena,Germany,Sascha Stegemann,Germany
+3890332,2015-10-17,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,169,Bayern Munich,0,1,9,Wohninvest Weserstadion ,Germany,Christian Dingert,Germany
+3890331,2015-10-16,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,180,Borussia Dortmund,0,2,9,Mewa Arena,Germany,Tobias Stieler,Germany
+3890330,2015-10-04,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,172,Augsburg,1,1,8,BayArena,Germany,Tobias Stieler,Germany
+3890329,2015-10-04,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,180,Borussia Dortmund,5,1,8,Allianz Arena,Germany,Marco Fritz,Germany
+3890328,2015-10-04,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,186,FC Köln,0,3,8,VELTINS-Arena,Germany,Knut Kircher,Germany
+3890327,2015-10-03,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,174,VfB Stuttgart,2,2,8,PreZero Arena,Germany,Deniz Aytekin,Germany
+3890326,2015-10-03,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,184,Eintracht Frankfurt,2,0,8,Audi-Sportpark,Germany,Manuel Gräfe,Germany
+3890325,2015-10-03,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,176,Werder Bremen,1,0,8,Heinz von Heiden-Arena,Germany,Peter Sippel,Germany
+3890324,2015-10-03,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,171,Hamburger SV,3,0,8,Olympiastadion Berlin,Germany,Felix Brych,Germany
+3890323,2015-10-03,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,179,Wolfsburg,2,0,8,Stadion im BORUSSIA-PARK,Germany,Felix Zwayer,Germany
+3890322,2015-10-02,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,177,FSV Mainz 05,2,3,8,Merck-Stadion am Böllenfalltor,Germany,Florian Meyer,Germany
+3890321,2015-09-27,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,872,Darmstadt 98,2,2,7,Signal-Iduna-Park,Germany,Robert Hartmann,Germany
+3890320,2015-09-27,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,173,Hertha Berlin,1,1,7,Deutsche Bank Park,Germany,Benjamin Brand,Germany
+3890319,2015-09-26,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,178,Hannover 96,1,1,7,Volkswagen Arena,Germany,Deniz Aytekin,Germany
+3890318,2015-09-26,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,185,Borussia Mönchengladbach,1,3,7,Mercedes-Benz-Arena,Germany,Günter Perl,Germany
+3890317,2015-09-26,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,181,Schalke 04,0,1,7,Volksparkstadion,Germany,Jochen Drees,Germany
+3890316,2015-09-26,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,169,Bayern Munich,0,3,7,Mewa Arena,Germany,Bastian Dankert,Germany
+3890315,2015-09-26,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,904,Bayer Leverkusen,0,3,7,Wohninvest Weserstadion ,Germany,Wolfgang Stark,Germany
+3890314,2015-09-26,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,175,Hoffenheim,1,3,7,WWK Arena,Germany,Manuel Gräfe,Germany
+3890313,2015-09-25,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,189,Ingolstadt,1,1,7,RheinEnergieStadion,Germany,Christian Dingert,Germany
+3890312,2015-09-23,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,177,FSV Mainz 05,1,0,6,BayArena,Germany,Marco Fritz,Germany
+3890311,2015-09-23,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,184,Eintracht Frankfurt,2,0,6,VELTINS-Arena,Germany,Felix Zwayer,Germany
+3890310,2015-09-23,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,180,Borussia Dortmund,1,1,6,PreZero Arena,Germany,Tobias Welz,Germany
+3890309,2015-09-23,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,174,VfB Stuttgart,1,3,6,Heinz von Heiden-Arena,Germany,Sascha Stegemann,Germany
+3890308,2015-09-23,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,172,Augsburg,4,2,6,Stadion im BORUSSIA-PARK,Germany,Daniel Siebert,Germany
+3890307,2015-09-22,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,176,Werder Bremen,2,1,6,Merck-Stadion am Böllenfalltor,Germany,Guido Winkmann,Germany
+3890306,2015-09-22,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,186,FC Köln,2,0,6,Olympiastadion Berlin,Germany,Florian Meyer,Germany
+3890305,2015-09-22,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,179,Wolfsburg,5,1,6,Allianz Arena,Germany,Tobias Stieler,Germany
+3890304,2015-09-22,20:00:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,171,Hamburger SV,0,1,6,Audi-Sportpark,Germany,Knut Kircher,Germany
+3890303,2015-09-20,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,181,Schalke 04,0,1,5,Mercedes-Benz-Arena,Germany,Manuel Gräfe,Germany
+3890302,2015-09-20,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,178,Hannover 96,2,0,5,WWK Arena,Germany,Christian Dingert,Germany
+3890301,2015-09-20,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,904,Bayer Leverkusen,3,0,5,Signal-Iduna-Park,Germany,Deniz Aytekin,Germany
+3890300,2015-09-19,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,189,Ingolstadt,0,1,5,Wohninvest Weserstadion ,Germany,Bastian Dankert,Germany
+3890299,2015-09-19,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,185,Borussia Mönchengladbach,1,0,5,RheinEnergieStadion,Germany,Felix Brych,Germany
+3890298,2015-09-19,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,173,Hertha Berlin,2,0,5,Volkswagen Arena,Germany,Günter Perl,Germany
+3890297,2015-09-19,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,171,Hamburger SV,184,Eintracht Frankfurt,0,0,5,Volksparkstadion,Germany,Wolfgang Stark,Germany
+3890296,2015-09-19,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,169,Bayern Munich,0,3,5,Merck-Stadion am Böllenfalltor,Germany,Felix Zwayer,Germany
+3890295,2015-09-18,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,175,Hoffenheim,3,1,5,Mewa Arena,Germany,Daniel Siebert,Germany
+3890294,2015-09-13,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,176,Werder Bremen,1,3,4,PreZero Arena,Germany,Jochen Drees,Germany
+3890293,2015-09-13,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,177,FSV Mainz 05,2,1,4,VELTINS-Arena,Germany,Robert Hartmann,Germany
+3890292,2015-09-12,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,180,Borussia Dortmund,2,4,4,Heinz von Heiden-Arena,Germany,Daniel Siebert,Germany
+3890291,2015-09-12,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,179,Wolfsburg,0,0,4,Audi-Sportpark,Germany,Sascha Stegemann,Germany
+3890290,2015-09-12,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,173,Hertha Berlin,174,VfB Stuttgart,2,1,4,Olympiastadion Berlin,Germany,Tobias Stieler,Germany
+3890289,2015-09-12,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,186,FC Köln,6,2,4,Deutsche Bank Park,Germany,Marco Fritz,Germany
+3890288,2015-09-12,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,872,Darmstadt 98,0,1,4,BayArena,Germany,Peter Sippel,Germany
+3890286,2015-09-11,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,171,Hamburger SV,0,3,4,Stadion im BORUSSIA-PARK,Germany,Tobias Welz,Germany
+3890285,2015-08-30,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,185,Borussia Mönchengladbach,2,1,3,Wohninvest Weserstadion ,Germany,Felix Zwayer,Germany
+3890284,2015-08-30,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,173,Hertha Berlin,3,1,3,Signal-Iduna-Park,Germany,Guido Winkmann,Germany
+3890283,2015-08-29,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,175,Hoffenheim,0,0,3,Merck-Stadion am Böllenfalltor,Germany,Marco Fritz,Germany
+3890281,2015-08-29,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,189,Ingolstadt,0,1,3,WWK Arena,Germany,Jochen Drees,Germany
+3890280,2015-08-29,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,171,Hamburger SV,2,1,3,RheinEnergieStadion,Germany,Deniz Aytekin,Germany
+3890279,2015-08-29,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,184,Eintracht Frankfurt,1,4,3,Mercedes-Benz-Arena,Germany,Bastian Dankert,Germany
+3890278,2015-08-29,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,904,Bayer Leverkusen,3,0,3,Allianz Arena,Germany,Florian Meyer,Germany
+3890277,2015-08-28,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,181,Schalke 04,3,0,3,Volkswagen Arena,Germany,Felix Brych,Germany
+3890276,2015-08-23,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,185,Borussia Mönchengladbach,177,FSV Mainz 05,1,2,2,Stadion im BORUSSIA-PARK,Germany,Deniz Aytekin,Germany
+3890275,2015-08-23,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,189,Ingolstadt,180,Borussia Dortmund,0,4,2,Audi-Sportpark,Germany,Christian Dingert,Germany
+3890274,2015-08-22,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,186,FC Köln,179,Wolfsburg,1,1,2,RheinEnergieStadion,Germany,Knut Kircher,Germany
+3890273,2015-08-22,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,178,Hannover 96,904,Bayer Leverkusen,0,1,2,Heinz von Heiden-Arena,Germany,Wolfgang Stark,Germany
+3890272,2015-08-22,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,184,Eintracht Frankfurt,172,Augsburg,1,1,2,Deutsche Bank Park,Germany,Florian Meyer,Germany
+3890271,2015-08-22,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,181,Schalke 04,872,Darmstadt 98,1,1,2,VELTINS-Arena,Germany,Benjamin Brand,Germany
+3890270,2015-08-22,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,175,Hoffenheim,169,Bayern Munich,1,2,2,PreZero Arena,Germany,Tobias Stieler,Germany
+3890267,2015-08-16,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,179,Wolfsburg,184,Eintracht Frankfurt,2,1,1,Volkswagen Arena,Germany,Christian Dingert,Germany
+3890266,2015-08-16,17:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,174,VfB Stuttgart,186,FC Köln,1,3,1,Mercedes-Benz-Arena,Germany,Wolfgang Stark,Germany
+3890265,2015-08-15,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,172,Augsburg,173,Hertha Berlin,0,1,1,WWK Arena,Germany,Tobias Welz,Germany
+3890264,2015-08-15,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,176,Werder Bremen,181,Schalke 04,0,3,1,Wohninvest Weserstadion ,Germany,Daniel Siebert,Germany
+3890263,2015-08-15,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,177,FSV Mainz 05,189,Ingolstadt,0,1,1,Mewa Arena,Germany,Guido Winkmann,Germany
+3890262,2015-08-15,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,872,Darmstadt 98,178,Hannover 96,2,2,1,Merck-Stadion am Böllenfalltor,Germany,Felix Brych,Germany
+3890261,2015-08-15,18:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,180,Borussia Dortmund,185,Borussia Mönchengladbach,4,0,1,Signal-Iduna-Park,Germany,Tobias Stieler,Germany
+3890260,2015-08-15,15:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,904,Bayer Leverkusen,175,Hoffenheim,2,1,1,BayArena,Germany,Robert Hartmann,Germany
+3890259,2015-08-14,20:30:00.000,9,1. Bundesliga,Germany,27,2015/2016,169,Bayern Munich,171,Hamburger SV,5,0,1,Allianz Arena,Germany,Bastian Dankert,Germany
+3895302,2024-04-14,17:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,176,Werder Bremen,5,0,29,BayArena,Germany,Harm Osmers,Germany
+3895292,2024-04-06,15:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,190,Union Berlin,904,Bayer Leverkusen,0,1,28,Stadion An der Alten Försterei,Germany,Benjamin Brand,Germany
+3895333,2024-05-05,18:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,184,Eintracht Frankfurt,904,Bayer Leverkusen,1,5,32,Deutsche Bank Park,Germany,Christian Dingert,Germany
+3895340,2024-05-12,20:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,868,Bochum,904,Bayer Leverkusen,0,5,33,Vonovia Ruhrstadion,Germany,Benjamin Brand,Germany
+3895348,2024-05-18,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,172,Augsburg,2,1,34,BayArena,Germany,Matthias Jöllenbeck,Germany
+3895286,2024-03-30,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,175,Hoffenheim,2,1,27,BayArena,Germany,Deniz Aytekin,Germany
+3895220,2024-02-03,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,872,Darmstadt 98,904,Bayer Leverkusen,0,2,20,Merck-Stadion am Böllenfalltor,Germany,Tobias Reichel,Germany
+3895250,2024-02-23,21:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,177,FSV Mainz 05,2,1,23,BayArena,Germany,Timo Gerach,Germany
+3895266,2024-03-10,20:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,179,Wolfsburg,2,0,25,BayArena,Germany,Daniel Siebert,Germany
+3895275,2024-03-17,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,183,Freiburg,904,Bayer Leverkusen,2,3,26,Europa-Park Stadion,Germany,Harm Osmers,Germany
+3895180,2023-12-17,18:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,184,Eintracht Frankfurt,3,0,15,BayArena,Germany,Christian Dingert,Germany
+3895134,2023-11-04,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,175,Hoffenheim,904,Bayer Leverkusen,2,3,10,PreZero Arena,Germany,Frank Willenborg,Germany
+3895121,2023-10-29,18:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,183,Freiburg,2,1,9,BayArena,Germany,Daniel Siebert,Germany
+3895107,2023-10-08,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,186,FC Köln,3,0,7,BayArena,Germany,Felix Zwayer,Germany
+3895074,2023-09-15,21:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,169,Bayern Munich,904,Bayer Leverkusen,2,2,4,Allianz Arena,Germany,Daniel Schlager,Germany
+3895139,2023-11-12,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,190,Union Berlin,4,0,11,BayArena,Germany,Timo Gerach,Germany
+3895086,2023-09-24,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,201,FC Heidenheim,4,1,5,BayArena,Germany,Christian Dingert,Germany
+3895320,2024-04-27,19:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,174,VfB Stuttgart,2,2,31,BayArena,Germany,Felix Zwayer,Germany
+3895309,2024-04-21,17:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,180,Borussia Dortmund,904,Bayer Leverkusen,1,1,30,Signal-Iduna-Park,Germany,Daniel Siebert,Germany
+3895258,2024-03-03,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,186,FC Köln,904,Bayer Leverkusen,0,2,24,RheinEnergieStadion,Germany,Tobias Stieler,Germany
+3895244,2024-02-17,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,201,FC Heidenheim,904,Bayer Leverkusen,1,2,22,Voith-Arena,Germany,Harm Osmers,Germany
+3895232,2024-02-10,19:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,169,Bayern Munich,3,0,21,BayArena,Germany,Felix Zwayer,Germany
+3895210,2024-01-27,19:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,185,Borussia Mönchengladbach,0,0,19,BayArena,Germany,Deniz Aytekin,Germany
+3895202,2024-01-20,19:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,182,RB Leipzig,904,Bayer Leverkusen,2,3,18,Red Bull Arena,Germany,Matthias Jöllenbeck,Germany
+3895194,2024-01-13,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,172,Augsburg,904,Bayer Leverkusen,0,1,17,WWK Arena,Germany,Sven Jablonski,Germany
+3895182,2023-12-20,21:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,868,Bochum,4,0,16,BayArena,Germany,Daniel Schlager,Germany
+3895167,2023-12-10,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,174,VfB Stuttgart,904,Bayer Leverkusen,1,1,14,MHPArena,Germany,Deniz Aytekin,Germany
+3895158,2023-12-03,18:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,180,Borussia Dortmund,1,1,13,BayArena,Germany,Daniel Siebert,Germany
+3895153,2023-11-25,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,176,Werder Bremen,904,Bayer Leverkusen,0,3,12,Wohninvest Weserstadion ,Germany,Martin Petersen,Germany
+3895113,2023-10-21,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,179,Wolfsburg,904,Bayer Leverkusen,1,2,8,Volkswagen Arena,Germany,Marco Fritz,Germany
+3895095,2023-09-30,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,177,FSV Mainz 05,904,Bayer Leverkusen,0,3,6,Mewa Arena,Germany,Benjamin Brand,Germany
+3895067,2023-09-02,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,872,Darmstadt 98,5,1,3,BayArena,Germany,Sven Jablonski,Germany
+3895060,2023-08-26,19:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,185,Borussia Mönchengladbach,904,Bayer Leverkusen,0,3,2,Stadion im BORUSSIA-PARK,Germany,Christian Dingert,Germany
+3895052,2023-08-19,16:30:00.000,9,1. Bundesliga,Germany,281,2023/2024,904,Bayer Leverkusen,182,RB Leipzig,3,2,1,BayArena,Germany,Felix Brych,Germany

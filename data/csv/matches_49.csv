@@ -1,0 +1,37 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+7476,2018-07-08,01:00:00.000,49,NWSL,United States of America,3,2018,763,NJ/NY Gotham FC,761,Chicago Red Stars,1,3,13,Yurcak Field,United States of America,Jasmine Peralta,United States of America
+7482,2018-07-12,01:00:00.000,49,NWSL,United States of America,3,2018,766,North Carolina Courage,759,Washington Spirit,2,0,15,WakeMed Soccer Park,United States of America,Daniel Gutierrez,United States of America
+7494,2018-08-06,02:30:00.000,49,NWSL,United States of America,3,2018,762,Houston Dash,767,Utah Royals,1,2,17,Shell Energy Stadium,United States of America,Rosendo Mendoza,United States of America
+7486,2018-07-16,05:00:00.000,49,NWSL,United States of America,3,2018,765,Portland Thorns,762,Houston Dash,3,1,16,Providence Park,United States of America,Eric Tattersall,United States of America
+7497,2018-08-11,02:00:00.000,49,NWSL,United States of America,3,2018,761,Chicago Red Stars,766,North Carolina Courage,1,1,17,SeatGeek Stadium,United States of America,Matthew Franz,United States of America
+7430,2018-04-15,01:00:00.000,49,NWSL,United States of America,3,2018,759,Washington Spirit,766,North Carolina Courage,2,4,3,Maureen Hendricks Field Maryland SoccerPlex,United States of America,Jasmine Peralta,United States of America
+7444,2018-05-06,21:00:00.000,49,NWSL,United States of America,3,2018,766,North Carolina Courage,761,Chicago Red Stars,1,1,6,WakeMed Soccer Park,United States of America,Marco Vega,United States of America
+7443,2018-05-05,21:30:00.000,49,NWSL,United States of America,3,2018,765,Portland Thorns,760,OL Reign,2,3,6,Providence Park,United States of America,Karen Abt,United States of America
+7521,2018-06-03,01:00:00.000,49,NWSL,United States of America,3,2018,763,NJ/NY Gotham FC,767,Utah Royals,1,2,9,Yurcak Field,United States of America,Lorant Varga,United States of America
+7492,2018-08-06,01:30:00.000,49,NWSL,United States of America,3,2018,764,Orlando Pride,763,NJ/NY Gotham FC,2,2,19,Exploria Stadium,United States of America,Luis Guardia,United States of America
+7524,2018-07-12,02:30:00.000,49,NWSL,United States of America,3,2018,762,Houston Dash,764,Orlando Pride,3,1,14,Shell Energy Stadium,United States of America,Christina Unkel,United States of America
+7496,2018-08-09,04:00:00.000,49,NWSL,United States of America,3,2018,767,Utah Royals,759,Washington Spirit,1,0,19,America First Field,United States of America,Timothy Ford,United States of America
+7523,2018-06-04,03:00:00.000,49,NWSL,United States of America,3,2018,760,OL Reign,764,Orlando Pride,0,0,10,UW Medicine Pitch at Memorial Stadium,United States of America,Danielle Chesky,United States of America
+7520,2018-06-03,03:00:00.000,49,NWSL,United States of America,3,2018,759,Washington Spirit,761,Chicago Red Stars,0,2,9,Maureen Hendricks Field Maryland SoccerPlex,United States of America,Karen Abt,United States of America
+7493,2018-08-06,03:00:00.000,49,NWSL,United States of America,3,2018,760,OL Reign,759,Washington Spirit,2,0,17,UW Medicine Pitch at Memorial Stadium,United States of America,Mark Allatin,United States of America
+7500,2018-08-12,01:30:00.000,49,NWSL,United States of America,3,2018,764,Orlando Pride,765,Portland Thorns,0,2,20,Exploria Stadium,United States of America,Katja Koroleva,United States of America
+7519,2018-05-31,04:30:00.000,49,NWSL,United States of America,3,2018,765,Portland Thorns,766,North Carolina Courage,1,4,11,Providence Park,United States of America,Joe Dickerson,United States of America
+7473,2018-07-01,04:00:00.000,49,NWSL,United States of America,3,2018,767,Utah Royals,763,NJ/NY Gotham FC,3,1,13,America First Field,United States of America,Víctor Rivas,United States of America
+7522,2018-06-04,01:00:00.000,49,NWSL,United States of America,3,2018,762,Houston Dash,766,North Carolina Courage,1,1,10,Shell Energy Stadium,United States of America,Natalie Simon,United States of America
+7484,2018-07-15,01:00:00.000,49,NWSL,United States of America,3,2018,763,NJ/NY Gotham FC,766,North Carolina Courage,0,4,14,Yurcak Field,United States of America,Danielle Chesky,United States of America
+7475,2018-07-05,01:00:00.000,49,NWSL,United States of America,3,2018,766,North Carolina Courage,761,Chicago Red Stars,4,1,14,WakeMed Soccer Park,United States of America,Matthew Franz,United States of America
+7457,2018-05-24,01:30:00.000,49,NWSL,United States of America,3,2018,764,Orlando Pride,766,North Carolina Courage,3,4,9,Exploria Stadium,United States of America,Christina Unkel,United States of America
+7445,2018-05-06,03:00:00.000,49,NWSL,United States of America,3,2018,767,Utah Royals,759,Washington Spirit,2,0,6,America First Field,United States of America,Reyna Fonseca,United States of America
+7490,2018-07-22,01:00:00.000,49,NWSL,United States of America,3,2018,763,NJ/NY Gotham FC,765,Portland Thorns,1,2,15,Yurcak Field,United States of America,Reyna Fonseca,United States of America
+7479,2018-07-08,01:30:00.000,49,NWSL,United States of America,3,2018,764,Orlando Pride,759,Washington Spirit,2,1,16,Exploria Stadium,United States of America,Danielle Chesky,United States of America
+7478,2018-07-08,04:00:00.000,49,NWSL,United States of America,3,2018,760,OL Reign,762,Houston Dash,3,1,14,UW Medicine Pitch at Memorial Stadium,United States of America,Reyna Fonseca,United States of America
+7456,2018-05-20,01:00:00.000,49,NWSL,United States of America,3,2018,763,NJ/NY Gotham FC,766,North Carolina Courage,1,2,6,Yurcak Field,United States of America,Danielle Chesky,United States of America
+7471,2018-06-30,21:30:00.000,49,NWSL,United States of America,3,2018,764,Orlando Pride,766,North Carolina Courage,0,3,15,Exploria Stadium,United States of America,Elvis Osmanovic,United States of America
+7477,2018-07-07,05:00:00.000,49,NWSL,United States of America,3,2018,765,Portland Thorns,767,Utah Royals,4,0,15,Providence Park,United States of America,Farhad Dadkho,United States of America
+7472,2018-07-01,04:00:00.000,49,NWSL,United States of America,3,2018,760,OL Reign,765,Portland Thorns,1,0,13,UW Medicine Pitch at Memorial Stadium,United States of America,Christina Unkel,United States of America
+7474,2018-07-02,00:00:00.000,49,NWSL,United States of America,3,2018,761,Chicago Red Stars,759,Washington Spirit,2,0,13,SeatGeek Stadium,United States of America,Sergii Demianchuk,United States of America
+7487,2018-07-21,04:00:00.000,49,NWSL,United States of America,3,2018,767,Utah Royals,766,North Carolina Courage,0,0,17,America First Field,United States of America,Christina Unkel,United States of America
+7485,2018-07-15,02:00:00.000,49,NWSL,United States of America,3,2018,761,Chicago Red Stars,760,OL Reign,1,0,16,SeatGeek Stadium,United States of America,Natalie Simon,United States of America
+7483,2018-07-15,01:00:00.000,49,NWSL,United States of America,3,2018,767,Utah Royals,764,Orlando Pride,1,2,16,America First Field,United States of America,Reyna Fonseca,United States of America
+7451,2018-05-13,01:00:00.000,49,NWSL,United States of America,3,2018,766,North Carolina Courage,759,Washington Spirit,1,0,7,WakeMed Soccer Park,United States of America,Jonathan Bilinski,United States of America
+7480,2018-07-12,04:30:00.000,49,NWSL,United States of America,3,2018,760,OL Reign,767,Utah Royals,1,0,15,UW Medicine Pitch at Memorial Stadium,United States of America,Katja Koroleva,United States of America

@@ -1,0 +1,116 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3827767,2022-03-20,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7283,Kerala Blasters,1,1,25,Pandit Jawaharlal Nehru Stadium,India,Crystal John,India
+3827335,2022-03-15,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,2021,Jamshedpur,1,1,24,Tilak Maidan Stadium,India,Harish Kundu,India
+3827336,2022-03-16,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7289,Hyderabad,1,0,24,GMC Athletic Stadium,India,Ramachandran Venkatesh,India
+3827338,2022-03-12,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7282,ATK Mohun Bagan,3,1,23,GMC Athletic Stadium,India,Raul Gupta,India
+3827337,2022-03-11,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7283,Kerala Blasters,0,1,23,Pandit Jawaharlal Nehru Stadium,India,Tejas Nagvenkar,India
+3817856,2022-03-07,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,2021,Jamshedpur,0,1,19,Pandit Jawaharlal Nehru Stadium,India,Crystal John,India
+3817891,2022-03-05,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7284,Bengaluru,0,1,20,Tilak Maidan Stadium,India,Senthil Nathan,India
+3817870,2022-03-06,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7283,Kerala Blasters,4,4,22,GMC Athletic Stadium,India,Aditya Purkayastha,India
+3817899,2022-03-04,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7291,Odisha,5,1,20,GMC Athletic Stadium,India,Pratik Mondal,India
+3817866,2022-03-02,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7287,Mumbai City,3,1,13,Tilak Maidan Stadium,India,Raul Gupta,India
+3817889,2022-03-03,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7282,ATK Mohun Bagan,0,1,20,Pandit Jawaharlal Nehru Stadium,India,Crystal John,India
+3817887,2022-03-05,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7287,Mumbai City,2,1,21,Pandit Jawaharlal Nehru Stadium,India,Harish Kundu,India
+3817872,2022-02-21,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7291,Odisha,2,1,19,GMC Athletic Stadium,India,Senthil Nathan,India
+3817900,2022-02-20,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,2021,Jamshedpur,1,4,22,Tilak Maidan Stadium,India,Tejas Nagvenkar,India
+3817855,2022-02-19,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7282,ATK Mohun Bagan,2,2,14,Tilak Maidan Stadium,India,Raul Gupta,India
+3817863,2022-02-19,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7288,Goa,3,2,19,GMC Athletic Stadium,India,Arumughan Rowan,India
+3817877,2022-02-18,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7284,Bengaluru,2,1,18,Pandit Jawaharlal Nehru Stadium,India,Ramachandran Venkatesh,India
+3817901,2022-02-17,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7287,Mumbai City,3,2,14,GMC Athletic Stadium,India,Harish Kundu,India
+3817880,2022-02-16,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7290,Chennaiyin,2,2,21,Tilak Maidan Stadium,India,Pratik Mondal,India
+3817902,2022-02-14,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7286,East Bengal,1,0,21,Tilak Maidan Stadium,India,Aditya Purkayastha,India
+3817862,2022-02-13,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7291,Odisha,4,1,22,Pandit Jawaharlal Nehru Stadium,India,Senthil Nathan,India
+3817873,2022-02-12,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7285,NorthEast United,3,1,22,Pandit Jawaharlal Nehru Stadium,India,Ramachandran Venkatesh,India
+3817869,2022-02-11,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7289,Hyderabad,1,2,22,GMC Athletic Stadium,India,Tejas Nagvenkar,India
+3817881,2022-02-10,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7283,Kerala Blasters,3,0,18,GMC Athletic Stadium,India,Ashwin Mohanlal Kanojia,India
+3817895,2022-02-09,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7288,Goa,0,5,18,Tilak Maidan Stadium,India,Crystal John,India
+3817884,2022-02-08,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7282,ATK Mohun Bagan,1,2,17,GMC Athletic Stadium,India,Harish Kundu,India
+3817896,2022-02-07,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7291,Odisha,1,2,17,Tilak Maidan Stadium,India,Arumughan Rowan,India
+3817852,2022-02-06,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7287,Mumbai City,0,1,17,Pandit Jawaharlal Nehru Stadium,India,Aditya Purkayastha,India
+3817883,2022-02-05,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,2021,Jamshedpur,3,1,17,GMC Athletic Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3817886,2022-02-04,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7285,NorthEast United,2,1,17,Tilak Maidan Stadium,India,Pratik Mondal,India
+3817864,2022-02-03,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7282,ATK Mohun Bagan,1,1,16,Pandit Jawaharlal Nehru Stadium,India,Raul Gupta,India
+3817882,2022-02-02,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7290,Chennaiyin,2,2,16,Tilak Maidan Stadium,India,Ashwin Mohanlal Kanojia,India
+3817894,2022-02-01,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7291,Odisha,1,1,16,GMC Athletic Stadium,India,Senthil Nathan,India
+3817871,2022-01-31,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7289,Hyderabad,0,5,16,Pandit Jawaharlal Nehru Stadium,India,Ramachandran Venkatesh,India
+3817861,2022-01-30,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7284,Bengaluru,0,1,16,Tilak Maidan Stadium,India,Harish Kundu,India
+3817888,2022-01-29,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7286,East Bengal,3,1,15,Pandit Jawaharlal Nehru Stadium,India,Crystal John,India
+3817875,2022-01-28,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7288,Goa,1,0,15,GMC Athletic Stadium,India,Aditya Purkayastha,India
+3817868,2022-01-26,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7290,Chennaiyin,3,0,15,GMC Athletic Stadium,India,Pratik Mondal,India
+3817867,2022-01-25,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7285,NorthEast United,1,1,15,Pandit Jawaharlal Nehru Stadium,India,Arumughan Rowan,India
+3813313,2022-01-23,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7291,Odisha,0,0,11,Pandit Jawaharlal Nehru Stadium,India,Harish Kundu,India
+3817890,2022-01-14,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7285,NorthEast United,1,1,12,GMC Athletic Stadium,India,Ramachandran Venkatesh,India
+3813302,2022-01-06,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7285,NorthEast United,3,2,11,GMC Athletic Stadium,India,Arumughan Rowan,India
+3817857,2022-03-01,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,2021,Jamshedpur,0,3,13,GMC Athletic Stadium,India,Ramachandran Venkatesh,India
+3817898,2022-02-26,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7287,Mumbai City,0,2,20,GMC Athletic Stadium,India,Raul Gupta,India
+3817893,2022-02-28,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7285,NorthEast United,1,1,19,Tilak Maidan Stadium,India,Tejas Nagvenkar,India
+3817854,2022-02-27,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7284,Bengaluru,2,0,13,Pandit Jawaharlal Nehru Stadium,India,Harish Kundu,India
+3817892,2022-02-24,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7282,ATK Mohun Bagan,1,1,18,Tilak Maidan Stadium,India,Aditya Purkayastha,India
+3817859,2022-02-25,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,2021,Jamshedpur,2,3,21,Pandit Jawaharlal Nehru Stadium,India,Arumughan Rowan,India
+3817858,2022-02-26,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7290,Chennaiyin,3,0,19,Tilak Maidan Stadium,India,Pratik Mondal,India
+3817897,2022-02-23,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7283,Kerala Blasters,2,1,20,GMC Athletic Stadium,India,Harish Kundu,India
+3817885,2022-02-22,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7286,East Bengal,1,0,18,Pandit Jawaharlal Nehru Stadium,India,Ashwin Mohanlal Kanojia,India
+3817878,2022-01-24,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7289,Hyderabad,0,4,14,Tilak Maidan Stadium,India,Raul Gupta,India
+3817876,2022-01-22,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7285,NorthEast United,2,1,14,Pandit Jawaharlal Nehru Stadium,India,Crystal John,India
+3813305,2022-01-09,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7289,Hyderabad,1,0,11,Tilak Maidan Stadium,India,Pranjal Banerji,India
+3813266,2022-01-08,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7290,Chennaiyin,1,0,11,GMC Athletic Stadium,India,Pratik Mondal,India
+3813271,2022-01-02,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7288,Goa,2,2,10,Tilak Maidan Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3813311,2022-01-02,18:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7290,Chennaiyin,0,1,10,GMC Athletic Stadium,India,Pranjal Banerji,India
+3813303,2021-12-29,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7288,Goa,2,1,9,Pandit Jawaharlal Nehru Stadium,India,Crystal John,India
+3813304,2021-12-23,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7286,East Bengal,1,1,8,GMC Athletic Stadium,India,Aditya Purkayastha,India
+3813306,2021-12-21,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7282,ATK Mohun Bagan,2,3,8,Pandit Jawaharlal Nehru Stadium,India,Harish Kundu,India
+3813283,2021-12-30,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7284,Bengaluru,2,4,9,Tilak Maidan Stadium,India,Raul Gupta,India
+3813275,2021-12-26,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,2021,Jamshedpur,1,1,9,Tilak Maidan Stadium,India,Pratik Mondal,India
+3813278,2021-12-22,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7283,Kerala Blasters,0,3,8,Tilak Maidan Stadium,India,Crystal John,India
+3813295,2021-12-28,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7291,Odisha,6,1,9,GMC Athletic Stadium,India,Ashwin Mohanlal Kanojia,India
+3813296,2021-11-25,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7283,Kerala Blasters,0,0,2,Pandit Jawaharlal Nehru Stadium,India,,
+3813282,2021-12-19,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7283,Kerala Blasters,0,3,7,Pandit Jawaharlal Nehru Stadium,India,Pranjal Banerji,India
+3813269,2021-12-14,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,2021,Jamshedpur,0,4,6,Tilak Maidan Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3817879,2022-01-13,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7289,Hyderabad,1,1,12,Pandit Jawaharlal Nehru Stadium,India,Raul Gupta,India
+3817874,2022-01-23,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7288,Goa,1,1,14,GMC Athletic Stadium,India,Pranjal Banerji,India
+3817865,2022-01-18,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7291,Odisha,0,2,13,Pandit Jawaharlal Nehru Stadium,India,Ashwin Mohanlal Kanojia,India
+3817860,2022-01-27,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7289,Hyderabad,2,3,15,Tilak Maidan Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3817853,2022-01-19,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7286,East Bengal,1,2,13,GMC Athletic Stadium,India,Aditya Purkayastha,India
+3817851,2022-01-12,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7283,Kerala Blasters,0,2,12,Tilak Maidan Stadium,India,Senthil Nathan,India
+3817850,2022-01-11,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7286,East Bengal,1,0,12,GMC Athletic Stadium,India,Crystal John,India
+3817849,2022-01-10,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7284,Bengaluru,0,3,12,Pandit Jawaharlal Nehru Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3817848,2022-02-15,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7282,ATK Mohun Bagan,0,2,21,GMC Athletic Stadium,India,Crystal John,India
+3813318,2021-12-27,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7287,Mumbai City,3,3,9,Pandit Jawaharlal Nehru Stadium,India,Arumughan Rowan,India
+3813287,2021-12-16,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7282,ATK Mohun Bagan,3,3,7,GMC Athletic Stadium,India,Crystal John,India
+3813270,2021-11-22,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7288,Goa,3,0,1,Pandit Jawaharlal Nehru Stadium,India,Arumughan Rowan,India
+3813307,2021-12-20,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7284,Bengaluru,0,0,8,GMC Athletic Stadium,India,Senthil Nathan,India
+3813279,2021-12-18,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7291,Odisha,2,1,7,Tilak Maidan Stadium,India,Pratik Mondal,India
+3813281,2021-12-11,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7290,Chennaiyin,1,1,5,Pandit Jawaharlal Nehru Stadium,India,Raul Gupta,India
+3813274,2021-12-04,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7287,Mumbai City,1,3,4,GMC Athletic Stadium,India,Pranjal Banerji,India
+3813285,2021-12-11,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7284,Bengaluru,2,1,6,GMC Athletic Stadium,India,Pranjal Banerji,India
+3813317,2021-11-30,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7286,East Bengal,6,4,3,Tilak Maidan Stadium,India,Harish Kundu,India
+3813316,2021-12-04,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7288,Goa,2,1,4,Pandit Jawaharlal Nehru Stadium,India,Raul Gupta,India
+3813315,2021-11-26,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,2021,Jamshedpur,1,3,2,GMC Athletic Stadium,India,Senthil Nathan,India
+3813314,2021-11-19,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7283,Kerala Blasters,4,2,1,Pandit Jawaharlal Nehru Stadium,India,Harish Kundu,India
+3813312,2021-12-01,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7287,Mumbai City,1,5,3,Pandit Jawaharlal Nehru Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3813310,2021-12-12,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7283,Kerala Blasters,1,1,6,Tilak Maidan Stadium,India,Ramachandran Venkatesh,India
+3813309,2021-11-23,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7290,Chennaiyin,0,1,1,GMC Athletic Stadium,India,Pranjal Banerji,India
+3813308,2021-12-24,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7288,Goa,1,1,8,Tilak Maidan Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3813301,2021-12-10,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7285,NorthEast United,1,0,5,Tilak Maidan Stadium,India,Senthil Nathan,India
+3813300,2021-12-05,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7283,Kerala Blasters,7291,Odisha,2,1,4,Tilak Maidan Stadium,India,Ramachandran Venkatesh,India
+3813299,2021-12-08,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7284,Bengaluru,1,0,5,GMC Athletic Stadium,India,Harish Kundu,India
+3813298,2021-11-21,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,2021,Jamshedpur,1,1,1,Tilak Maidan Stadium,India,Crystal John,India
+3813297,2021-11-20,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7285,NorthEast United,4,2,1,GMC Athletic Stadium,India,Raul Gupta,India
+3813294,2021-11-29,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7290,Chennaiyin,1,2,3,Pandit Jawaharlal Nehru Stadium,India,Ashwin Mohanlal Kanojia,India
+3813293,2022-01-04,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7286,East Bengal,1,1,10,GMC Athletic Stadium,India,Harish Kundu,India
+3813292,2021-11-28,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7284,Bengaluru,7283,Kerala Blasters,1,1,3,GMC Athletic Stadium,India,Pranjal Banerji,India
+3813291,2021-11-27,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7282,ATK Mohun Bagan,0,3,2,Tilak Maidan Stadium,India,Raul Gupta,India
+3813290,2021-12-13,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7289,Hyderabad,7285,NorthEast United,5,1,6,GMC Athletic Stadium,India,Ashwin Mohanlal Kanojia,India
+3813289,2021-11-24,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7284,Bengaluru,3,1,2,Tilak Maidan Stadium,India,Ramachandran Venkatesh,India
+3813288,2021-12-02,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7289,Hyderabad,1,1,3,GMC Athletic Stadium,India,Pratik Mondal,India
+3813286,2021-12-15,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7290,Chennaiyin,1,0,6,Pandit Jawaharlal Nehru Stadium,India,Arumughan Rowan,India
+3813284,2021-12-09,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,2021,Jamshedpur,4,2,5,Pandit Jawaharlal Nehru Stadium,India,Aditya Purkayastha,India
+3813280,2021-12-03,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7290,Chennaiyin,7286,East Bengal,0,0,4,Tilak Maidan Stadium,India,Crystal John,India
+3813277,2021-11-27,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7287,Mumbai City,7289,Hyderabad,1,3,2,Pandit Jawaharlal Nehru Stadium,India,Pratik Mondal,India
+3813276,2021-12-17,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7285,NorthEast United,7286,East Bengal,2,0,7,Pandit Jawaharlal Nehru Stadium,India,Raul Gupta,India
+3813273,2022-01-03,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7291,Odisha,7287,Mumbai City,4,2,10,Tilak Maidan Stadium,India,Ramachandran Venkatesh,India
+3813272,2021-12-18,18:00:00.000,1238,Indian Super league,India,108,2021/2022,7288,Goa,7289,Hyderabad,1,1,7,GMC Athletic Stadium,India,Ramachandran Venkatesh,India
+3813268,2021-12-06,16:00:00.000,1238,Indian Super league,India,108,2021/2022,2021,Jamshedpur,7282,ATK Mohun Bagan,2,1,4,GMC Athletic Stadium,India,Arumughan Rowan,India
+3813267,2021-12-07,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7288,Goa,3,4,5,Tilak Maidan Stadium,India,Coimbatore Ramaswamy Srikrishna,India
+3813265,2022-01-07,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7286,East Bengal,7287,Mumbai City,0,0,11,Tilak Maidan Stadium,India,Senthil Nathan,India
+3813264,2022-01-05,16:00:00.000,1238,Indian Super league,India,108,2021/2022,7282,ATK Mohun Bagan,7289,Hyderabad,2,2,10,Pandit Jawaharlal Nehru Stadium,India,Raul Gupta,India

@@ -1,0 +1,4 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+3887188,1989-05-03,21:30:00.000,35,UEFA Europa League,Europe,75,1988/1989,227,Napoli,174,VfB Stuttgart,2,1,12,Stadio Diego Armando Maradona,Italy,Gerasimos Germanakos,Greece
+3750244,1989-04-05,,35,UEFA Europa League,Europe,75,1988/1989,227,Napoli,169,Bayern Munich,2,0,10,Stadio Diego Armando Maradona,Italy,Michel Vautrot,France
+3750245,1989-03-15,20:30:00.000,35,UEFA Europa League,Europe,75,1988/1989,227,Napoli,1076,Juventus,3,0,9,Stadio Diego Armando Maradona,Italy,Siegfried Kirschen,Germany

@@ -1,0 +1,869 @@
+match_id,match_date,kick_off,competition_id,competition_name,country_name,season_id,season_name,home_team_id,home_team_name,away_team_id,away_team_name,home_score,away_score,match_week,stadium_name,stadium_country,referee_name,referee_country
+9880,2018-04-14,16:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,207,Valencia,2,1,32,Spotify Camp Nou,Spain,Carlos del Cerro Grande,Spain
+9912,2018-04-29,20:45:00.000,11,La Liga,Spain,1,2017/2018,219,RC Deportivo La Coruña,217,Barcelona,2,4,35,Estadio Abanca-Riazor,Spain,Ricardo De Burgos Bengoetxea,Spain
+9924,2018-05-06,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,220,Real Madrid,2,2,36,Spotify Camp Nou,Spain,Alejandro José Hernández Hernández,Spain
+9855,2018-03-18,16:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,215,Athletic Club,2,0,29,Spotify Camp Nou,Spain,Santiago Jaime Latre,Spain
+9827,2018-03-01,21:00:00.000,11,La Liga,Spain,1,2017/2018,208,Las Palmas,217,Barcelona,1,1,26,Estadio de Gran Canaria,Spain,Antonio Miguel Mateu Lahoz,Spain
+9799,2018-02-17,16:15:00.000,11,La Liga,Spain,1,2017/2018,322,Eibar,217,Barcelona,0,2,24,Estadio Municipal de Ipurúa,Spain,Alejandro José Hernández Hernández,Spain
+9636,2017-10-01,16:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,208,Las Palmas,3,0,7,Spotify Camp Nou,Spain,José Luis Munuera Montero,Spain
+9609,2017-09-19,22:00:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,322,Eibar,6,1,5,Spotify Camp Nou,Spain,Alejandro José Hernández Hernández,Spain
+9575,2017-08-20,20:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,218,Real Betis,2,0,1,Spotify Camp Nou,Spain,Daniel Jesús Trujillo Suárez,Spain
+9928,2018-05-09,20:00:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,222,Villarreal,5,1,34,Spotify Camp Nou,Spain,,
+9736,2017-12-23,13:00:00.000,11,La Liga,Spain,1,2017/2018,220,Real Madrid,217,Barcelona,0,3,17,Estadio Santiago Bernabéu,Spain,,
+9742,2018-01-07,16:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,221,Levante UD,3,0,18,Spotify Camp Nou,Spain,,
+9765,2018-01-21,20:45:00.000,11,La Liga,Spain,1,2017/2018,218,Real Betis,217,Barcelona,0,5,20,Estadio Benito Villamarín,Spain,,
+9661,2017-10-28,20:45:00.000,11,La Liga,Spain,1,2017/2018,215,Athletic Club,217,Barcelona,0,2,10,San Mamés Barria,Spain,Juan Martínez Munuera,Spain
+9592,2017-09-09,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,214,Espanyol,5,0,3,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+9870,2018-04-07,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,205,Leganés,3,1,31,Spotify Camp Nou,Spain,Ricardo De Burgos Bengoetxea,Spain
+9783,2018-02-04,16:15:00.000,11,La Liga,Spain,1,2017/2018,214,Espanyol,217,Barcelona,1,1,22,RCDE Stadium,Spain,Jesús Gil Manzano,Spain
+9700,2017-12-02,13:00:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,209,Celta Vigo,2,2,14,Spotify Camp Nou,Spain,,
+9860,2018-03-31,20:45:00.000,11,La Liga,Spain,1,2017/2018,213,Sevilla,217,Barcelona,2,2,30,Estadio Ramón Sánchez Pizjuán,Spain,José Luis González González,Spain
+9695,2017-11-26,20:45:00.000,11,La Liga,Spain,1,2017/2018,207,Valencia,217,Barcelona,1,1,13,Estadio de Mestalla,Spain,Ignacio Iglesias Villanueva,Spain
+9794,2018-02-11,16:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,216,Getafe,0,0,23,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+9717,2017-12-10,20:45:00.000,11,La Liga,Spain,1,2017/2018,222,Villarreal,217,Barcelona,0,2,15,Estadio de la Cerámica,Spain,,
+9673,2017-11-04,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,213,Sevilla,2,1,11,Spotify Camp Nou,Spain,José Luis González González,Spain
+9650,2017-10-21,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,223,Málaga,2,0,9,Spotify Camp Nou,Spain,,
+9620,2017-09-23,20:45:00.000,11,La Liga,Spain,1,2017/2018,211,Girona,217,Barcelona,0,3,6,Estadi Municipal de Montilivi,Spain,José María Sánchez Martínez,Spain
+9837,2018-03-04,16:15:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,212,Atlético Madrid,1,0,27,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+9811,2018-02-24,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,211,Girona,6,1,25,Spotify Camp Nou,Spain,,
+9642,2017-10-14,20:45:00.000,11,La Liga,Spain,1,2017/2018,212,Atlético Madrid,217,Barcelona,1,1,8,	Estádio Cívitas Metropolitano,Spain,Antonio Miguel Mateu Lahoz,Spain
+9774,2018-01-28,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,206,Deportivo Alavés,2,1,21,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+9602,2017-09-16,16:15:00.000,11,La Liga,Spain,1,2017/2018,216,Getafe,217,Barcelona,1,2,4,Coliseum Alfonso Pérez,Spain,David Fernández Borbalan,Spain
+9948,2018-05-20,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,210,Real Sociedad,1,0,38,Spotify Camp Nou,Spain,José Luis Munuera Montero,Spain
+9682,2017-11-18,16:15:00.000,11,La Liga,Spain,1,2017/2018,205,Leganés,217,Barcelona,0,3,12,Estadio Municipal de Butarque,Spain,Alberto Undiano Mallenco,Spain
+9581,2017-08-26,18:15:00.000,11,La Liga,Spain,1,2017/2018,206,Deportivo Alavés,217,Barcelona,0,2,2,Estadio de Mendizorroza,Spain,Carlos del Cerro Grande,Spain
+9726,2017-12-17,20:45:00.000,11,La Liga,Spain,1,2017/2018,217,Barcelona,219,RC Deportivo La Coruña,4,0,16,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+9754,2018-01-14,20:45:00.000,11,La Liga,Spain,1,2017/2018,210,Real Sociedad,217,Barcelona,2,4,19,Reale Arena,Spain,José Luis González González,Spain
+9889,2018-04-17,21:00:00.000,11,La Liga,Spain,1,2017/2018,209,Celta Vigo,217,Barcelona,2,2,33,Abanca-Balaídos,Spain,David Fernández Borbalan,Spain
+266989,2016-11-06,20:45:00.000,11,La Liga,Spain,2,2016/2017,213,Sevilla,217,Barcelona,1,2,11,Estadio Ramón Sánchez Pizjuán,Spain,,
+266357,2016-12-10,13:00:00.000,11,La Liga,Spain,2,2016/2017,422,Osasuna,217,Barcelona,0,3,15,Estadio El Sadar,Spain,,
+267569,2017-04-23,20:45:00.000,11,La Liga,Spain,2,2016/2017,220,Real Madrid,217,Barcelona,2,3,33,Estadio Santiago Bernabéu,Spain,,
+267212,2016-09-17,13:00:00.000,11,La Liga,Spain,2,2016/2017,205,Leganés,217,Barcelona,1,5,4,Estadio Municipal de Butarque,Spain,,
+266669,2016-09-10,20:30:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,206,Deportivo Alavés,1,2,3,Spotify Camp Nou,Spain,,
+266892,2016-08-28,20:15:00.000,11,La Liga,Spain,2,2016/2017,215,Athletic Club,217,Barcelona,0,1,2,San Mamés Barria,Spain,Antonio Miguel Mateu Lahoz,Spain
+267220,2016-09-21,22:00:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,212,Atlético Madrid,1,1,5,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+267670,2016-08-20,18:15:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,218,Real Betis,6,2,1,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+266516,2017-01-29,12:00:00.000,11,La Liga,Spain,2,2016/2017,218,Real Betis,217,Barcelona,1,1,20,Estadio Benito Villamarín,Spain,,
+267039,2017-05-14,20:00:00.000,11,La Liga,Spain,2,2016/2017,208,Las Palmas,217,Barcelona,1,4,37,Estadio de Gran Canaria,Spain,José Luis González González,Spain
+266477,2017-01-08,20:45:00.000,11,La Liga,Spain,2,2016/2017,222,Villarreal,217,Barcelona,1,1,17,Estadio de la Cerámica,Spain,Ignacio Iglesias Villanueva,Spain
+267101,2017-04-26,19:30:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,422,Osasuna,7,1,34,Spotify Camp Nou,Spain,,
+266440,2017-03-19,20:45:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,207,Valencia,4,2,28,Spotify Camp Nou,Spain,,
+266033,2016-10-22,16:15:00.000,11,La Liga,Spain,2,2016/2017,207,Valencia,217,Barcelona,2,3,9,Estadio de Mestalla,Spain,Alberto Undiano Mallenco,Spain
+267660,2017-03-12,16:15:00.000,11,La Liga,Spain,2,2016/2017,219,RC Deportivo La Coruña,217,Barcelona,2,1,27,Estadio Abanca-Riazor,Spain,David Fernández Borbalan,Spain
+266273,2017-02-11,16:15:00.000,11,La Liga,Spain,2,2016/2017,206,Deportivo Alavés,217,Barcelona,0,6,22,Estadio de Mendizorroza,Spain,Carlos Clos Gómez,Spain
+267395,2017-01-14,16:15:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,208,Las Palmas,5,0,18,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+266874,2017-02-04,16:15:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,215,Athletic Club,3,0,21,Spotify Camp Nou,Spain,José Luis González González,Spain
+266731,2017-01-22,20:45:00.000,11,La Liga,Spain,2,2016/2017,322,Eibar,217,Barcelona,0,4,19,Estadio Municipal de Ipurúa,Spain,,
+266528,2016-12-18,20:45:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,214,Espanyol,4,1,16,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+266280,2017-04-05,19:30:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,213,Sevilla,3,0,30,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+267432,2017-05-21,20:00:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,322,Eibar,4,2,38,Spotify Camp Nou,Spain,,
+267076,2016-12-03,16:15:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,220,Real Madrid,1,1,14,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+267590,2017-04-08,20:45:00.000,11,La Liga,Spain,2,2016/2017,223,Málaga,217,Barcelona,2,0,31,Estadio La Rosaleda,Spain,Jesús Gil Manzano,Spain
+267373,2017-04-15,20:45:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,210,Real Sociedad,3,2,32,Spotify Camp Nou,Spain,,
+267077,2017-04-29,20:45:00.000,11,La Liga,Spain,2,2016/2017,214,Espanyol,217,Barcelona,0,3,35,RCDE Stadium,Spain,Alberto Undiano Mallenco,Spain
+266952,2017-05-06,18:30:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,222,Villarreal,4,1,36,Spotify Camp Nou,Spain,,
+267464,2017-02-26,16:15:00.000,11,La Liga,Spain,2,2016/2017,212,Atlético Madrid,217,Barcelona,1,2,24,Estadio Vicente Calderón,Spain,Antonio Miguel Mateu Lahoz,Spain
+266299,2017-03-04,20:45:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,209,Celta Vigo,5,0,26,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+266191,2016-11-27,20:45:00.000,11,La Liga,Spain,2,2016/2017,210,Real Sociedad,217,Barcelona,1,1,13,Reale Arena,Spain,Jesús Gil Manzano,Spain
+265952,2017-03-01,19:30:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,1041,Sporting Gijón,6,1,25,Spotify Camp Nou,Spain,,
+267492,2016-10-15,16:15:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,219,RC Deportivo La Coruña,4,0,8,Spotify Camp Nou,Spain,,
+267596,2017-02-19,20:45:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,205,Leganés,2,1,23,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+267058,2016-10-29,20:45:00.000,11,La Liga,Spain,2,2016/2017,217,Barcelona,1049,Granada,1,0,10,Spotify Camp Nou,Spain,,
+69243,2010-01-16,22:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,213,Sevilla,4,0,18,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+69241,2010-05-04,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,627,Tenerife,4,1,36,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+69239,2010-05-08,21:00:00.000,11,La Liga,Spain,21,2009/2010,213,Sevilla,217,Barcelona,2,3,37,Estadio Ramón Sánchez Pizjuán,Spain,Alberto Undiano Mallenco,Spain
+69257,2010-03-24,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,422,Osasuna,2,0,28,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+69253,2009-10-25,21:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,395,Real Zaragoza,6,1,8,Spotify Camp Nou,Spain,José Paradas,Spain
+69244,2010-05-01,22:00:00.000,11,La Liga,Spain,21,2009/2010,222,Villarreal,217,Barcelona,1,4,35,Estadio de la Cerámica,Spain,Fernando Teixeira,Spain
+69277,2009-10-31,20:00:00.000,11,La Liga,Spain,21,2009/2010,422,Osasuna,217,Barcelona,1,1,9,Estadio El Sadar,Spain,Antonio Rubinos Perez,Spain
+69229,2009-09-12,18:00:00.000,11,La Liga,Spain,21,2009/2010,216,Getafe,217,Barcelona,0,2,2,Coliseum Alfonso Pérez,Spain,Eduardo Iturralde Gonzalez,Spain
+69219,2010-01-10,21:00:00.000,11,La Liga,Spain,21,2009/2010,627,Tenerife,217,Barcelona,0,5,17,Estadio Heliodoro Rodríguez Lopéz,Spain,Miguel Pérez,Spain
+69218,2009-12-05,22:00:00.000,11,La Liga,Spain,21,2009/2010,219,RC Deportivo La Coruña,217,Barcelona,1,3,13,Estadio Abanca-Riazor,Spain,David Fernández Borbalan,Spain
+69250,2009-11-07,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,1043,Mallorca,4,2,10,Spotify Camp Nou,Spain,Turienzo,Spain
+69242,2010-05-16,19:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,901,Real Valladolid,4,0,38,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+69256,2009-10-03,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,403,Almería,1,0,6,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+69298,2010-03-27,20:00:00.000,11,La Liga,Spain,21,2009/2010,1043,Mallorca,217,Barcelona,0,1,29,Estadi Mallorca Son Moix,Spain,David Fernández Borbalan,Spain
+69259,2010-04-10,22:00:00.000,11,La Liga,Spain,21,2009/2010,220,Real Madrid,217,Barcelona,0,2,31,Estadio Santiago Bernabéu,Spain,Manuel Enrique Mejuto Gonzalez,Spain
+69224,2010-03-14,19:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,207,Valencia,3,0,26,Spotify Camp Nou,Spain,César Muñiz,Spain
+69210,2010-01-23,20:00:00.000,11,La Liga,Spain,21,2009/2010,901,Real Valladolid,217,Barcelona,0,3,19,Estadio Municipal José Zorrilla,Spain,Rafael Ramírez Domínguez,Spain
+69220,2010-01-30,20:00:00.000,11,La Liga,Spain,21,2009/2010,1041,Sporting Gijón,217,Barcelona,0,1,20,Estadio Municipal El Molinón,Spain,José Paradas,Spain
+69237,2010-02-14,21:00:00.000,11,La Liga,Spain,21,2009/2010,212,Atlético Madrid,217,Barcelona,2,1,22,Estadio Vicente Calderón,Spain,Eduardo Iturralde Gonzalez,Spain
+69226,2010-03-06,20:00:00.000,11,La Liga,Spain,21,2009/2010,403,Almería,217,Barcelona,2,2,25,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Spain,Carlos Clos Gómez,Spain
+69252,2009-10-17,22:00:00.000,11,La Liga,Spain,21,2009/2010,207,Valencia,217,Barcelona,0,0,7,Estadio de Mestalla,Spain,Alfonso Perez Burrull,Spain
+69255,2009-09-26,20:00:00.000,11,La Liga,Spain,21,2009/2010,223,Málaga,217,Barcelona,0,2,5,Estadio La Rosaleda,Spain,Carlos Delgado,Spain
+69214,2010-04-24,18:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,1219,Xerez,3,1,34,Spotify Camp Nou,Spain,César Muñiz,Spain
+69262,2009-11-29,19:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,220,Real Madrid,1,0,12,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+69240,2010-02-06,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,216,Getafe,2,1,21,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+69233,2010-02-20,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,1217,Racing Santander,4,0,23,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+69213,2010-04-17,20:00:00.000,11,La Liga,Spain,21,2009/2010,214,Espanyol,217,Barcelona,0,0,33,RCDE Stadium,Spain,Alberto Undiano Mallenco,Spain
+69238,2010-02-27,22:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,223,Málaga,2,1,24,Spotify Camp Nou,Spain,Antonio Rubinos Perez,Spain
+69267,2009-12-02,22:00:00.000,11,La Liga,Spain,21,2009/2010,1219,Xerez,217,Barcelona,0,2,15,Estadio Municipal de Chapín,Spain,Carlos Velasco Carballo,Spain
+69288,2009-11-21,22:00:00.000,11,La Liga,Spain,21,2009/2010,215,Athletic Club,217,Barcelona,1,1,11,Estadio San Mamés,Spain,Fernando Teixeira,Spain
+69254,2009-09-22,22:00:00.000,11,La Liga,Spain,21,2009/2010,1217,Racing Santander,217,Barcelona,1,4,4,Campos de Sport de El Sardinero,Spain,Antonio Miguel Mateu Lahoz,Spain
+69292,2009-09-19,22:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,212,Atlético Madrid,5,2,3,Spotify Camp Nou,Spain,Manuel Enrique Mejuto Gonzalez,Spain
+69227,2010-03-21,21:00:00.000,11,La Liga,Spain,21,2009/2010,395,Real Zaragoza,217,Barcelona,2,4,27,Estadio de la Romareda,Spain,Carlos Delgado,Spain
+69247,2010-04-03,20:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,215,Athletic Club,4,1,30,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+69221,2010-04-14,22:00:00.000,11,La Liga,Spain,21,2009/2010,217,Barcelona,219,RC Deportivo La Coruña,3,0,32,Spotify Camp Nou,Spain,José Paradas,Spain
+69276,2011-02-05,22:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,212,Atlético Madrid,3,0,22,Spotify Camp Nou,Spain,Turienzo,Spain
+69304,2011-04-02,22:00:00.000,11,La Liga,Spain,22,2010/2011,222,Villarreal,217,Barcelona,0,1,30,Estadio de la Cerámica,Spain,Rafael Ramírez Domínguez,Spain
+69307,2010-12-04,20:45:00.000,11,La Liga,Spain,22,2010/2011,422,Osasuna,217,Barcelona,0,3,14,Estadio El Sadar,Spain,Fernando Teixeira,Spain
+69271,2011-04-23,20:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,422,Osasuna,2,0,33,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+69305,2011-04-09,20:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,403,Almería,3,1,31,Spotify Camp Nou,Spain,Miguel Ayza,Spain
+69278,2011-01-16,21:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,223,Málaga,4,1,19,Spotify Camp Nou,Spain,José Luis González González,Spain
+69275,2010-12-18,20:00:00.000,11,La Liga,Spain,22,2010/2011,214,Espanyol,217,Barcelona,1,5,16,RCDE Stadium,Spain,Alberto Undiano Mallenco,Spain
+69295,2011-01-22,20:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,1217,Racing Santander,3,0,20,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+69270,2010-11-07,19:00:00.000,11,La Liga,Spain,22,2010/2011,216,Getafe,217,Barcelona,1,3,10,Coliseum Alfonso Pérez,Spain,Miguel Ayza,Spain
+69303,2011-03-19,20:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,216,Getafe,2,1,29,Spotify Camp Nou,Spain,César Muñiz,Spain
+69245,2011-04-16,22:00:00.000,11,La Liga,Spain,22,2010/2011,220,Real Madrid,217,Barcelona,1,1,32,Estadio Santiago Bernabéu,Spain,César Muñiz,Spain
+69287,2010-09-11,18:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,1218,Hércules,0,2,2,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+69296,2011-01-29,20:00:00.000,11,La Liga,Spain,22,2010/2011,1218,Hércules,217,Barcelona,0,3,21,Estadio José Rico Pérez,Spain,David Fernández Borbalan,Spain
+69260,2010-10-16,20:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,207,Valencia,2,1,7,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+69269,2010-09-19,19:00:00.000,11,La Liga,Spain,22,2010/2011,212,Atlético Madrid,217,Barcelona,1,2,3,Estadio Vicente Calderón,Spain,David Fernández Borbalan,Spain
+69246,2011-04-30,20:00:00.000,11,La Liga,Spain,22,2010/2011,210,Real Sociedad,217,Barcelona,2,1,34,Reale Arena,Spain,Fernando Teixeira,Spain
+69302,2010-12-12,21:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,210,Real Sociedad,5,0,15,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+69282,2011-02-20,21:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,215,Athletic Club,2,1,24,Spotify Camp Nou,Spain,Rafael Ramírez Domínguez,Spain
+69274,2011-03-02,22:00:00.000,11,La Liga,Spain,22,2010/2011,207,Valencia,217,Barcelona,0,1,26,Estadio de Mestalla,Spain,Eduardo Iturralde Gonzalez,Spain
+69283,2011-02-26,20:00:00.000,11,La Liga,Spain,22,2010/2011,1043,Mallorca,217,Barcelona,0,3,25,Estadi Mallorca Son Moix,Spain,Carlos Velasco Carballo,Spain
+69280,2011-01-08,22:00:00.000,11,La Liga,Spain,22,2010/2011,219,RC Deportivo La Coruña,217,Barcelona,0,4,18,Estadio Abanca-Riazor,Spain,Carlos Delgado,Spain
+69286,2010-08-29,19:00:00.000,11,La Liga,Spain,22,2010/2011,1217,Racing Santander,217,Barcelona,0,3,1,Campos de Sport de El Sardinero,Spain,Carlos Delgado,Spain
+69291,2011-03-13,21:00:00.000,11,La Liga,Spain,22,2010/2011,213,Sevilla,217,Barcelona,1,1,28,Estadio Ramón Sánchez Pizjuán,Spain,Miguel Pérez,Spain
+69236,2010-10-03,19:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,1043,Mallorca,1,1,6,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+69234,2011-05-08,19:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,214,Espanyol,2,0,35,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+69272,2011-05-11,20:00:00.000,11,La Liga,Spain,22,2010/2011,221,Levante UD,217,Barcelona,1,1,36,Estadio Ciudad de Valencia,Spain,José Paradas,Spain
+69308,2010-11-13,22:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,222,Villarreal,3,1,11,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+69299,2010-11-29,21:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,220,Real Madrid,5,0,13,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+69300,2011-03-05,20:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,395,Real Zaragoza,1,0,27,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+69289,2010-10-30,22:00:00.000,11,La Liga,Spain,22,2010/2011,217,Barcelona,213,Sevilla,5,0,9,Spotify Camp Nou,Spain,Turienzo,Spain
+69263,2010-10-23,18:00:00.000,11,La Liga,Spain,22,2010/2011,395,Real Zaragoza,217,Barcelona,0,2,8,Estadio de la Romareda,Spain,Miguel Pérez,Spain
+69306,2010-11-20,20:00:00.000,11,La Liga,Spain,22,2010/2011,403,Almería,217,Barcelona,0,8,12,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Spain,César Muñiz,Spain
+69248,2011-02-12,20:00:00.000,11,La Liga,Spain,22,2010/2011,1041,Sporting Gijón,217,Barcelona,1,1,23,Estadio Municipal El Molinón,Spain,Miguel Pérez,Spain
+69328,2012-02-19,21:30:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,207,Valencia,5,1,24,Spotify Camp Nou,Spain,Turienzo,Spain
+69329,2011-10-22,22:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,213,Sevilla,0,0,9,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+70219,2012-04-07,20:00:00.000,11,La Liga,Spain,23,2011/2012,395,Real Zaragoza,217,Barcelona,1,4,32,Estadio de la Romareda,Spain,Turienzo,Spain
+69331,2011-11-19,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,395,Real Zaragoza,4,0,13,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+69337,2012-02-26,21:30:00.000,11,La Liga,Spain,23,2011/2012,212,Atlético Madrid,217,Barcelona,1,2,25,Estadio Vicente Calderón,Spain,Miguel Pérez,Spain
+69322,2012-03-11,18:00:00.000,11,La Liga,Spain,23,2011/2012,1217,Racing Santander,217,Barcelona,0,2,27,Campos de Sport de El Sardinero,Spain,,
+69316,2012-02-04,22:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,210,Real Sociedad,2,1,22,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+69332,2011-11-29,21:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,360,Rayo Vallecano,4,0,17,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+69335,2012-01-22,18:00:00.000,11,La Liga,Spain,23,2011/2012,223,Málaga,217,Barcelona,1,4,1,Estadio La Rosaleda,Spain,Alberto Undiano Mallenco,Spain
+69330,2011-11-06,20:00:00.000,11,La Liga,Spain,23,2011/2012,215,Athletic Club,217,Barcelona,2,2,12,Estadio San Mamés,Spain,José Paradas,Spain
+69297,2011-09-24,22:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,212,Atlético Madrid,5,0,6,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+69325,2012-03-24,18:00:00.000,11,La Liga,Spain,23,2011/2012,1043,Mallorca,217,Barcelona,0,2,30,Estadi Mallorca Son Moix,Spain,Miguel Ayza,Spain
+69324,2012-04-21,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,220,Real Madrid,1,2,35,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+70225,2012-03-20,21:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,1049,Granada,5,3,29,Spotify Camp Nou,Spain,José Teixeira,Spain
+69293,2011-10-15,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,1217,Racing Santander,3,0,8,Spotify Camp Nou,Spain,Miguel Ayza,Spain
+70223,2011-09-21,22:00:00.000,11,La Liga,Spain,23,2011/2012,207,Valencia,217,Barcelona,2,2,5,Estadio de Mestalla,Spain,Carlos Velasco Carballo,Spain
+69333,2011-12-03,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,221,Levante UD,5,0,15,Spotify Camp Nou,Spain,José Teixeira,Spain
+69264,2011-09-10,18:00:00.000,11,La Liga,Spain,23,2011/2012,210,Real Sociedad,217,Barcelona,2,2,3,Reale Arena,Spain,Antonio Miguel Mateu Lahoz,Spain
+69343,2012-04-10,21:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,216,Getafe,4,0,33,Spotify Camp Nou,Spain,José Luis González González,Spain
+69340,2012-05-02,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,223,Málaga,4,1,20,Spotify Camp Nou,Spain,Turienzo,Spain
+69265,2011-10-02,20:00:00.000,11,La Liga,Spain,23,2011/2012,1041,Sporting Gijón,217,Barcelona,0,1,7,Estadio Municipal El Molinón,Spain,Carlos Clos Gómez,Spain
+69319,2012-05-12,22:00:00.000,11,La Liga,Spain,23,2011/2012,218,Real Betis,217,Barcelona,2,2,38,Estadio Benito Villamarín,Spain,Miguel Ayza,Spain
+69334,2011-12-10,22:00:00.000,11,La Liga,Spain,23,2011/2012,220,Real Madrid,217,Barcelona,1,3,16,Estadio Santiago Bernabéu,Spain,David Fernández Borbalan,Spain
+69327,2012-01-15,21:30:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,218,Real Betis,4,2,19,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+69315,2011-11-26,22:00:00.000,11,La Liga,Spain,23,2011/2012,216,Getafe,217,Barcelona,1,0,14,Coliseum Alfonso Pérez,Spain,Fernando Teixeira,Spain
+69336,2012-02-11,20:00:00.000,11,La Liga,Spain,23,2011/2012,422,Osasuna,217,Barcelona,3,2,23,Estadio El Sadar,Spain,José Paradas,Spain
+69326,2012-03-17,20:00:00.000,11,La Liga,Spain,23,2011/2012,213,Sevilla,217,Barcelona,0,2,28,Estadio Ramón Sánchez Pizjuán,Spain,José Luis González González,Spain
+69268,2011-08-29,21:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,222,Villarreal,5,0,2,Spotify Camp Nou,Spain,Turienzo,Spain
+69320,2012-05-05,21:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,214,Espanyol,4,0,37,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+69312,2012-01-08,21:30:00.000,11,La Liga,Spain,23,2011/2012,214,Espanyol,217,Barcelona,1,1,18,RCDE Stadium,Spain,Turienzo,Spain
+69314,2011-10-29,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,1043,Mallorca,5,0,11,Spotify Camp Nou,Spain,Pedro Jesús Pérez Montero,Spain
+69318,2011-10-25,20:00:00.000,11,La Liga,Spain,23,2011/2012,1049,Granada,217,Barcelona,0,1,10,Estadio Nuevo Los Cármenes,Spain,César Muñiz,Spain
+69338,2012-01-28,22:00:00.000,11,La Liga,Spain,23,2011/2012,222,Villarreal,217,Barcelona,0,0,21,Estadio de la Cerámica,Spain,José Teixeira,Spain
+70220,2011-09-17,20:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,422,Osasuna,8,0,4,Spotify Camp Nou,Spain,César Muñiz,Spain
+70224,2012-04-29,21:30:00.000,11,La Liga,Spain,23,2011/2012,360,Rayo Vallecano,217,Barcelona,0,7,36,Estadio de Vallecas,Spain,Carlos Delgado,Spain
+70221,2012-04-14,22:00:00.000,11,La Liga,Spain,23,2011/2012,221,Levante UD,217,Barcelona,1,2,34,Estadio Ciudad de Valencia,Spain,José Teixeira,Spain
+69323,2012-03-31,22:00:00.000,11,La Liga,Spain,23,2011/2012,217,Barcelona,215,Athletic Club,2,0,31,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+266015,2012-12-22,18:00:00.000,11,La Liga,Spain,24,2012/2013,901,Real Valladolid,217,Barcelona,1,3,17,Estadio Municipal José Zorrilla,Spain,Carlos Clos Gómez,Spain
+70270,2012-09-22,22:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,1049,Granada,2,0,5,Spotify Camp Nou,Spain,,
+70281,2013-05-05,21:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,218,Real Betis,4,2,34,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+70308,2012-11-03,18:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,209,Celta Vigo,3,1,10,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+70282,2013-02-03,19:00:00.000,11,La Liga,Spain,24,2012/2013,207,Valencia,217,Barcelona,1,1,22,Estadio de Mestalla,Spain,José Luis González González,Spain
+266724,2012-11-11,17:50:00.000,11,La Liga,Spain,24,2012/2013,1043,Mallorca,217,Barcelona,2,4,11,Estadi Mallorca Son Moix,Spain,Ignacio Iglesias Villanueva,Spain
+70272,2013-03-02,16:00:00.000,11,La Liga,Spain,24,2012/2013,220,Real Madrid,217,Barcelona,2,1,26,Estadio Santiago Bernabéu,Spain,Miguel Pérez,Spain
+70304,2012-10-20,22:00:00.000,11,La Liga,Spain,24,2012/2013,219,RC Deportivo La Coruña,217,Barcelona,4,5,8,Estadio Abanca-Riazor,Spain,José Paradas,Spain
+70280,2012-11-25,21:00:00.000,11,La Liga,Spain,24,2012/2013,221,Levante UD,217,Barcelona,0,4,13,Estadio Ciudad de Valencia,Spain,Pedro Jesús Pérez Montero,Spain
+70296,2012-12-16,21:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,212,Atlético Madrid,4,1,16,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+70297,2013-02-10,12:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,216,Getafe,6,1,23,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+266433,2013-01-06,19:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,214,Espanyol,4,0,18,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+70256,2013-03-30,18:00:00.000,11,La Liga,Spain,24,2012/2013,209,Celta Vigo,217,Barcelona,2,2,29,Abanca-Balaídos,Spain,Antonio Miguel Mateu Lahoz,Spain
+70259,2012-08-19,21:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,210,Real Sociedad,5,1,1,Spotify Camp Nou,Spain,José Luis González González,Spain
+70260,2013-01-27,19:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,422,Osasuna,5,1,21,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+70263,2012-12-01,20:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,215,Athletic Club,5,1,14,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+70276,2012-10-27,22:00:00.000,11,La Liga,Spain,24,2012/2013,360,Rayo Vallecano,217,Barcelona,0,5,9,Estadio de Vallecas,Spain,Miguel Pérez,Spain
+70287,2013-01-19,18:00:00.000,11,La Liga,Spain,24,2012/2013,210,Real Sociedad,217,Barcelona,3,2,20,Reale Arena,Spain,Alberto Undiano Mallenco,Spain
+70284,2013-05-12,19:00:00.000,11,La Liga,Spain,24,2012/2013,212,Atlético Madrid,217,Barcelona,1,2,35,Estadio Vicente Calderón,Spain,Pedro Jesús Pérez Montero,Spain
+70275,2012-09-29,22:00:00.000,11,La Liga,Spain,24,2012/2013,213,Sevilla,217,Barcelona,2,3,6,Estadio Ramón Sánchez Pizjuán,Spain,Antonio Miguel Mateu Lahoz,Spain
+70286,2012-09-02,21:30:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,207,Valencia,1,0,3,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+70309,2012-11-17,20:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,395,Real Zaragoza,3,1,12,Spotify Camp Nou,Spain,Miguel Ayza,Spain
+70300,2012-10-07,19:50:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,220,Real Madrid,2,2,7,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+70295,2012-12-09,21:00:00.000,11,La Liga,Spain,24,2012/2013,218,Real Betis,217,Barcelona,1,2,15,Estadio Benito Villamarín,Spain,Carlos Velasco Carballo,Spain
+70307,2013-03-17,21:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,360,Rayo Vallecano,3,1,28,Spotify Camp Nou,Spain,José Luis González González,Spain
+70305,2013-03-09,20:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,219,RC Deportivo La Coruña,2,0,27,Spotify Camp Nou,Spain,Pedro Jesús Pérez Montero,Spain
+266827,2013-01-13,21:00:00.000,11,La Liga,Spain,24,2012/2013,223,Málaga,217,Barcelona,1,3,19,Estadio La Rosaleda,Spain,Carlos Delgado,Spain
+267502,2013-04-27,18:00:00.000,11,La Liga,Spain,24,2012/2013,215,Athletic Club,217,Barcelona,2,2,33,Estadio San Mamés,Spain,Ignacio Iglesias Villanueva,Spain
+70271,2013-02-23,22:00:00.000,11,La Liga,Spain,24,2012/2013,217,Barcelona,213,Sevilla,2,1,25,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+70294,2013-02-16,20:00:00.000,11,La Liga,Spain,24,2012/2013,1049,Granada,217,Barcelona,1,2,24,Estadio Nuevo Los Cármenes,Spain,,
+70262,2012-08-26,19:00:00.000,11,La Liga,Spain,24,2012/2013,422,Osasuna,217,Barcelona,1,2,2,Estadio El Sadar,Spain,César Muñiz,Spain
+70292,2012-09-15,20:00:00.000,11,La Liga,Spain,24,2012/2013,216,Getafe,217,Barcelona,1,4,4,Coliseum Alfonso Pérez,Spain,Fernando Teixeira,Spain
+267368,2014-04-05,18:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,218,Real Betis,3,1,32,Spotify Camp Nou,Spain,Eduardo Prieto Iglesias,Spain
+70301,2013-09-14,20:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,213,Sevilla,3,2,4,Spotify Camp Nou,Spain,César Muñiz,Spain
+70298,2013-09-01,21:00:00.000,11,La Liga,Spain,25,2013/2014,207,Valencia,217,Barcelona,2,3,3,Estadio de Mestalla,Spain,José Teixeira,Spain
+70302,2013-09-21,20:00:00.000,11,La Liga,Spain,25,2013/2014,360,Rayo Vallecano,217,Barcelona,0,4,5,Estadio de Vallecas,Spain,Carlos Clos Gómez,Spain
+70291,2014-01-26,21:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,223,Málaga,3,0,21,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+267138,2014-04-12,20:00:00.000,11,La Liga,Spain,25,2013/2014,1049,Granada,217,Barcelona,1,0,33,Estadio Nuevo Los Cármenes,Spain,Carlos Delgado,Spain
+267520,2013-09-24,20:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,210,Real Sociedad,4,1,6,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+70289,2014-04-27,21:00:00.000,11,La Liga,Spain,25,2013/2014,222,Villarreal,217,Barcelona,2,3,35,Estadio de la Cerámica,Spain,David Fernández Borbalan,Spain
+266066,2014-03-02,21:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,403,Almería,4,1,26,Spotify Camp Nou,Spain,,
+267675,2014-02-09,21:00:00.000,11,La Liga,Spain,25,2013/2014,213,Sevilla,217,Barcelona,1,4,23,Estadio Ramón Sánchez Pizjuán,Spain,José Teixeira,Spain
+70288,2014-01-19,19:00:00.000,11,La Liga,Spain,25,2013/2014,221,Levante UD,217,Barcelona,1,1,20,Estadio Ciudad de Valencia,Spain,,
+266074,2014-03-16,17:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,422,Osasuna,7,0,28,Spotify Camp Nou,Spain,José Teixeira,Spain
+267567,2014-04-20,21:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,215,Athletic Club,2,1,34,Spotify Camp Nou,Spain,,
+266201,2014-05-11,19:00:00.000,11,La Liga,Spain,25,2013/2014,1042,Elche,217,Barcelona,0,0,37,Estadio Manuel Martínez Valero,Spain,Fernando Teixeira,Spain
+266274,2014-03-26,20:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,209,Celta Vigo,3,0,30,Spotify Camp Nou,Spain,Miguel Ayza,Spain
+70293,2013-10-26,18:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,220,Real Madrid,2,1,10,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+265918,2014-02-15,20:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,360,Rayo Vallecano,6,0,24,Spotify Camp Nou,Spain,,
+70277,2013-08-18,19:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,221,Levante UD,7,0,1,Spotify Camp Nou,Spain,,
+70283,2013-11-01,21:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,214,Espanyol,1,0,12,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+70306,2014-03-29,16:00:00.000,11,La Liga,Spain,25,2013/2014,214,Espanyol,217,Barcelona,0,1,31,RCDE Stadium,Spain,Carlos Clos Gómez,Spain
+266256,2014-05-17,18:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,212,Atlético Madrid,1,1,38,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+266613,2014-02-01,16:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,207,Valencia,2,3,22,Spotify Camp Nou,Spain,Pedro Jesús Pérez Montero,Spain
+266491,2014-05-03,16:00:00.000,11,La Liga,Spain,25,2013/2014,217,Barcelona,216,Getafe,2,2,36,Spotify Camp Nou,Spain,José Teixeira,Spain
+265830,2014-01-11,20:00:00.000,11,La Liga,Spain,25,2013/2014,212,Atlético Madrid,217,Barcelona,0,0,19,Estadio Vicente Calderón,Spain,Antonio Miguel Mateu Lahoz,Spain
+265857,2014-03-23,21:00:00.000,11,La Liga,Spain,25,2013/2014,220,Real Madrid,217,Barcelona,3,4,29,Estadio Santiago Bernabéu,Spain,Alberto Undiano Mallenco,Spain
+266883,2013-11-10,21:00:00.000,11,La Liga,Spain,25,2013/2014,218,Real Betis,217,Barcelona,1,4,13,Estadio Benito Villamarín,Spain,José Luis González González,Spain
+266603,2014-03-08,16:00:00.000,11,La Liga,Spain,25,2013/2014,901,Real Valladolid,217,Barcelona,1,0,27,Estadio Municipal José Zorrilla,Spain,,
+265837,2014-02-22,20:00:00.000,11,La Liga,Spain,25,2013/2014,210,Real Sociedad,217,Barcelona,3,1,25,Reale Arena,Spain,David Fernández Borbalan,Spain
+266462,2013-10-19,20:00:00.000,11,La Liga,Spain,25,2013/2014,422,Osasuna,217,Barcelona,0,0,9,Estadio El Sadar,Spain,Pedro Jesús Pérez Montero,Spain
+267192,2013-10-29,22:00:00.000,11,La Liga,Spain,25,2013/2014,209,Celta Vigo,217,Barcelona,0,3,11,Abanca-Balaídos,Spain,David Fernández Borbalan,Spain
+266420,2013-09-28,18:00:00.000,11,La Liga,Spain,25,2013/2014,403,Almería,217,Barcelona,0,2,7,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Spain,Miguel Ayza,Spain
+267183,2015-03-22,21:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,220,Real Madrid,2,1,28,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+265835,2014-11-22,20:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,213,Sevilla,5,1,12,Spotify Camp Nou,Spain,,
+266838,2014-09-24,22:00:00.000,11,La Liga,Spain,26,2014/2015,223,Málaga,217,Barcelona,0,0,5,Estadio La Rosaleda,Spain,,
+265963,2015-04-28,20:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,216,Getafe,6,0,34,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+266117,2014-09-27,18:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,1049,Granada,6,0,6,Spotify Camp Nou,Spain,,
+266916,2015-03-08,12:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,360,Rayo Vallecano,6,1,26,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+267197,2015-05-23,18:30:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,219,RC Deportivo La Coruña,2,2,38,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+70264,2014-12-13,16:00:00.000,11,La Liga,Spain,26,2014/2015,216,Getafe,217,Barcelona,0,0,15,Coliseum Alfonso Pérez,Spain,,
+70273,2014-09-13,16:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,215,Athletic Club,2,0,3,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+267301,2014-11-01,20:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,209,Celta Vigo,0,1,10,Spotify Camp Nou,Spain,,
+265896,2014-10-18,20:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,322,Eibar,3,0,8,Spotify Camp Nou,Spain,José Teixeira,Spain
+265866,2015-05-02,16:00:00.000,11,La Liga,Spain,26,2014/2015,373,Córdoba CF,217,Barcelona,0,8,35,Estadio Nuevo Arcángel,Spain,Carlos Clos Gómez,Spain
+267400,2015-04-08,20:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,403,Almería,4,0,30,Spotify Camp Nou,Spain,,
+266406,2014-08-31,19:00:00.000,11,La Liga,Spain,26,2014/2015,222,Villarreal,217,Barcelona,0,1,2,Estadio de la Cerámica,Spain,Carlos Velasco Carballo,Spain
+267085,2014-10-25,18:00:00.000,11,La Liga,Spain,26,2014/2015,220,Real Madrid,217,Barcelona,3,1,9,Estadio Santiago Bernabéu,Spain,Jesús Gil Manzano,Spain
+267561,2014-10-04,18:00:00.000,11,La Liga,Spain,26,2014/2015,360,Rayo Vallecano,217,Barcelona,0,2,7,Estadio de Vallecas,Spain,Antonio Miguel Mateu Lahoz,Spain
+266148,2015-02-21,16:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,223,Málaga,0,1,24,Spotify Camp Nou,Spain,,
+266045,2015-05-09,18:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,210,Real Sociedad,2,0,36,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+70303,2015-01-11,21:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,212,Atlético Madrid,3,1,18,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+266240,2015-01-04,21:00:00.000,11,La Liga,Spain,26,2014/2015,210,Real Sociedad,217,Barcelona,1,0,17,Reale Arena,Spain,,
+267597,2015-02-01,21:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,222,Villarreal,3,2,21,Spotify Camp Nou,Spain,,
+266794,2015-01-24,18:00:00.000,11,La Liga,Spain,26,2014/2015,1042,Elche,217,Barcelona,0,6,20,Estadio Manuel Martínez Valero,Spain,Carlos Clos Gómez,Spain
+267343,2015-02-28,16:00:00.000,11,La Liga,Spain,26,2014/2015,1049,Granada,217,Barcelona,1,3,25,Estadio Nuevo Los Cármenes,Spain,,
+266631,2015-05-17,19:00:00.000,11,La Liga,Spain,26,2014/2015,212,Atlético Madrid,217,Barcelona,0,1,37,Estadio Vicente Calderón,Spain,Alberto Undiano Mallenco,Spain
+266320,2014-12-07,17:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,214,Espanyol,5,1,14,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+266230,2015-01-18,19:00:00.000,11,La Liga,Spain,26,2014/2015,219,RC Deportivo La Coruña,217,Barcelona,0,4,19,Estadio Abanca-Riazor,Spain,,
+266525,2015-04-18,16:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,207,Valencia,2,0,32,Spotify Camp Nou,Spain,José Luis González González,Spain
+266560,2014-11-30,21:00:00.000,11,La Liga,Spain,26,2014/2015,207,Valencia,217,Barcelona,0,1,13,Estadio de Mestalla,Spain,David Fernández Borbalan,Spain
+266846,2014-12-20,16:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,373,Córdoba CF,5,0,16,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+266531,2015-04-25,16:00:00.000,11,La Liga,Spain,26,2014/2015,214,Espanyol,217,Barcelona,0,2,33,RCDE Stadium,Spain,Antonio Miguel Mateu Lahoz,Spain
+266921,2014-08-24,21:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,1042,Elche,3,0,1,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+267499,2014-11-08,16:00:00.000,11,La Liga,Spain,26,2014/2015,403,Almería,217,Barcelona,1,2,11,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Spain,Alberto Undiano Mallenco,Spain
+266741,2015-02-15,17:00:00.000,11,La Liga,Spain,26,2014/2015,217,Barcelona,221,Levante UD,5,0,23,Spotify Camp Nou,Spain,,
+266871,2015-02-08,21:00:00.000,11,La Liga,Spain,26,2014/2015,215,Athletic Club,217,Barcelona,2,5,22,San Mamés Barria,Spain,Antonio Miguel Mateu Lahoz,Spain
+266967,2015-03-14,18:00:00.000,11,La Liga,Spain,26,2014/2015,322,Eibar,217,Barcelona,0,2,27,Estadio Municipal de Ipurúa,Spain,,
+266929,2015-04-05,21:00:00.000,11,La Liga,Spain,26,2014/2015,209,Celta Vigo,217,Barcelona,0,1,29,Abanca-Balaídos,Spain,,
+266770,2014-09-21,21:00:00.000,11,La Liga,Spain,26,2014/2015,221,Levante UD,217,Barcelona,0,5,4,Estadio Ciudad de Valencia,Spain,José Luis González González,Spain
+266142,2015-04-11,20:00:00.000,11,La Liga,Spain,26,2014/2015,213,Sevilla,217,Barcelona,2,2,31,Estadio Ramón Sánchez Pizjuán,Spain,,
+3825848,2015-09-23,20:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,322,Eibar,2,2,5,Estadio Ciudad de Valencia,Spain,,
+3825895,2015-09-23,22:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,213,Sevilla,2,0,5,Estadio de Gran Canaria,Spain,Carlos del Cerro Grande,Spain
+3825894,2016-05-01,18:15:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,216,Getafe,0,2,36,Estadio Abanca-Riazor,Spain,Carlos Clos Gómez,Spain
+3825855,2016-05-02,20:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,221,Levante UD,3,1,36,Estadio La Rosaleda,Spain,Iñaki Bikandi Garrido,Spain
+3825908,2016-05-15,19:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,322,Eibar,4,2,38,RCDE Stadium,Spain,Mario Melero López,Spain
+3825883,2016-05-15,12:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,208,Las Palmas,4,1,38,Estadio La Rosaleda,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825900,2016-05-15,19:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,222,Villarreal,2,0,38,Estadio Municipal El Molinón,Spain,Alberto Undiano Mallenco,Spain
+3825902,2016-05-15,19:30:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,221,Levante UD,3,1,38,Estadio de Vallecas,Spain,Carlos Clos Gómez,Spain
+3825876,2016-05-15,19:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,216,Getafe,2,1,38,Estadio Benito Villamarín,Spain,Jesús Gil Manzano,Spain
+3825846,2016-05-14,17:00:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,220,Real Madrid,0,2,38,Estadio Abanca-Riazor,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825869,2016-05-14,19:30:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,213,Sevilla,3,1,38,San Mamés Barria,Spain,Alfonso Álvarez Izquierdo,Spain
+3825882,2016-05-14,19:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,209,Celta Vigo,2,0,38,Estadio Vicente Calderón,Spain,David Fernández Borbalan,Spain
+3825849,2016-05-13,20:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,210,Real Sociedad,0,1,38,Estadio de Mestalla,Spain,Carlos Velasco Carballo,Spain
+3825860,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,212,Atlético Madrid,2,1,37,Estadio Ciudad de Valencia,Spain,José Luis González González,Spain
+3825847,2016-04-23,22:05:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,219,RC Deportivo La Coruña,1,1,35,Estadio Municipal de Ipurúa,Spain,Eduardo Prieto Iglesias,Spain
+3825817,2016-03-18,21:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,322,Eibar,1,1,30,Coliseum Alfonso Pérez,Spain,Ignacio Iglesias Villanueva,Spain
+3825778,2016-02-20,21:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,1041,Sporting Gijón,1,1,25,Estadio Benito Villamarín,Spain,Alfonso Álvarez Izquierdo,Spain
+3825777,2016-02-19,21:30:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,216,Getafe,3,0,25,Estadio Ciudad de Valencia,Spain,José Luis González González,Spain
+3825740,2016-01-18,21:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,1049,Granada,5,1,20,Estadio Municipal de Ipurúa,Spain,José María Sánchez Martínez,Spain
+3825875,2016-04-24,20:30:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,210,Real Sociedad,0,0,35,Estadio de la Cerámica,Spain,David Fernández Borbalan,Spain
+3825884,2016-04-24,16:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,218,Real Betis,2,0,35,Estadio Ramón Sánchez Pizjuán,Spain,Carlos Velasco Carballo,Spain
+3825842,2016-04-24,12:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,215,Athletic Club,2,2,35,Estadio Ciudad de Valencia,Spain,Ignacio Iglesias Villanueva,Spain
+3825890,2016-04-23,18:15:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,223,Málaga,1,0,35,Estadio Vicente Calderón,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825871,2016-04-22,21:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,214,Espanyol,4,0,35,Estadio de Gran Canaria,Spain,Mario Melero López,Spain
+3825896,2016-04-21,21:00:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,221,Levante UD,5,1,34,Estadio Nuevo Los Cármenes,Spain,Santiago Jaime Latre,Spain
+3825841,2016-04-21,20:30:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,216,Getafe,1,2,34,Reale Arena,Spain,José María Sánchez Martínez,Spain
+3825843,2016-04-20,20:45:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,360,Rayo Vallecano,1,1,34,Estadio La Rosaleda,Spain,Alberto Undiano Mallenco,Spain
+3825839,2016-04-20,20:45:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,213,Sevilla,2,1,34,Estadio Municipal El Molinón,Spain,José Luis González González,Spain
+3825838,2016-04-20,20:45:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,212,Atlético Madrid,0,1,34,San Mamés Barria,Spain,Juan Martínez Munuera,Spain
+3825840,2016-04-20,20:45:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,322,Eibar,4,0,34,Estadio de Mestalla,Spain,Xavier Estrada Fernández,Spain
+3825837,2016-04-19,21:00:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,208,Las Palmas,1,0,34,Estadio Benito Villamarín,Spain,,
+3825836,2016-04-17,18:15:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,222,Villarreal,2,1,33,Estadio de Vallecas,Spain,Ignacio Iglesias Villanueva,Spain
+3825835,2016-04-17,12:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,215,Athletic Club,0,1,33,Estadio La Rosaleda,Spain,José María Sánchez Martínez,Spain
+3825834,2016-04-17,18:15:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,1049,Granada,3,0,33,Estadio Vicente Calderón,Spain,Eduardo Prieto Iglesias,Spain
+3825906,2016-04-17,16:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,219,RC Deportivo La Coruña,1,1,33,Estadio Ramón Sánchez Pizjuán,Spain,Santiago Jaime Latre,Spain
+3825897,2016-04-16,20:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,210,Real Sociedad,2,1,33,Estadio Municipal de Ipurúa,Spain,Mario Melero López,Spain
+3825889,2016-04-16,22:05:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,218,Real Betis,1,1,33,Abanca-Balaídos,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825833,2016-04-16,16:00:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,220,Real Madrid,1,5,33,Coliseum Alfonso Pérez,Spain,José Luis González González,Spain
+3825857,2016-04-15,20:30:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,214,Espanyol,2,1,33,Estadio Ciudad de Valencia,Spain,Alejandro José Hernández Hernández,Spain
+3825863,2016-04-11,20:30:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,208,Las Palmas,1,3,32,Estadio Abanca-Riazor,Spain,Alfonso Álvarez Izquierdo,Spain
+3825829,2016-04-10,20:30:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,360,Rayo Vallecano,1,0,32,San Mamés Barria,Spain,Jesús Gil Manzano,Spain
+3825830,2016-04-10,18:15:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,216,Getafe,2,0,32,Estadio de la Cerámica,Spain,Alberto Undiano Mallenco,Spain
+3825832,2016-04-10,12:00:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,209,Celta Vigo,0,1,32,Estadio Municipal El Molinón,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825831,2016-04-10,16:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,213,Sevilla,2,1,32,Estadio de Mestalla,Spain,Iñaki Bikandi Garrido,Spain
+3825828,2016-04-09,18:15:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,212,Atlético Madrid,1,3,32,RCDE Stadium,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825827,2016-04-09,22:05:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,221,Levante UD,1,0,32,Estadio Benito Villamarín,Spain,Eduardo Prieto Iglesias,Spain
+3825826,2016-04-08,20:30:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,223,Málaga,0,0,32,Estadio Nuevo Los Cármenes,Spain,Xavier Estrada Fernández,Spain
+3825825,2016-04-04,20:30:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,1041,Sporting Gijón,0,0,31,Estadio Ciudad de Valencia,Spain,Mario Melero López,Spain
+3825824,2016-04-03,18:15:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,222,Villarreal,1,2,31,Estadio Municipal de Ipurúa,Spain,Carlos del Cerro Grande,Spain
+3825823,2016-04-03,20:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,210,Real Sociedad,1,2,31,Estadio Ramón Sánchez Pizjuán,Spain,Carlos Clos Gómez,Spain
+3825905,2016-04-03,16:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,214,Espanyol,1,1,31,Estadio La Rosaleda,Spain,Juan Martínez Munuera,Spain
+3825822,2016-04-02,18:15:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,207,Valencia,2,1,31,Estadio de Gran Canaria,Spain,Pedro Jesús Pérez Montero,Spain
+3825821,2016-03-20,13:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,215,Athletic Club,2,1,30,RCDE Stadium,Spain,Eduardo Prieto Iglesias,Spain
+3825820,2016-03-20,21:30:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,213,Sevilla,4,0,30,Estadio Santiago Bernabéu,Spain,Xavier Estrada Fernández,Spain
+3825819,2016-03-20,19:15:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,209,Celta Vigo,0,2,30,Estadio de Mestalla,Spain,Alberto Undiano Mallenco,Spain
+3825818,2016-03-19,19:15:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,208,Las Palmas,0,1,30,Reale Arena,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825887,2016-03-19,19:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,360,Rayo Vallecano,2,2,30,Estadio Nuevo Los Cármenes,Spain,Alejandro José Hernández Hernández,Spain
+3825907,2016-03-19,17:00:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,212,Atlético Madrid,2,1,30,Estadio Municipal El Molinón,Spain,Jesús Gil Manzano,Spain
+3825903,2016-03-19,23:05:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,223,Málaga,0,1,30,Estadio Benito Villamarín,Spain,Carlos Clos Gómez,Spain
+3825816,2016-03-13,17:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,222,Villarreal,4,2,29,Estadio Ramón Sánchez Pizjuán,Spain,Carlos Velasco Carballo,Spain
+3825815,2016-03-13,13:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,207,Valencia,1,0,29,Estadio Ciudad de Valencia,Spain,Carlos del Cerro Grande,Spain
+3825858,2016-03-12,23:05:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,322,Eibar,1,1,29,Estadio de Vallecas,Spain,Alfonso Álvarez Izquierdo,Spain
+3825813,2016-03-12,21:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,219,RC Deportivo La Coruña,3,0,29,Estadio Vicente Calderón,Spain,Mario Melero López,Spain
+3825814,2016-03-12,19:15:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,210,Real Sociedad,1,0,29,Abanca-Balaídos,Spain,Juan Martínez Munuera,Spain
+3825812,2016-03-11,21:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,1041,Sporting Gijón,1,0,29,Estadio La Rosaleda,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825811,2016-03-07,21:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,360,Rayo Vallecano,2,1,28,RCDE Stadium,Spain,David Fernández Borbalan,Spain
+3825807,2016-03-06,21:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,212,Atlético Madrid,1,3,28,Estadio de Mestalla,Spain,Alfonso Álvarez Izquierdo,Spain
+3825809,2016-03-06,13:00:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,1049,Granada,2,0,28,Estadio Benito Villamarín,Spain,Ignacio Iglesias Villanueva,Spain
+3825810,2016-03-06,19:15:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,221,Levante UD,1,1,28,Reale Arena,Spain,Pedro Jesús Pérez Montero,Spain
+3825808,2016-03-06,19:15:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,215,Athletic Club,0,2,28,Estadio Municipal El Molinón,Spain,Carlos del Cerro Grande,Spain
+3825804,2016-03-05,23:05:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,223,Málaga,3,3,28,Estadio Abanca-Riazor,Spain,Carlos Velasco Carballo,Spain
+3825867,2016-03-05,21:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,213,Sevilla,1,1,28,Coliseum Alfonso Pérez,Spain,Eduardo Prieto Iglesias,Spain
+3825805,2016-03-05,19:15:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,208,Las Palmas,0,1,28,Estadio de la Cerámica,Spain,Carlos Clos Gómez,Spain
+3825784,2016-02-21,21:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,222,Villarreal,0,0,25,Estadio Vicente Calderón,Spain,Eduardo Prieto Iglesias,Spain
+3825782,2016-02-21,19:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,207,Valencia,1,2,25,Estadio Nuevo Los Cármenes,Spain,Iñaki Bikandi Garrido,Spain
+3825757,2016-01-31,21:30:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,214,Espanyol,6,0,22,Estadio Santiago Bernabéu,Spain,Alejandro José Hernández Hernández,Spain
+3825641,2015-10-26,21:30:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,1041,Sporting Gijón,3,0,9,San Mamés Barria,Spain,Ignacio Iglesias Villanueva,Spain
+3825803,2016-03-03,21:00:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,1041,Sporting Gijón,2,0,27,Estadio Nuevo Los Cármenes,Spain,Xavier Estrada Fernández,Spain
+3825800,2016-03-02,23:00:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,222,Villarreal,0,0,27,Abanca-Balaídos,Spain,Santiago Jaime Latre,Spain
+3825801,2016-03-02,23:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,322,Eibar,1,0,27,Estadio Ramón Sánchez Pizjuán,Spain,Juan Martínez Munuera,Spain
+3825799,2016-03-02,20:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,207,Valencia,1,2,27,Estadio La Rosaleda,Spain,José Luis González González,Spain
+3825797,2016-03-02,23:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,219,RC Deportivo La Coruña,4,1,27,San Mamés Barria,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825798,2016-03-02,22:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,220,Real Madrid,1,3,27,Estadio Ciudad de Valencia,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825796,2016-03-01,23:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,216,Getafe,4,0,27,Estadio de Gran Canaria,Spain,,
+3825795,2016-03-01,22:00:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,210,Real Sociedad,3,0,27,Estadio Vicente Calderón,Spain,Alejandro José Hernández Hernández,Spain
+3825793,2016-02-28,17:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,215,Athletic Club,0,3,26,Estadio de Mestalla,Spain,Jesús Gil Manzano,Spain
+3825792,2016-02-28,19:15:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,1049,Granada,0,1,26,Estadio Abanca-Riazor,Spain,Juan Martínez Munuera,Spain
+3825794,2016-02-28,13:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,221,Levante UD,3,0,26,Estadio de la Cerámica,Spain,Alejandro José Hernández Hernández,Spain
+3825788,2016-02-27,19:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,209,Celta Vigo,0,1,26,Coliseum Alfonso Pérez,Spain,David Fernández Borbalan,Spain
+3825791,2016-02-27,21:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,360,Rayo Vallecano,2,2,26,Estadio Benito Villamarín,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825790,2016-02-27,19:15:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,214,Espanyol,2,4,26,Estadio Municipal El Molinón,Spain,Carlos Velasco Carballo,Spain
+3825787,2016-02-27,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,212,Atlético Madrid,0,1,26,Estadio Santiago Bernabéu,Spain,Carlos Clos Gómez,Spain
+3825789,2016-02-27,23:05:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,223,Málaga,1,1,26,Reale Arena,Spain,Alberto Undiano Mallenco,Spain
+3825786,2016-02-26,21:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,208,Las Palmas,0,1,26,Estadio Municipal de Ipurúa,Spain,Pedro Jesús Pérez Montero,Spain
+3825781,2016-02-21,13:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,213,Sevilla,2,2,25,Estadio de Vallecas,Spain,Xavier Estrada Fernández,Spain
+3825785,2016-02-21,17:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,220,Real Madrid,1,1,25,Estadio La Rosaleda,Spain,Ignacio Iglesias Villanueva,Spain
+3825783,2016-02-21,19:15:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,210,Real Sociedad,0,1,25,San Mamés Barria,Spain,José María Sánchez Martínez,Spain
+3825780,2016-02-20,19:15:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,219,RC Deportivo La Coruña,1,0,25,RCDE Stadium,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825779,2016-02-20,23:05:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,322,Eibar,3,2,25,Abanca-Balaídos,Spain,Mario Melero López,Spain
+3825773,2016-02-14,19:15:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,221,Levante UD,2,0,24,Estadio Municipal de Ipurúa,Spain,Xavier Estrada Fernández,Spain
+3825776,2016-02-14,17:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,208,Las Palmas,2,0,24,Estadio Ramón Sánchez Pizjuán,Spain,Eduardo Prieto Iglesias,Spain
+3825775,2016-02-14,13:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,1049,Granada,3,0,24,Reale Arena,Spain,José Luis González González,Spain
+3825769,2016-02-13,19:15:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,223,Málaga,1,0,24,Estadio de la Cerámica,Spain,,
+3825770,2016-02-13,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,215,Athletic Club,4,2,24,Estadio Santiago Bernabéu,Spain,Alfonso Álvarez Izquierdo,Spain
+3825768,2016-02-12,21:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,360,Rayo Vallecano,2,2,24,Estadio Municipal El Molinón,Spain,Carlos Clos Gómez,Spain
+3825736,2016-01-17,13:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,360,Rayo Vallecano,2,2,20,Estadio de Mestalla,Spain,Eduardo Prieto Iglesias,Spain
+3825731,2016-01-10,19:15:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,223,Málaga,1,1,19,Estadio de Gran Canaria,Spain,Ignacio Iglesias Villanueva,Spain
+3825685,2015-12-06,19:15:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,208,Las Palmas,3,1,14,Estadio Municipal El Molinón,Spain,Alberto Undiano Mallenco,Spain
+3825678,2015-11-29,17:00:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,220,Real Madrid,0,2,13,Estadio Municipal de Ipurúa,Spain,Jesús Gil Manzano,Spain
+3825643,2015-10-31,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,208,Las Palmas,3,1,10,Estadio Santiago Bernabéu,Spain,Santiago Jaime Latre,Spain
+3825642,2015-10-30,21:30:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,212,Atlético Madrid,1,1,10,Estadio Abanca-Riazor,Spain,Pedro Jesús Pérez Montero,Spain
+3825638,2015-10-25,20:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,207,Valencia,2,1,9,Estadio Vicente Calderón,Spain,Jesús Gil Manzano,Spain
+3825614,2015-10-03,18:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,219,RC Deportivo La Coruña,1,1,7,Estadio Nuevo Los Cármenes,Spain,Iñaki Bikandi Garrido,Spain
+3825612,2015-09-27,18:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,221,Levante UD,3,0,6,Coliseum Alfonso Pérez,Spain,Santiago Jaime Latre,Spain
+3825607,2015-09-26,20:30:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,212,Atlético Madrid,1,0,6,Estadio de la Cerámica,Spain,David Fernández Borbalan,Spain
+3825595,2015-09-20,18:15:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,215,Athletic Club,3,1,4,Estadio de la Cerámica,Spain,Carlos Clos Gómez,Spain
+3825579,2015-08-30,20:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,212,Atlético Madrid,0,3,2,Estadio Ramón Sánchez Pizjuán,Spain,Carlos Clos Gómez,Spain
+3825572,2015-08-29,22:30:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,218,Real Betis,5,0,2,Estadio Santiago Bernabéu,Spain,Alejandro José Hernández Hernández,Spain
+3825774,2016-02-14,19:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,212,Atlético Madrid,0,1,24,Coliseum Alfonso Pérez,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825772,2016-02-13,21:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,214,Espanyol,2,1,24,Estadio de Mestalla,Spain,Carlos del Cerro Grande,Spain
+3825771,2016-02-13,23:05:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,218,Real Betis,2,2,24,Estadio Abanca-Riazor,Spain,Alberto Undiano Mallenco,Spain
+3825767,2016-02-08,21:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,210,Real Sociedad,0,5,23,RCDE Stadium,Spain,Santiago Jaime Latre,Spain
+3825706,2015-12-30,21:30:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,215,Athletic Club,0,1,17,Abanca-Balaídos,Spain,Pedro Jesús Pérez Montero,Spain
+3825712,2015-12-30,21:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,219,RC Deportivo La Coruña,0,0,17,Coliseum Alfonso Pérez,Spain,Alberto Undiano Mallenco,Spain
+3825708,2015-12-30,17:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,223,Málaga,0,1,17,Estadio Ciudad de Valencia,Spain,Jesús Gil Manzano,Spain
+3825707,2015-12-30,22:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,1049,Granada,4,1,17,Estadio de Gran Canaria,Spain,Santiago Jaime Latre,Spain
+3825705,2015-12-30,19:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,1041,Sporting Gijón,2,0,17,Estadio Municipal de Ipurúa,Spain,Carlos Velasco Carballo,Spain
+3825711,2015-12-30,19:15:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,212,Atlético Madrid,0,2,17,Estadio de Vallecas,Spain,José María Sánchez Martínez,Spain
+3825703,2015-12-20,19:15:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,221,Levante UD,2,0,16,San Mamés Barria,Spain,Alejandro José Hernández Hernández,Spain
+3825700,2015-12-20,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,360,Rayo Vallecano,10,2,16,Estadio Santiago Bernabéu,Spain,Ignacio Iglesias Villanueva,Spain
+3825701,2015-12-20,21:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,212,Atlético Madrid,1,0,16,Estadio La Rosaleda,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825702,2015-12-20,19:15:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,222,Villarreal,0,2,16,Reale Arena,Spain,Carlos del Cerro Grande,Spain
+3825704,2015-12-20,19:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,209,Celta Vigo,0,2,16,Estadio Nuevo Los Cármenes,Spain,Juan Martínez Munuera,Spain
+3825891,2015-12-19,19:15:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,208,Las Palmas,1,0,16,RCDE Stadium,Spain,Mario Melero López,Spain
+3825699,2015-12-19,21:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,213,Sevilla,0,0,16,Estadio Benito Villamarín,Spain,Carlos Clos Gómez,Spain
+3825697,2015-12-19,17:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,216,Getafe,2,2,16,Estadio de Mestalla,Spain,David Fernández Borbalan,Spain
+3825698,2015-12-19,23:05:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,322,Eibar,2,0,16,Estadio Abanca-Riazor,Spain,Xavier Estrada Fernández,Spain
+3825694,2015-12-13,17:00:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,207,Valencia,1,1,15,Estadio Municipal de Ipurúa,Spain,José Luis González González,Spain
+3825693,2015-12-13,19:15:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,215,Athletic Club,2,1,15,Estadio Vicente Calderón,Spain,Juan Martínez Munuera,Spain
+3825696,2015-12-13,13:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,223,Málaga,1,2,15,Estadio de Vallecas,Spain,Carlos Clos Gómez,Spain
+3825695,2015-12-13,21:30:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,220,Real Madrid,1,0,15,Estadio de la Cerámica,Spain,Alberto Undiano Mallenco,Spain
+3825689,2015-12-12,19:15:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,214,Espanyol,1,0,15,Abanca-Balaídos,Spain,David Fernández Borbalan,Spain
+3825690,2015-12-12,23:05:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,218,Real Betis,1,0,15,Estadio de Gran Canaria,Spain,Jesús Gil Manzano,Spain
+3825692,2015-12-12,21:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,1041,Sporting Gijón,2,0,15,Estadio Ramón Sánchez Pizjuán,Spain,Carlos del Cerro Grande,Spain
+3825691,2015-12-12,19:15:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,1049,Granada,1,2,15,Estadio Ciudad de Valencia,Spain,Iñaki Bikandi Garrido,Spain
+3825688,2015-12-11,21:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,210,Real Sociedad,1,1,15,Coliseum Alfonso Pérez,Spain,Pedro Jesús Pérez Montero,Spain
+3825687,2015-12-07,21:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,221,Levante UD,1,1,14,RCDE Stadium,Spain,Carlos Velasco Carballo,Spain
+3825683,2015-12-06,13:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,322,Eibar,2,1,14,Reale Arena,Spain,Mario Melero López,Spain
+3825686,2015-12-06,21:30:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,223,Málaga,0,0,14,San Mamés Barria,Spain,Alfonso Álvarez Izquierdo,Spain
+3825684,2015-12-06,17:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,360,Rayo Vallecano,2,1,14,Estadio de la Cerámica,Spain,Xavier Estrada Fernández,Spain
+3825681,2015-12-05,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,216,Getafe,4,1,14,Estadio Santiago Bernabéu,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825682,2015-12-05,19:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,212,Atlético Madrid,0,2,14,Estadio Nuevo Los Cármenes,Spain,Eduardo Prieto Iglesias,Spain
+3825680,2015-12-05,23:00:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,213,Sevilla,1,1,14,Estadio Abanca-Riazor,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825677,2015-11-29,21:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,207,Valencia,1,0,13,Estadio Ramón Sánchez Pizjuán,Spain,Carlos Velasco Carballo,Spain
+3825675,2015-11-29,19:15:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,215,Athletic Club,0,3,13,Estadio de Vallecas,Spain,Alejandro José Hernández Hernández,Spain
+3825676,2015-11-29,13:00:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,222,Villarreal,2,0,13,Coliseum Alfonso Pérez,Spain,José Luis González González,Spain
+3825674,2015-11-28,19:15:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,214,Espanyol,1,0,13,Estadio Vicente Calderón,Spain,Iñaki Bikandi Garrido,Spain
+3825673,2015-11-28,23:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,219,RC Deportivo La Coruña,0,2,13,Estadio de Gran Canaria,Spain,Carlos Clos Gómez,Spain
+3825671,2015-11-28,23:05:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,1041,Sporting Gijón,2,1,13,Abanca-Balaídos,Spain,Santiago Jaime Latre,Spain
+3825672,2015-11-28,21:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,1049,Granada,2,2,13,Estadio La Rosaleda,Spain,Xavier Estrada Fernández,Spain
+3825670,2015-11-27,21:30:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,218,Real Betis,0,1,13,Estadio Ciudad de Valencia,Spain,José María Sánchez Martínez,Spain
+3825669,2015-11-23,21:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,360,Rayo Vallecano,1,1,12,Coliseum Alfonso Pérez,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825668,2015-11-22,13:00:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,221,Levante UD,0,3,12,Estadio Municipal El Molinón,Spain,Mario Melero López,Spain
+3825666,2015-11-22,21:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,212,Atlético Madrid,0,1,12,Estadio Benito Villamarín,Spain,Santiago Jaime Latre,Spain
+3825665,2015-11-22,19:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,215,Athletic Club,2,0,12,Estadio Nuevo Los Cármenes,Spain,Carlos del Cerro Grande,Spain
+3825667,2015-11-22,17:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,322,Eibar,1,1,12,Estadio de la Cerámica,Spain,Eduardo Prieto Iglesias,Spain
+3825664,2015-11-21,17:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,213,Sevilla,2,0,12,Reale Arena,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825662,2015-11-21,23:05:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,209,Celta Vigo,2,0,12,Estadio Abanca-Riazor,Spain,Alfonso Álvarez Izquierdo,Spain
+3825888,2015-11-21,23:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,208,Las Palmas,1,1,12,Estadio de Mestalla,Spain,Pedro Jesús Pérez Montero,Spain
+3825663,2015-11-21,21:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,223,Málaga,2,0,12,RCDE Stadium,Spain,Juan Martínez Munuera,Spain
+3825659,2015-11-08,13:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,214,Espanyol,2,1,11,San Mamés Barria,Spain,Alberto Undiano Mallenco,Spain
+3825658,2015-11-08,19:15:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,1041,Sporting Gijón,1,0,11,Estadio Vicente Calderón,Spain,Xavier Estrada Fernández,Spain
+3825660,2015-11-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,222,Villarreal,3,0,11,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+3825661,2015-11-08,21:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,220,Real Madrid,3,2,11,Estadio Ramón Sánchez Pizjuán,Spain,José Luis González González,Spain
+3825656,2015-11-07,19:15:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,219,RC Deportivo La Coruña,1,1,11,Estadio Ciudad de Valencia,Spain,Carlos del Cerro Grande,Spain
+3825657,2015-11-07,23:05:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,218,Real Betis,0,1,11,Estadio La Rosaleda,Spain,Eduardo Prieto Iglesias,Spain
+3825652,2015-11-06,21:30:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,210,Real Sociedad,2,0,11,Estadio de Gran Canaria,Spain,Carlos Velasco Carballo,Spain
+3825623,2015-10-17,22:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,223,Málaga,3,0,8,Estadio de Mestalla,Spain,Alejandro José Hernández Hernández,Spain
+3825626,2015-10-17,22:05:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,214,Espanyol,1,3,8,Estadio Benito Villamarín,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825616,2015-10-03,22:05:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,210,Real Sociedad,3,1,7,Estadio La Rosaleda,Spain,Carlos del Cerro Grande,Spain
+3825608,2015-09-26,22:05:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,209,Celta Vigo,1,1,6,Estadio Municipal de Ipurúa,Spain,Pedro Jesús Pérez Montero,Spain
+3825601,2015-09-23,20:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,1041,Sporting Gijón,2,1,5,Estadio de Vallecas,Spain,Iñaki Bikandi Garrido,Spain
+3825899,2016-04-24,18:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,207,Valencia,2,2,35,Coliseum Alfonso Pérez,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825852,2016-04-16,18:15:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,1041,Sporting Gijón,1,1,33,Estadio de Gran Canaria,Spain,Alberto Undiano Mallenco,Spain
+3825647,2015-10-31,19:15:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,221,Levante UD,3,0,10,Estadio de Mestalla,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825637,2015-10-25,19:15:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,322,Eibar,3,1,9,Spotify Camp Nou,Spain,Carlos del Cerro Grande,Spain
+3825628,2015-10-18,18:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,208,Las Palmas,4,0,8,Coliseum Alfonso Pérez,Spain,David Fernández Borbalan,Spain
+3825619,2015-10-04,18:15:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,222,Villarreal,1,0,7,Estadio Ciudad de Valencia,Spain,Alfonso Álvarez Izquierdo,Spain
+3825618,2015-10-03,22:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,322,Eibar,0,2,7,Estadio de Gran Canaria,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825611,2015-09-27,16:00:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,214,Espanyol,3,0,6,Estadio Abanca-Riazor,Spain,José María Sánchez Martínez,Spain
+3825609,2015-09-27,20:30:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,215,Athletic Club,0,0,6,Reale Arena,Spain,Carlos Velasco Carballo,Spain
+3825598,2015-09-22,20:00:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,216,Getafe,2,0,5,Estadio Vicente Calderón,Spain,Alfonso Álvarez Izquierdo,Spain
+3825584,2015-09-13,12:00:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,222,Villarreal,1,3,3,Estadio Nuevo Los Cármenes,Spain,Jesús Gil Manzano,Spain
+3825570,2015-08-24,20:30:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,322,Eibar,1,3,1,Estadio Nuevo Los Cármenes,Spain,Ignacio Iglesias Villanueva,Spain
+3825562,2015-08-21,20:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,213,Sevilla,0,0,1,Estadio La Rosaleda,Spain,Alfonso Álvarez Izquierdo,Spain
+3825904,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,218,Real Betis,1,1,37,Estadio Municipal de Ipurúa,Spain,Juan Martínez Munuera,Spain
+3825901,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,207,Valencia,3,2,37,Estadio Santiago Bernabéu,Spain,David Fernández Borbalan,Spain
+3825898,2016-04-02,22:05:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,219,RC Deportivo La Coruña,1,1,31,Abanca-Balaídos,Spain,David Fernández Borbalan,Spain
+3825893,2016-04-20,22:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,222,Villarreal,3,0,34,Estadio Santiago Bernabéu,Spain,Carlos Clos Gómez,Spain
+3825892,2015-09-22,22:00:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,210,Real Sociedad,0,3,5,Estadio Nuevo Los Cármenes,Spain,Xavier Estrada Fernández,Spain
+3825886,2016-04-23,16:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,220,Real Madrid,2,3,35,Estadio de Vallecas,Spain,Alejandro José Hernández Hernández,Spain
+3825885,2016-04-01,20:30:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,216,Getafe,2,0,31,Estadio de Vallecas,Spain,Santiago Jaime Latre,Spain
+3825881,2016-03-14,21:30:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,214,Espanyol,1,1,29,Estadio Nuevo Los Cármenes,Spain,José Luis González González,Spain
+3825880,2016-03-19,21:30:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,221,Levante UD,2,1,30,Estadio Abanca-Riazor,Spain,Iñaki Bikandi Garrido,Spain
+3825879,2016-03-13,21:30:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,220,Real Madrid,1,2,29,Estadio de Gran Canaria,Spain,David Fernández Borbalan,Spain
+3825878,2016-04-30,18:15:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,360,Rayo Vallecano,1,0,36,Estadio Vicente Calderón,Spain,José María Sánchez Martínez,Spain
+3825877,2016-04-03,12:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,1049,Granada,1,1,31,San Mamés Barria,Spain,Carlos Velasco Carballo,Spain
+3825874,2015-10-24,20:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,216,Getafe,5,0,9,Estadio Ramón Sánchez Pizjuán,Spain,Iñaki Bikandi Garrido,Spain
+3825873,2016-05-01,20:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,222,Villarreal,0,2,36,Estadio de Mestalla,Spain,Carlos del Cerro Grande,Spain
+3825872,2016-04-02,16:00:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,218,Real Betis,5,1,31,Estadio Vicente Calderón,Spain,José Luis González González,Spain
+3825870,2016-05-01,12:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,209,Celta Vigo,2,1,36,San Mamés Barria,Spain,Xavier Estrada Fernández,Spain
+3825868,2016-04-25,20:30:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,1049,Granada,2,1,35,Abanca-Balaídos,Spain,Jesús Gil Manzano,Spain
+3825866,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,215,Athletic Club,0,0,37,Estadio de Gran Canaria,Spain,Pedro Jesús Pérez Montero,Spain
+3825865,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,1041,Sporting Gijón,1,1,37,Coliseum Alfonso Pérez,Spain,Alfonso Álvarez Izquierdo,Spain
+3825864,2016-04-30,16:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,220,Real Madrid,0,1,36,Reale Arena,Spain,Alberto Undiano Mallenco,Spain
+3825862,2016-04-19,20:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,209,Celta Vigo,1,1,34,RCDE Stadium,Spain,Eduardo Prieto Iglesias,Spain
+3825861,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,360,Rayo Vallecano,2,1,37,Reale Arena,Spain,Santiago Jaime Latre,Spain
+3825859,2016-04-30,22:05:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,208,Las Palmas,3,2,36,Estadio Nuevo Los Cármenes,Spain,José Luis González González,Spain
+3825856,2016-04-09,16:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,322,Eibar,4,0,32,Estadio Santiago Bernabéu,Spain,José María Sánchez Martínez,Spain
+3825854,2016-04-29,20:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,322,Eibar,2,0,36,Estadio Municipal El Molinón,Spain,Alejandro José Hernández Hernández,Spain
+3825853,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,1049,Granada,1,4,37,Estadio Ramón Sánchez Pizjuán,Spain,Alberto Undiano Mallenco,Spain
+3825851,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,219,RC Deportivo La Coruña,0,2,37,Estadio de la Cerámica,Spain,Xavier Estrada Fernández,Spain
+3825850,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,223,Málaga,1,0,37,Abanca-Balaídos,Spain,Carlos del Cerro Grande,Spain
+3825845,2016-05-01,16:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,213,Sevilla,1,0,36,RCDE Stadium,Spain,Juan Martínez Munuera,Spain
+3825844,2016-03-13,19:15:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,218,Real Betis,3,1,29,San Mamés Barria,Spain,Santiago Jaime Latre,Spain
+3825806,2016-03-05,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,209,Celta Vigo,7,1,28,Estadio Santiago Bernabéu,Spain,Jesús Gil Manzano,Spain
+3825802,2016-03-03,23:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,218,Real Betis,0,3,27,RCDE Stadium,Spain,José María Sánchez Martínez,Spain
+3825679,2015-12-05,23:05:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,209,Celta Vigo,1,1,14,Estadio Benito Villamarín,Spain,Alejandro José Hernández Hernández,Spain
+3825655,2015-11-07,21:30:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,1049,Granada,2,1,11,Estadio de Vallecas,Spain,Jesús Gil Manzano,Spain
+3825654,2015-11-07,17:00:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,207,Valencia,1,5,11,Abanca-Balaídos,Spain,Iñaki Bikandi Garrido,Spain
+3825653,2015-11-07,21:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,216,Getafe,3,1,11,Estadio Municipal de Ipurúa,Spain,Ignacio Iglesias Villanueva,Spain
+3825651,2015-11-01,17:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,1049,Granada,1,1,10,RCDE Stadium,Spain,Alejandro José Hernández Hernández,Spain
+3825650,2015-11-01,23:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,215,Athletic Club,1,3,10,Estadio Benito Villamarín,Spain,José Luis González González,Spain
+3825649,2015-11-01,19:15:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,223,Málaga,1,0,10,Estadio Municipal El Molinón,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825648,2015-11-01,13:00:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,360,Rayo Vallecano,1,0,10,Estadio Municipal de Ipurúa,Spain,Alfonso Álvarez Izquierdo,Spain
+3825765,2016-02-07,19:15:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,213,Sevilla,1,1,23,Abanca-Balaídos,Spain,Carlos Velasco Carballo,Spain
+3825766,2016-02-07,17:00:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,207,Valencia,1,0,23,Estadio Benito Villamarín,Spain,José María Sánchez Martínez,Spain
+3825764,2016-02-07,21:30:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,220,Real Madrid,1,2,23,Estadio Nuevo Los Cármenes,Spain,Jesús Gil Manzano,Spain
+3825760,2016-02-06,17:00:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,322,Eibar,3,1,23,Estadio Vicente Calderón,Spain,David Fernández Borbalan,Spain
+3825763,2016-02-06,19:15:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,208,Las Palmas,2,0,23,Estadio de Vallecas,Spain,Ignacio Iglesias Villanueva,Spain
+3825761,2016-02-06,21:30:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,222,Villarreal,0,0,23,San Mamés Barria,Spain,Mario Melero López,Spain
+3825762,2016-02-06,23:05:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,219,RC Deportivo La Coruña,1,1,23,Estadio Municipal El Molinón,Spain,Alejandro José Hernández Hernández,Spain
+3825759,2016-02-05,21:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,216,Getafe,3,0,23,Estadio La Rosaleda,Spain,Juan Martínez Munuera,Spain
+3825758,2016-02-01,21:30:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,360,Rayo Vallecano,2,2,22,Estadio Abanca-Riazor,Spain,Iñaki Bikandi Garrido,Spain
+3825756,2016-01-31,13:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,221,Levante UD,3,1,22,Estadio Ramón Sánchez Pizjuán,Spain,Alfonso Álvarez Izquierdo,Spain
+3825755,2016-01-31,17:00:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,1041,Sporting Gijón,0,1,22,Estadio de Mestalla,Spain,José Luis González González,Spain
+3825754,2016-01-31,19:15:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,209,Celta Vigo,2,1,22,Estadio de Gran Canaria,Spain,José María Sánchez Martínez,Spain
+3825750,2016-01-30,23:05:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,218,Real Betis,2,1,22,Reale Arena,Spain,Eduardo Prieto Iglesias,Spain
+3825752,2016-01-30,19:15:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,223,Málaga,1,2,22,Estadio Municipal de Ipurúa,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825751,2016-01-30,19:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,215,Athletic Club,0,1,22,Coliseum Alfonso Pérez,Spain,Xavier Estrada Fernández,Spain
+3825753,2016-01-30,21:30:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,1049,Granada,1,0,22,Estadio de la Cerámica,Spain,Carlos del Cerro Grande,Spain
+3825749,2016-01-25,23:30:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,208,Las Palmas,3,2,21,Estadio Ciudad de Valencia,Spain,Carlos Velasco Carballo,Spain
+3825747,2016-01-24,13:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,322,Eibar,5,2,21,San Mamés Barria,Spain,Jesús Gil Manzano,Spain
+3825748,2016-01-24,17:00:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,213,Sevilla,0,0,21,Estadio Vicente Calderón,Spain,Ignacio Iglesias Villanueva,Spain
+3825745,2016-01-24,19:15:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,207,Valencia,1,1,21,Estadio Abanca-Riazor,Spain,Mario Melero López,Spain
+3825746,2016-01-24,21:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,220,Real Madrid,1,1,21,Estadio Benito Villamarín,Spain,Juan Martínez Munuera,Spain
+3825743,2016-01-23,23:05:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,209,Celta Vigo,3,0,21,Estadio de Vallecas,Spain,Santiago Jaime Latre,Spain
+3825744,2016-01-23,19:15:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,222,Villarreal,2,2,21,RCDE Stadium,Spain,Pedro Jesús Pérez Montero,Spain
+3825742,2016-01-23,21:30:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,216,Getafe,3,2,21,Estadio Nuevo Los Cármenes,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825741,2016-01-22,21:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,210,Real Sociedad,5,1,21,Estadio Municipal El Molinón,Spain,David Fernández Borbalan,Spain
+3825739,2016-01-17,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,1041,Sporting Gijón,5,1,20,Estadio Santiago Bernabéu,Spain,Alberto Undiano Mallenco,Spain
+3825738,2016-01-17,19:15:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,212,Atlético Madrid,0,3,20,Estadio de Gran Canaria,Spain,Iñaki Bikandi Garrido,Spain
+3825737,2016-01-17,19:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,214,Espanyol,3,1,20,Coliseum Alfonso Pérez,Spain,Carlos Clos Gómez,Spain
+3825734,2016-01-16,23:05:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,219,RC Deportivo La Coruña,1,1,20,Reale Arena,Spain,Juan Martínez Munuera,Spain
+3825733,2016-01-16,17:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,223,Málaga,2,1,20,Estadio Ramón Sánchez Pizjuán,Spain,Xavier Estrada Fernández,Spain
+3825732,2016-01-16,19:15:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,221,Levante UD,4,3,20,Abanca-Balaídos,Spain,Carlos del Cerro Grande,Spain
+3825735,2016-01-16,21:30:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,218,Real Betis,0,0,20,Estadio de la Cerámica,Spain,José Luis González González,Spain
+3825729,2016-01-10,13:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,1041,Sporting Gijón,2,0,19,Estadio de la Cerámica,Spain,Jesús Gil Manzano,Spain
+3825728,2016-01-10,21:30:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,212,Atlético Madrid,0,2,19,Abanca-Balaídos,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825730,2016-01-10,17:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,207,Valencia,2,0,19,Reale Arena,Spain,Alejandro José Hernández Hernández,Spain
+3825727,2016-01-10,19:15:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,214,Espanyol,2,1,19,Estadio Municipal de Ipurúa,Spain,Santiago Jaime Latre,Spain
+3825723,2016-01-09,23:05:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,360,Rayo Vallecano,2,1,19,Estadio Ciudad de Valencia,Spain,Mario Melero López,Spain
+3825726,2016-01-09,19:15:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,215,Athletic Club,2,0,19,Estadio Ramón Sánchez Pizjuán,Spain,Eduardo Prieto Iglesias,Spain
+3825725,2016-01-09,19:15:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,218,Real Betis,1,0,19,Coliseum Alfonso Pérez,Spain,Alfonso Álvarez Izquierdo,Spain
+3825724,2016-01-09,21:30:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,219,RC Deportivo La Coruña,5,0,19,Estadio Santiago Bernabéu,Spain,Pedro Jesús Pérez Montero,Spain
+3825722,2016-01-04,21:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,216,Getafe,1,2,18,Estadio Municipal El Molinón,Spain,Xavier Estrada Fernández,Spain
+3825716,2016-01-03,13:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,210,Real Sociedad,2,2,18,Estadio de Vallecas,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825719,2016-01-03,19:15:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,208,Las Palmas,2,2,18,San Mamés Barria,Spain,Carlos del Cerro Grande,Spain
+3825720,2016-01-03,17:00:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,322,Eibar,0,4,18,Estadio Benito Villamarín,Spain,Eduardo Prieto Iglesias,Spain
+3825717,2016-01-03,17:00:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,213,Sevilla,2,1,18,Estadio Nuevo Los Cármenes,Spain,Alberto Undiano Mallenco,Spain
+3825721,2016-01-03,19:15:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,222,Villarreal,1,2,18,Estadio Abanca-Riazor,Spain,David Fernández Borbalan,Spain
+3825718,2016-01-03,21:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,220,Real Madrid,2,2,18,Estadio de Mestalla,Spain,José María Sánchez Martínez,Spain
+3825715,2016-01-02,23:05:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,209,Celta Vigo,2,0,18,Estadio La Rosaleda,Spain,Iñaki Bikandi Garrido,Spain
+3825714,2016-01-02,21:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,221,Levante UD,1,0,18,Estadio Vicente Calderón,Spain,Carlos Clos Gómez,Spain
+3825713,2015-12-31,17:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,207,Valencia,1,0,17,Estadio de la Cerámica,Spain,Alfonso Álvarez Izquierdo,Spain
+3825710,2015-12-30,17:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,210,Real Sociedad,3,1,17,Estadio Santiago Bernabéu,Spain,José Luis González González,Spain
+3825709,2015-12-30,19:15:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,214,Espanyol,2,0,17,Estadio Ramón Sánchez Pizjuán,Spain,Ignacio Iglesias Villanueva,Spain
+3825646,2015-10-31,19:15:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,213,Sevilla,2,1,10,Estadio de la Cerámica,Spain,José María Sánchez Martínez,Spain
+3825645,2015-10-31,21:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,217,Barcelona,0,2,10,Coliseum Alfonso Pérez,Spain,Juan Martínez Munuera,Spain
+3825644,2015-10-31,23:05:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,209,Celta Vigo,2,3,10,Reale Arena,Spain,David Fernández Borbalan,Spain
+3825640,2015-10-25,12:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,210,Real Sociedad,0,4,9,Estadio Ciudad de Valencia,Spain,Alberto Undiano Mallenco,Spain
+3825639,2015-10-25,16:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,222,Villarreal,0,0,9,Estadio de Gran Canaria,Spain,Xavier Estrada Fernández,Spain
+3825636,2015-10-24,22:05:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,219,RC Deportivo La Coruña,2,0,9,Estadio La Rosaleda,Spain,Carlos Velasco Carballo,Spain
+3825635,2015-10-24,16:00:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,220,Real Madrid,1,3,9,Abanca-Balaídos,Spain,Carlos Clos Gómez,Spain
+3825634,2015-10-24,18:15:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,218,Real Betis,1,1,9,Estadio Nuevo Los Cármenes,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825633,2015-10-23,20:30:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,214,Espanyol,3,0,9,Estadio de Vallecas,Spain,Eduardo Prieto Iglesias,Spain
+3825632,2015-10-19,20:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,1049,Granada,3,3,8,Estadio Municipal El Molinón,Spain,Alfonso Álvarez Izquierdo,Spain
+3825631,2015-10-18,16:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,212,Atlético Madrid,0,2,8,Reale Arena,Spain,Ignacio Iglesias Villanueva,Spain
+3825630,2015-10-18,20:30:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,215,Athletic Club,2,2,8,Estadio Abanca-Riazor,Spain,Santiago Jaime Latre,Spain
+3825629,2015-10-18,12:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,209,Celta Vigo,1,2,8,Estadio de la Cerámica,Spain,José Luis González González,Spain
+3825627,2015-10-17,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,360,Rayo Vallecano,5,2,8,Spotify Camp Nou,Spain,Pedro Jesús Pérez Montero,Spain
+3825625,2015-10-17,16:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,221,Levante UD,3,0,8,Estadio Santiago Bernabéu,Spain,José María Sánchez Martínez,Spain
+3825624,2015-10-17,18:15:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,213,Sevilla,1,1,8,Estadio Municipal de Ipurúa,Spain,Juan Martínez Munuera,Spain
+3825622,2015-10-04,16:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,207,Valencia,3,1,7,San Mamés Barria,Spain,Xavier Estrada Fernández,Spain
+3825621,2015-10-04,20:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,220,Real Madrid,1,1,7,Estadio Vicente Calderón,Spain,Alberto Undiano Mallenco,Spain
+3825620,2015-10-04,12:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,218,Real Betis,0,2,7,Estadio de Vallecas,Spain,Ignacio Iglesias Villanueva,Spain
+3825617,2015-10-03,16:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,217,Barcelona,2,1,7,Estadio Ramón Sánchez Pizjuán,Spain,Jesús Gil Manzano,Spain
+3825615,2015-10-03,20:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,1041,Sporting Gijón,1,2,7,RCDE Stadium,Spain,Carlos Clos Gómez,Spain
+3825613,2015-10-02,20:30:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,216,Getafe,0,0,7,Abanca-Balaídos,Spain,Eduardo Prieto Iglesias,Spain
+3825610,2015-09-27,12:00:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,218,Real Betis,1,2,6,Estadio Municipal El Molinón,Spain,Juan Martínez Munuera,Spain
+3825606,2015-09-26,18:15:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,223,Málaga,0,0,6,Estadio Santiago Bernabéu,Spain,José Luis González González,Spain
+3825605,2015-09-26,20:30:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,360,Rayo Vallecano,3,2,6,Estadio Ramón Sánchez Pizjuán,Spain,Alejandro José Hernández Hernández,Spain
+3825604,2015-09-25,20:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,1049,Granada,1,0,6,Estadio de Mestalla,Spain,Carlos Clos Gómez,Spain
+3825603,2015-09-24,22:05:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,219,RC Deportivo La Coruña,1,2,5,Estadio Benito Villamarín,Spain,Jesús Gil Manzano,Spain
+3825602,2015-09-23,21:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,220,Real Madrid,1,2,5,San Mamés Barria,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825600,2015-09-23,22:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,222,Villarreal,0,1,5,Estadio La Rosaleda,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825599,2015-09-22,20:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,207,Valencia,1,0,5,RCDE Stadium,Spain,Ignacio Iglesias Villanueva,Spain
+3825597,2015-09-20,20:30:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,360,Rayo Vallecano,0,1,4,Estadio de Gran Canaria,Spain,José Luis González González,Spain
+3825596,2015-09-20,16:00:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,1041,Sporting Gijón,2,3,4,Estadio Abanca-Riazor,Spain,Eduardo Prieto Iglesias,Spain
+3825594,2015-09-20,12:00:00.000,11,La Liga,Spain,27,2015/2016,213,Sevilla,209,Celta Vigo,1,2,4,Estadio Ramón Sánchez Pizjuán,Spain,Santiago Jaime Latre,Spain
+3825593,2015-09-19,20:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,212,Atlético Madrid,0,2,4,Estadio Municipal de Ipurúa,Spain,Alejandro José Hernández Hernández,Spain
+3825592,2015-09-19,22:00:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,214,Espanyol,2,3,4,Reale Arena,Spain,Pedro Jesús Pérez Montero,Spain
+3825591,2015-09-19,18:15:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,218,Real Betis,0,0,4,Estadio de Mestalla,Spain,Carlos Velasco Carballo,Spain
+3825590,2015-09-19,16:00:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,1049,Granada,1,0,4,Estadio Santiago Bernabéu,Spain,Juan Martínez Munuera,Spain
+3825589,2015-09-18,20:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,223,Málaga,1,0,4,Coliseum Alfonso Pérez,Spain,José María Sánchez Martínez,Spain
+3825588,2015-09-14,20:30:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,219,RC Deportivo La Coruña,1,3,3,Estadio de Vallecas,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825587,2015-09-13,16:00:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,216,Getafe,3,1,3,San Mamés Barria,Spain,Pedro Jesús Pérez Montero,Spain
+3825586,2015-09-13,20:30:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,322,Eibar,0,0,3,Estadio La Rosaleda,Spain,Alberto Undiano Mallenco,Spain
+3825585,2015-09-13,18:15:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,208,Las Palmas,3,3,3,Abanca-Balaídos,Spain,Xavier Estrada Fernández,Spain
+3825583,2015-09-12,18:15:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,207,Valencia,0,1,3,Estadio Municipal El Molinón,Spain,Carlos del Cerro Grande,Spain
+3825582,2015-09-12,22:00:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,210,Real Sociedad,1,0,3,Estadio Benito Villamarín,Spain,Alfonso Álvarez Izquierdo,Spain
+3825581,2015-09-12,16:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,220,Real Madrid,0,6,3,RCDE Stadium,Spain,Iñaki Bikandi Garrido,Spain
+3825580,2015-09-11,20:30:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,213,Sevilla,1,1,3,Estadio Ciudad de Valencia,Spain,Ignacio Iglesias Villanueva,Spain
+3825578,2015-08-30,18:30:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,215,Athletic Club,2,0,2,Estadio Municipal de Ipurúa,Spain,David Fernández Borbalan,Spain
+3825577,2015-08-30,22:30:00.000,11,La Liga,Spain,27,2015/2016,216,Getafe,1049,Granada,1,2,2,Coliseum Alfonso Pérez,Spain,Eduardo Prieto Iglesias,Spain
+3825576,2015-08-30,20:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,219,RC Deportivo La Coruña,1,1,2,Estadio de Mestalla,Spain,José Luis González González,Spain
+3825575,2015-08-30,22:30:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,221,Levante UD,0,0,2,Estadio de Gran Canaria,Spain,Pedro Jesús Pérez Montero,Spain
+3825574,2015-08-29,22:00:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,360,Rayo Vallecano,3,0,2,Abanca-Balaídos,Spain,Juan Martínez Munuera,Spain
+3825573,2015-08-29,18:30:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,1041,Sporting Gijón,0,0,2,Reale Arena,Spain,José María Sánchez Martínez,Spain
+3825571,2015-08-28,20:30:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,214,Espanyol,3,1,2,Estadio de la Cerámica,Spain,Carlos Velasco Carballo,Spain
+3825569,2015-08-23,22:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,209,Celta Vigo,1,2,1,Estadio Ciudad de Valencia,Spain,Ricardo De Burgos Bengoetxea,Spain
+3825568,2015-08-23,22:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,222,Villarreal,1,1,1,Estadio Benito Villamarín,Spain,Iñaki Bikandi Garrido,Spain
+3825567,2015-08-23,20:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,220,Real Madrid,0,0,1,Estadio Municipal El Molinón,Spain,Xavier Estrada Fernández,Spain
+3825566,2015-08-22,22:30:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,207,Valencia,0,0,1,Estadio de Vallecas,Spain,Alberto Undiano Mallenco,Spain
+3825565,2015-08-22,18:30:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,216,Getafe,1,0,1,RCDE Stadium,Spain,Jesús Gil Manzano,Spain
+3825564,2015-08-22,18:30:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,210,Real Sociedad,0,0,1,Estadio Abanca-Riazor,Spain,Antonio Miguel Mateu Lahoz,Spain
+3825563,2015-08-22,20:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,208,Las Palmas,1,0,1,Estadio Vicente Calderón,Spain,Eduardo Prieto Iglesias,Spain
+266498,2016-03-12,17:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,216,Getafe,6,0,29,Spotify Camp Nou,Spain,Pedro Jesús Pérez Montero,Spain
+266986,2016-04-30,20:30:00.000,11,La Liga,Spain,27,2015/2016,218,Real Betis,217,Barcelona,0,2,36,Estadio Benito Villamarín,Spain,Antonio Miguel Mateu Lahoz,Spain
+267533,2016-04-02,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,220,Real Madrid,1,2,31,Spotify Camp Nou,Spain,,
+266310,2016-04-20,20:00:00.000,11,La Liga,Spain,27,2015/2016,219,RC Deportivo La Coruña,217,Barcelona,0,8,34,Estadio Abanca-Riazor,Spain,,
+267576,2016-01-30,17:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,212,Atlético Madrid,2,1,22,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+266653,2016-03-03,22:00:00.000,11,La Liga,Spain,27,2015/2016,360,Rayo Vallecano,217,Barcelona,1,5,27,Estadio de Vallecas,Spain,,
+265944,2016-04-23,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,1041,Sporting Gijón,6,0,35,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+265894,2016-01-23,17:00:00.000,11,La Liga,Spain,27,2015/2016,223,Málaga,217,Barcelona,1,2,21,Estadio La Rosaleda,Spain,Carlos Clos Gómez,Spain
+265958,2016-05-08,17:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,214,Espanyol,5,0,37,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+267611,2015-09-26,16:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,208,Las Palmas,2,1,6,Spotify Camp Nou,Spain,,
+267422,2015-08-29,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,223,Málaga,1,0,2,Spotify Camp Nou,Spain,,
+266236,2015-08-23,18:30:00.000,11,La Liga,Spain,27,2015/2016,215,Athletic Club,217,Barcelona,0,1,1,San Mamés Barria,Spain,,
+267274,2015-12-05,20:30:00.000,11,La Liga,Spain,27,2015/2016,207,Valencia,217,Barcelona,1,1,14,Estadio de Mestalla,Spain,,
+266961,2015-12-12,16:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,219,RC Deportivo La Coruña,2,2,15,Spotify Camp Nou,Spain,,
+266885,2015-11-28,16:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,210,Real Sociedad,4,0,13,Spotify Camp Nou,Spain,Ignacio Iglesias Villanueva,Spain
+266815,2016-02-17,18:30:00.000,11,La Liga,Spain,27,2015/2016,1041,Sporting Gijón,217,Barcelona,1,3,16,Estadio Municipal El Molinón,Spain,,
+267506,2016-05-14,17:00:00.000,11,La Liga,Spain,27,2015/2016,1049,Granada,217,Barcelona,0,3,38,Estadio Nuevo Los Cármenes,Spain,,
+266664,2016-04-09,20:30:00.000,11,La Liga,Spain,27,2015/2016,210,Real Sociedad,217,Barcelona,1,0,32,Reale Arena,Spain,Ignacio Iglesias Villanueva,Spain
+266106,2016-03-20,17:00:00.000,11,La Liga,Spain,27,2015/2016,222,Villarreal,217,Barcelona,2,2,30,Estadio de la Cerámica,Spain,,
+266670,2016-01-02,16:00:00.000,11,La Liga,Spain,27,2015/2016,214,Espanyol,217,Barcelona,0,0,18,RCDE Stadium,Spain,José Luis González González,Spain
+266149,2016-01-17,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,215,Athletic Club,6,0,20,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+266620,2016-01-09,16:00:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,1049,Granada,4,0,19,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+266056,2016-03-06,17:00:00.000,11,La Liga,Spain,27,2015/2016,322,Eibar,217,Barcelona,0,4,28,Estadio Municipal de Ipurúa,Spain,Alberto Undiano Mallenco,Spain
+267327,2015-12-30,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,218,Real Betis,4,0,17,Spotify Camp Nou,Spain,,
+266166,2015-09-12,20:30:00.000,11,La Liga,Spain,27,2015/2016,212,Atlético Madrid,217,Barcelona,1,2,3,Estadio Vicente Calderón,Spain,Antonio Miguel Mateu Lahoz,Spain
+266160,2016-02-07,13:00:00.000,11,La Liga,Spain,27,2015/2016,221,Levante UD,217,Barcelona,0,2,23,Estadio Ciudad de Valencia,Spain,Pedro Jesús Pérez Montero,Spain
+265839,2016-02-28,21:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,213,Sevilla,2,1,26,Spotify Camp Nou,Spain,,
+266424,2015-11-21,18:15:00.000,11,La Liga,Spain,27,2015/2016,220,Real Madrid,217,Barcelona,0,4,12,Estadio Santiago Bernabéu,Spain,David Fernández Borbalan,Spain
+266467,2015-09-23,20:00:00.000,11,La Liga,Spain,27,2015/2016,209,Celta Vigo,217,Barcelona,4,1,5,Abanca-Balaídos,Spain,Alberto Undiano Mallenco,Spain
+267273,2016-02-20,17:00:00.000,11,La Liga,Spain,27,2015/2016,208,Las Palmas,217,Barcelona,1,2,25,Estadio de Gran Canaria,Spain,,
+266490,2015-09-20,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,221,Levante UD,4,1,4,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+266254,2016-02-14,21:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,209,Celta Vigo,6,1,24,Spotify Camp Nou,Spain,,
+266557,2016-04-17,20:30:00.000,11,La Liga,Spain,27,2015/2016,217,Barcelona,207,Valencia,1,2,33,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+3888713,1974-02-17,21:00:00.000,11,La Liga,Spain,278,1973/1974,220,Real Madrid,217,Barcelona,0,5,22,Estadio Santiago Bernabéu,Spain,,
+68314,2004-12-04,20:00:00.000,11,La Liga,Spain,37,2004/2005,217,Barcelona,223,Málaga,4,0,14,Spotify Camp Nou,Spain,José Omar Losantos,Spain
+68313,2004-10-24,21:00:00.000,11,La Liga,Spain,37,2004/2005,217,Barcelona,422,Osasuna,3,0,8,Spotify Camp Nou,Spain,Vicente José Lizondo Cortés,Spain
+68316,2005-05-01,19:00:00.000,11,La Liga,Spain,37,2004/2005,217,Barcelona,608,Albacete,2,0,34,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+68315,2004-12-21,20:00:00.000,11,La Liga,Spain,37,2004/2005,217,Barcelona,221,Levante UD,2,1,17,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+69153,2004-12-11,20:00:00.000,11,La Liga,Spain,37,2004/2005,608,Albacete,217,Barcelona,1,2,15,Estadio Carlos Belmonte,Spain,Alfonso Perez Burrull,Spain
+68352,2005-04-17,21:00:00.000,11,La Liga,Spain,37,2004/2005,217,Barcelona,216,Getafe,2,0,32,Spotify Camp Nou,Spain,Puentes Leira,Spain
+68353,2004-10-16,22:00:00.000,11,La Liga,Spain,37,2004/2005,214,Espanyol,217,Barcelona,0,1,7,Estadi Olímpic Lluís Companys,Spain,Carlos Megía Dávila,Spain
+69164,2005-10-26,20:30:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,223,Málaga,2,0,11,Spotify Camp Nou,Spain,Puentes Leira,Spain
+68324,2006-01-22,19:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,206,Deportivo Alavés,2,0,20,Spotify Camp Nou,Spain,Turienzo,Spain
+68320,2005-12-04,19:00:00.000,11,La Liga,Spain,38,2005/2006,222,Villarreal,217,Barcelona,0,2,14,Estadio de la Cerámica,Spain,César Muñiz,Spain
+68323,2005-12-20,21:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,209,Celta Vigo,2,0,17,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+69172,2006-02-18,22:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,218,Real Betis,5,1,24,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+68339,2005-11-06,21:00:00.000,11,La Liga,Spain,38,2005/2006,216,Getafe,217,Barcelona,1,3,10,Coliseum Alfonso Pérez,Spain,Arturo Daudén Ibáñez,Spain
+68348,2006-01-07,22:00:00.000,11,La Liga,Spain,38,2005/2006,214,Espanyol,217,Barcelona,1,2,18,Estadi Olímpic Lluís Companys,Spain,Bernardino Gonzalez,Spain
+68354,2005-11-27,21:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,1217,Racing Santander,4,1,13,Spotify Camp Nou,Spain,Rafael Ramírez Domínguez,Spain
+68351,2006-02-25,22:00:00.000,11,La Liga,Spain,38,2005/2006,395,Real Zaragoza,217,Barcelona,0,2,25,Estadio de la Romareda,Spain,Victor José Esquinas Torres,Spain
+68317,2005-10-01,20:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,395,Real Zaragoza,2,2,6,Spotify Camp Nou,Spain,Carlos Megía Dávila,Spain
+68350,2006-02-05,19:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,212,Atlético Madrid,1,3,22,Spotify Camp Nou,Spain,Vicente José Lizondo Cortés,Spain
+68325,2006-01-29,19:00:00.000,11,La Liga,Spain,38,2005/2006,1043,Mallorca,217,Barcelona,0,3,21,Estadi Mallorca Son Moix,Spain,Carlos Megía Dávila,Spain
+68321,2005-12-11,21:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,213,Sevilla,2,1,15,Spotify Camp Nou,Spain,Julian Rodriguez Santiago,Spain
+68319,2005-11-19,20:00:00.000,11,La Liga,Spain,38,2005/2006,220,Real Madrid,217,Barcelona,0,3,12,Estadio Santiago Bernabéu,Spain,Eduardo Iturralde Gonzalez,Spain
+68342,2006-01-15,19:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,215,Athletic Club,2,1,19,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+68322,2005-12-17,22:00:00.000,11,La Liga,Spain,38,2005/2006,552,Cádiz,217,Barcelona,1,3,16,Estadio Nuevo Mirandilla,Spain,Miguel Ayza,Spain
+68318,2005-10-22,22:00:00.000,11,La Liga,Spain,38,2005/2006,217,Barcelona,422,Osasuna,3,0,8,Spotify Camp Nou,Spain,César Muñiz,Spain
+69176,2007-05-20,21:00:00.000,11,La Liga,Spain,39,2006/2007,212,Atlético Madrid,217,Barcelona,0,6,35,Estadio Vicente Calderón,Spain,César Muñiz,Spain
+69179,2007-04-07,20:00:00.000,11,La Liga,Spain,39,2006/2007,395,Real Zaragoza,217,Barcelona,1,0,29,Estadio de la Romareda,Spain,Luis Medina Cantalejo,Spain
+68334,2007-03-03,22:00:00.000,11,La Liga,Spain,39,2006/2007,213,Sevilla,217,Barcelona,2,1,25,Estadio Ramón Sánchez Pizjuán,Spain,Bernardino Gonzalez,Spain
+68333,2007-02-25,21:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,215,Athletic Club,3,0,24,Spotify Camp Nou,Spain,Vicente José Lizondo Cortés,Spain
+68336,2007-06-17,21:00:00.000,11,La Liga,Spain,39,2006/2007,1036,Gimnàstic Tarragona,217,Barcelona,1,5,38,Nou Estadi Costa Daurada,Spain,Alberto Undiano Mallenco,Spain
+68326,2006-08-28,21:00:00.000,11,La Liga,Spain,39,2006/2007,209,Celta Vigo,217,Barcelona,2,3,1,Abanca-Balaídos,Spain,Miguel Pérez,Spain
+69162,2007-05-13,19:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,218,Real Betis,1,1,34,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+68335,2007-03-10,22:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,220,Real Madrid,3,3,26,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+68332,2007-02-18,19:00:00.000,11,La Liga,Spain,39,2006/2007,207,Valencia,217,Barcelona,2,1,23,Estadio de Mestalla,Spain,Eduardo Iturralde Gonzalez,Spain
+68330,2006-10-22,21:00:00.000,11,La Liga,Spain,39,2006/2007,220,Real Madrid,217,Barcelona,2,0,7,Estadio Santiago Bernabéu,Spain,Alfonso Perez Burrull,Spain
+68329,2006-10-15,19:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,213,Sevilla,3,1,6,Spotify Camp Nou,Spain,César Muñiz,Spain
+68341,2007-03-17,20:00:00.000,11,La Liga,Spain,39,2006/2007,1220,Recreativo Huelva,217,Barcelona,0,4,27,Estadio Nuevo Colombino,Spain,Turienzo,Spain
+69165,2007-06-09,21:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,214,Espanyol,2,2,37,Spotify Camp Nou,Spain,Julian Rodriguez Santiago,Spain
+69155,2007-04-22,21:00:00.000,11,La Liga,Spain,39,2006/2007,222,Villarreal,217,Barcelona,2,0,31,Estadio de la Cerámica,Spain,Alfonso Perez Burrull,Spain
+69154,2007-02-11,19:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,1217,Racing Santander,2,0,22,Spotify Camp Nou,Spain,Manuel Enrique Mejuto Gonzalez,Spain
+69156,2007-04-29,19:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,221,Levante UD,1,0,32,Spotify Camp Nou,Spain,Carlos Clos Gómez,Spain
+69159,2007-04-15,19:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,1043,Mallorca,1,0,30,Spotify Camp Nou,Spain,Rafael Ramírez Domínguez,Spain
+69175,2007-03-31,22:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,219,RC Deportivo La Coruña,2,1,28,Spotify Camp Nou,Spain,Miguel Ayza,Spain
+69160,2007-05-05,20:00:00.000,11,La Liga,Spain,39,2006/2007,210,Real Sociedad,217,Barcelona,0,2,33,Reale Arena,Spain,Fernando Teixeira,Spain
+68331,2006-11-12,21:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,395,Real Zaragoza,3,1,10,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+68328,2006-09-24,21:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,207,Valencia,1,1,4,Spotify Camp Nou,Spain,Arturo Daudén Ibáñez,Spain
+68340,2006-09-17,20:00:00.000,11,La Liga,Spain,39,2006/2007,1217,Racing Santander,217,Barcelona,0,3,3,Campos de Sport de El Sardinero,Spain,Carlos Velasco Carballo,Spain
+69174,2006-11-04,22:00:00.000,11,La Liga,Spain,39,2006/2007,219,RC Deportivo La Coruña,217,Barcelona,1,1,9,Estadio Abanca-Riazor,Spain,Luis Medina Cantalejo,Spain
+68347,2006-09-30,22:00:00.000,11,La Liga,Spain,39,2006/2007,215,Athletic Club,217,Barcelona,1,3,5,Estadio San Mamés,Spain,David Fernández Borbalan,Spain
+68327,2006-09-09,20:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,422,Osasuna,3,0,2,Spotify Camp Nou,Spain,Julian Rodriguez Santiago,Spain
+69157,2007-05-26,22:00:00.000,11,La Liga,Spain,39,2006/2007,217,Barcelona,216,Getafe,1,0,36,Spotify Camp Nou,Spain,Alfonso Perez Burrull,Spain
+15978,2018-09-15,16:15:00.000,11,La Liga,Spain,4,2018/2019,210,Real Sociedad,217,Barcelona,1,2,4,Reale Arena,Spain,Carlos del Cerro Grande,Spain
+15998,2018-09-26,20:00:00.000,11,La Liga,Spain,4,2018/2019,205,Leganés,217,Barcelona,2,1,6,Estadio Municipal de Butarque,Spain,Alberto Undiano Mallenco,Spain
+16029,2018-10-20,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,213,Sevilla,4,2,9,Spotify Camp Nou,Spain,,
+16073,2018-11-24,20:45:00.000,11,La Liga,Spain,4,2018/2019,212,Atlético Madrid,217,Barcelona,1,1,13,	Estádio Cívitas Metropolitano,Spain,Jesús Gil Manzano,Spain
+16086,2018-12-08,20:45:00.000,11,La Liga,Spain,4,2018/2019,214,Espanyol,217,Barcelona,0,4,15,RCDE Stadium,Spain,,
+16190,2019-02-23,16:15:00.000,11,La Liga,Spain,4,2018/2019,213,Sevilla,217,Barcelona,2,4,25,Estadio Ramón Sánchez Pizjuán,Spain,Antonio Miguel Mateu Lahoz,Spain
+16109,2018-12-22,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,209,Celta Vigo,2,0,17,Spotify Camp Nou,Spain,Eduardo Prieto Iglesias,Spain
+16120,2019-01-06,20:45:00.000,11,La Liga,Spain,4,2018/2019,216,Getafe,217,Barcelona,1,2,18,Coliseum Alfonso Pérez,Spain,,
+16182,2019-02-16,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,901,Real Valladolid,1,0,24,Spotify Camp Nou,Spain,,
+16215,2019-03-17,20:45:00.000,11,La Liga,Spain,4,2018/2019,218,Real Betis,217,Barcelona,1,4,28,Estadio Benito Villamarín,Spain,,
+16173,2019-02-10,20:45:00.000,11,La Liga,Spain,4,2018/2019,215,Athletic Club,217,Barcelona,0,0,23,San Mamés Barria,Spain,Carlos del Cerro Grande,Spain
+16265,2019-04-20,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,210,Real Sociedad,2,1,33,Spotify Camp Nou,Spain,,
+15946,2018-08-18,22:15:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,206,Deportivo Alavés,3,0,1,Spotify Camp Nou,Spain,José María Sánchez Martínez,Spain
+16157,2019-02-02,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,207,Valencia,2,2,22,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+16136,2019-01-20,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,205,Leganés,3,1,20,Spotify Camp Nou,Spain,Ricardo De Burgos Bengoetxea,Spain
+16248,2019-04-06,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,212,Atlético Madrid,2,0,31,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+16056,2018-11-11,16:15:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,218,Real Betis,3,4,12,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+16289,2019-04-27,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,221,Levante UD,1,0,35,Spotify Camp Nou,Spain,Ricardo De Burgos Bengoetxea,Spain
+16079,2018-12-02,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,222,Villarreal,2,0,14,Spotify Camp Nou,Spain,José Luis Munuera Montero,Spain
+16149,2019-01-27,16:15:00.000,11,La Liga,Spain,4,2018/2019,211,Girona,217,Barcelona,0,2,21,Estadi Municipal de Montilivi,Spain,Pablo González Fuertes,Spain
+16275,2019-04-23,21:30:00.000,11,La Liga,Spain,4,2018/2019,206,Deportivo Alavés,217,Barcelona,0,2,34,Estadio de Mendizorroza,Spain,,
+15973,2018-09-02,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,902,Huesca,8,2,3,Spotify Camp Nou,Spain,Mario Melero López,Spain
+16317,2019-05-19,16:15:00.000,11,La Liga,Spain,4,2018/2019,322,Eibar,217,Barcelona,2,2,38,Estadio Municipal de Ipurúa,Spain,,
+16131,2019-01-13,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,322,Eibar,3,0,19,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+16205,2019-03-09,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,360,Rayo Vallecano,3,1,27,Spotify Camp Nou,Spain,,
+16095,2018-12-16,20:45:00.000,11,La Liga,Spain,4,2018/2019,221,Levante UD,217,Barcelona,0,5,16,Estadio Ciudad de Valencia,Spain,José Luis González González,Spain
+16306,2019-05-12,18:30:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,216,Getafe,2,0,37,Spotify Camp Nou,Spain,José Luis González González,Spain
+16010,2018-09-29,16:15:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,215,Athletic Club,1,1,7,Spotify Camp Nou,Spain,,
+15986,2018-09-23,20:45:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,211,Girona,2,2,5,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+16240,2019-04-02,21:30:00.000,11,La Liga,Spain,4,2018/2019,222,Villarreal,217,Barcelona,4,4,30,Estadio de la Cerámica,Spain,,
+16023,2018-10-07,20:45:00.000,11,La Liga,Spain,4,2018/2019,207,Valencia,217,Barcelona,1,1,8,Estadio de Mestalla,Spain,José Luis González González,Spain
+16196,2019-03-02,20:45:00.000,11,La Liga,Spain,4,2018/2019,220,Real Madrid,217,Barcelona,0,1,26,Estadio Santiago Bernabéu,Spain,Alberto Undiano Mallenco,Spain
+15956,2018-08-25,22:15:00.000,11,La Liga,Spain,4,2018/2019,901,Real Valladolid,217,Barcelona,0,1,2,Estadio Municipal José Zorrilla,Spain,Ricardo De Burgos Bengoetxea,Spain
+16231,2019-03-30,16:15:00.000,11,La Liga,Spain,4,2018/2019,217,Barcelona,214,Espanyol,2,0,29,Spotify Camp Nou,Spain,,
+69151,2007-09-29,22:00:00.000,11,La Liga,Spain,40,2007/2008,221,Levante UD,217,Barcelona,1,4,6,Estadio Ciudad de Valencia,Spain,Carlos Clos Gómez,Spain
+69144,2007-10-07,17:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,212,Atlético Madrid,3,0,7,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+69169,2007-09-02,19:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,215,Athletic Club,3,1,2,Spotify Camp Nou,Spain,Carlos Megía Dávila,Spain
+68360,2008-02-24,19:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,221,Levante UD,5,1,25,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+69186,2008-05-17,22:00:00.000,11,La Liga,Spain,40,2007/2008,1230,Real Murcia CF,217,Barcelona,3,5,38,	Estadio Enrique Roca de Murcia,Spain,Rafael Ramírez Domínguez,Spain
+69180,2007-08-26,19:00:00.000,11,La Liga,Spain,40,2007/2008,1217,Racing Santander,217,Barcelona,0,0,1,Campos de Sport de El Sardinero,Spain,César Muñiz,Spain
+69143,2007-09-26,22:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,395,Real Zaragoza,4,1,5,Spotify Camp Nou,Spain,Carlos Velasco Carballo,Spain
+69181,2008-01-27,19:00:00.000,11,La Liga,Spain,40,2007/2008,215,Athletic Club,217,Barcelona,1,1,21,Estadio San Mamés,Spain,Alberto Undiano Mallenco,Spain
+68365,2008-03-01,20:00:00.000,11,La Liga,Spain,40,2007/2008,212,Atlético Madrid,217,Barcelona,4,2,26,Estadio Vicente Calderón,Spain,David Fernández Borbalan,Spain
+69178,2007-11-10,20:00:00.000,11,La Liga,Spain,40,2007/2008,216,Getafe,217,Barcelona,2,0,12,Coliseum Alfonso Pérez,Spain,Arturo Daudén Ibáñez,Spain
+68364,2007-10-20,20:00:00.000,11,La Liga,Spain,40,2007/2008,222,Villarreal,217,Barcelona,3,1,8,Estadio de la Cerámica,Spain,Manuel Enrique Mejuto Gonzalez,Spain
+69170,2007-12-09,21:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,219,RC Deportivo La Coruña,2,1,15,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+68359,2008-04-19,20:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,214,Espanyol,0,0,33,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+68356,2007-12-01,22:00:00.000,11,La Liga,Spain,40,2007/2008,214,Espanyol,217,Barcelona,1,1,14,Estadi Olímpic Lluís Companys,Spain,Alfonso Perez Burrull,Spain
+69158,2007-10-28,19:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,403,Almería,2,0,9,Spotify Camp Nou,Spain,Miguel Ayza,Spain
+69187,2008-02-03,19:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,422,Osasuna,1,0,22,Spotify Camp Nou,Spain,Turienzo,Spain
+68363,2007-11-01,22:00:00.000,11,La Liga,Spain,40,2007/2008,901,Real Valladolid,217,Barcelona,1,1,10,Estadio Municipal José Zorrilla,Spain,Carlos Velasco Carballo,Spain
+69166,2007-11-04,19:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,218,Real Betis,3,0,11,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+68366,2008-05-11,21:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,1043,Mallorca,2,3,37,Spotify Camp Nou,Spain,Antonio Rubinos Perez,Spain
+69148,2007-09-22,22:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,213,Sevilla,2,1,4,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+69184,2007-11-24,20:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,1220,Recreativo Huelva,3,0,13,Spotify Camp Nou,Spain,Antonio Rubinos Perez,Spain
+69173,2008-01-20,21:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,1217,Racing Santander,1,0,20,Spotify Camp Nou,Spain,Luis Medina Cantalejo,Spain
+69146,2008-02-09,22:00:00.000,11,La Liga,Spain,40,2007/2008,213,Sevilla,217,Barcelona,1,1,23,Estadio Ramón Sánchez Pizjuán,Spain,Fernando Teixeira,Spain
+69182,2008-02-16,22:00:00.000,11,La Liga,Spain,40,2007/2008,395,Real Zaragoza,217,Barcelona,1,2,24,Estadio de la Romareda,Spain,Bernardino Gonzalez,Spain
+68358,2008-04-12,22:00:00.000,11,La Liga,Spain,40,2007/2008,1220,Recreativo Huelva,217,Barcelona,2,2,32,Estadio Nuevo Colombino,Spain,Carlos Clos Gómez,Spain
+68361,2008-05-07,22:00:00.000,11,La Liga,Spain,40,2007/2008,220,Real Madrid,217,Barcelona,4,1,36,Estadio Santiago Bernabéu,Spain,Alfonso Perez Burrull,Spain
+69141,2008-05-04,19:00:00.000,11,La Liga,Spain,40,2007/2008,217,Barcelona,207,Valencia,6,0,35,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+69145,2007-12-15,22:00:00.000,11,La Liga,Spain,40,2007/2008,207,Valencia,217,Barcelona,0,3,16,Estadio de Mestalla,Spain,Eduardo Iturralde Gonzalez,Spain
+69225,2008-12-13,22:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,220,Real Madrid,2,0,15,Spotify Camp Nou,Spain,Luis Medina Cantalejo,Spain
+69212,2008-10-04,22:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,212,Atlético Madrid,6,1,6,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+69235,2008-11-01,20:00:00.000,11,La Liga,Spain,41,2008/2009,223,Málaga,217,Barcelona,1,4,9,Estadio La Rosaleda,Spain,Carlos Velasco Carballo,Spain
+69232,2008-10-25,22:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,403,Almería,5,0,8,Spotify Camp Nou,Spain,Alfonso Perez Burrull,Spain
+69216,2009-03-07,20:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,215,Athletic Club,2,0,26,Spotify Camp Nou,Spain,Alberto Undiano Mallenco,Spain
+69209,2009-02-01,17:00:00.000,11,La Liga,Spain,41,2008/2009,1217,Racing Santander,217,Barcelona,1,2,21,Campos de Sport de El Sardinero,Spain,David Fernández Borbalan,Spain
+69231,2009-02-08,19:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,1041,Sporting Gijón,3,1,22,Spotify Camp Nou,Spain,Antonio Rubinos Perez,Spain
+69217,2009-05-10,19:03:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,222,Villarreal,3,3,35,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+69273,2009-04-04,20:00:00.000,11,La Liga,Spain,41,2008/2009,901,Real Valladolid,217,Barcelona,0,1,29,Estadio Municipal José Zorrilla,Spain,Miguel Pérez,Spain
+69222,2009-04-11,20:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,1220,Recreativo Huelva,2,0,30,Spotify Camp Nou,Spain,Eduardo Iturralde Gonzalez,Spain
+69223,2009-04-18,20:00:00.000,11,La Liga,Spain,41,2008/2009,216,Getafe,217,Barcelona,0,1,31,Coliseum Alfonso Pérez,Spain,Turienzo,Spain
+69195,2009-02-14,20:00:00.000,11,La Liga,Spain,41,2008/2009,218,Real Betis,217,Barcelona,2,2,23,Estadio Benito Villamarín,Spain,Eduardo Iturralde Gonzalez,Spain
+69251,2009-04-25,22:00:00.000,11,La Liga,Spain,41,2008/2009,207,Valencia,217,Barcelona,2,2,33,Estadio de Mestalla,Spain,César Muñiz,Spain
+69185,2009-03-01,19:00:00.000,11,La Liga,Spain,41,2008/2009,212,Atlético Madrid,217,Barcelona,4,3,25,Estadio Vicente Calderón,Spain,Bernardino Gonzalez,Spain
+69142,2009-03-22,19:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,223,Málaga,6,0,28,Spotify Camp Nou,Spain,César Muñiz,Spain
+69139,2009-02-21,20:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,214,Espanyol,1,2,24,Spotify Camp Nou,Spain,Carlos Delgado,Spain
+69189,2009-01-24,22:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,444,CD Numancia de Soria,4,1,20,Spotify Camp Nou,Spain,Miguel Pérez,Spain
+69171,2008-11-29,22:00:00.000,11,La Liga,Spain,41,2008/2009,213,Sevilla,217,Barcelona,0,3,13,Estadio Ramón Sánchez Pizjuán,Spain,Alberto Undiano Mallenco,Spain
+69249,2009-05-02,20:00:00.000,11,La Liga,Spain,41,2008/2009,220,Real Madrid,217,Barcelona,2,6,34,Estadio Santiago Bernabéu,Spain,Alberto Undiano Mallenco,Spain
+69215,2008-09-13,20:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,1217,Racing Santander,1,1,2,Spotify Camp Nou,Spain,Rafael Ramírez Domínguez,Spain
+69138,2008-09-21,21:00:00.000,11,La Liga,Spain,41,2008/2009,1041,Sporting Gijón,217,Barcelona,1,6,3,Estadio Municipal El Molinón,Spain,Carlos Megía Dávila,Spain
+69147,2008-08-31,19:00:00.000,11,La Liga,Spain,41,2008/2009,444,CD Numancia de Soria,217,Barcelona,1,0,1,Los Pajaritos,Spain,David Fernández Borbalan,Spain
+69177,2009-03-15,21:03:00.000,11,La Liga,Spain,41,2008/2009,403,Almería,217,Barcelona,0,2,27,Power Horse Stadium – Estadio de los Juegos Mediterráneos,Spain,Manuel Enrique Mejuto Gonzalez,Spain
+69207,2008-09-24,20:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,218,Real Betis,3,2,4,Spotify Camp Nou,Spain,Arturo Daudén Ibáñez,Spain
+69228,2008-12-21,19:00:00.000,11,La Liga,Spain,41,2008/2009,222,Villarreal,217,Barcelona,1,2,16,Estadio de la Cerámica,Spain,Carlos Clos Gómez,Spain
+69183,2009-01-17,20:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,219,RC Deportivo La Coruña,5,0,19,Spotify Camp Nou,Spain,Julian Rodriguez Santiago,Spain
+69279,2008-11-08,22:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,901,Real Valladolid,6,0,10,Spotify Camp Nou,Spain,Fernando Teixeira,Spain
+69285,2008-11-16,21:00:00.000,11,La Liga,Spain,41,2008/2009,1220,Recreativo Huelva,217,Barcelona,0,2,11,Estadio Nuevo Colombino,Spain,Miguel Pérez,Spain
+69211,2008-09-27,22:00:00.000,11,La Liga,Spain,41,2008/2009,214,Espanyol,217,Barcelona,1,2,5,Estadi Olímpic Lluís Companys,Spain,Luis Medina Cantalejo,Spain
+69230,2009-01-11,21:00:00.000,11,La Liga,Spain,41,2008/2009,422,Osasuna,217,Barcelona,2,3,18,Estadio El Sadar,Spain,Fernando Teixeira,Spain
+69149,2008-12-06,22:00:00.000,11,La Liga,Spain,41,2008/2009,217,Barcelona,207,Valencia,4,0,14,Spotify Camp Nou,Spain,David Fernández Borbalan,Spain
+303731,2020-02-22,16:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,322,Eibar,5,0,25,Spotify Camp Nou,Spain,,
+303532,2020-06-16,22:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,205,Leganés,2,0,29,Spotify Camp Nou,Spain,,
+303516,2020-06-27,17:00:00.000,11,La Liga,Spain,42,2019/2020,209,Celta Vigo,217,Barcelona,2,2,32,Abanca-Balaídos,Spain,,
+303596,2019-12-18,20:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,220,Real Madrid,0,0,10,Spotify Camp Nou,Spain,,
+303430,2019-09-24,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,222,Villarreal,2,1,6,Spotify Camp Nou,Spain,,
+303725,2020-07-05,22:00:00.000,11,La Liga,Spain,42,2019/2020,222,Villarreal,217,Barcelona,1,4,34,Estadio de la Cerámica,Spain,,
+303504,2019-11-02,16:00:00.000,11,La Liga,Spain,42,2019/2020,221,Levante UD,217,Barcelona,3,1,12,Estadio Ciudad de Valencia,Spain,,
+303451,2019-12-07,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,1043,Mallorca,5,2,16,Spotify Camp Nou,Spain,,
+303664,2019-12-14,16:00:00.000,11,La Liga,Spain,42,2019/2020,210,Real Sociedad,217,Barcelona,2,2,17,Reale Arena,Spain,,
+303682,2020-02-02,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,221,Levante UD,2,1,22,Spotify Camp Nou,Spain,,
+303400,2020-01-25,16:00:00.000,11,La Liga,Spain,42,2019/2020,207,Valencia,217,Barcelona,2,0,21,Estadio de Mestalla,Spain,Jesús Gil Manzano,Spain
+303634,2020-07-16,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,422,Osasuna,1,2,37,Spotify Camp Nou,Spain,,
+303421,2020-07-19,17:00:00.000,11,La Liga,Spain,42,2019/2020,206,Deportivo Alavés,217,Barcelona,0,5,38,Estadio de Mendizorroza,Spain,,
+303493,2020-06-23,22:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,215,Athletic Club,1,0,31,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+303680,2020-07-11,19:30:00.000,11,La Liga,Spain,42,2019/2020,901,Real Valladolid,217,Barcelona,0,1,36,Estadio Municipal José Zorrilla,Spain,Antonio Miguel Mateu Lahoz,Spain
+303479,2020-03-07,18:30:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,210,Real Sociedad,1,0,27,Spotify Camp Nou,Spain,,
+303615,2020-07-08,22:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,214,Espanyol,1,0,35,Spotify Camp Nou,Spain,,
+303696,2020-06-30,22:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,212,Atlético Madrid,2,2,33,Spotify Camp Nou,Spain,,
+303487,2019-11-09,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,209,Celta Vigo,4,1,13,Spotify Camp Nou,Spain,,
+303600,2019-10-29,21:15:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,901,Real Valladolid,5,1,11,Spotify Camp Nou,Spain,,
+303548,2020-06-13,22:00:00.000,11,La Liga,Spain,42,2019/2020,1043,Mallorca,217,Barcelona,0,4,28,Estadi Mallorca Son Moix,Spain,,
+303652,2020-01-04,21:00:00.000,11,La Liga,Spain,42,2019/2020,214,Espanyol,217,Barcelona,2,2,19,RCDE Stadium,Spain,,
+303674,2020-06-19,22:00:00.000,11,La Liga,Spain,42,2019/2020,213,Sevilla,217,Barcelona,0,0,30,Estadio Ramón Sánchez Pizjuán,Spain,José Luis González González,Spain
+303470,2020-03-01,21:00:00.000,11,La Liga,Spain,42,2019/2020,220,Real Madrid,217,Barcelona,2,0,26,Estadio Santiago Bernabéu,Spain,Antonio Miguel Mateu Lahoz,Spain
+303700,2019-10-19,13:00:00.000,11,La Liga,Spain,42,2019/2020,322,Eibar,217,Barcelona,0,3,9,Estadio Municipal de Ipurúa,Spain,,
+303707,2020-02-09,21:00:00.000,11,La Liga,Spain,42,2019/2020,218,Real Betis,217,Barcelona,2,3,23,Estadio Benito Villamarín,Spain,,
+303666,2019-09-21,21:00:00.000,11,La Liga,Spain,42,2019/2020,1049,Granada,217,Barcelona,2,0,5,Estadio Nuevo Los Cármenes,Spain,,
+303715,2019-11-23,13:00:00.000,11,La Liga,Spain,42,2019/2020,205,Leganés,217,Barcelona,1,2,14,Estadio Municipal de Butarque,Spain,,
+303377,2020-02-15,16:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,216,Getafe,2,1,24,Spotify Camp Nou,Spain,,
+303524,2019-12-01,21:00:00.000,11,La Liga,Spain,42,2019/2020,212,Atlético Madrid,217,Barcelona,0,1,15,	Estádio Cívitas Metropolitano,Spain,Antonio Miguel Mateu Lahoz,Spain
+303517,2019-12-21,16:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,206,Deportivo Alavés,4,1,18,Spotify Camp Nou,Spain,,
+303610,2020-01-19,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,1049,Granada,1,0,20,Spotify Camp Nou,Spain,,
+303473,2019-10-06,21:00:00.000,11,La Liga,Spain,42,2019/2020,217,Barcelona,213,Sevilla,4,0,8,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+3773386,2020-10-31,21:00:00.000,11,La Liga,Spain,90,2020/2021,206,Deportivo Alavés,217,Barcelona,1,1,8,Estadio de Mendizorroza,Spain,,
+3773565,2021-01-09,18:30:00.000,11,La Liga,Spain,90,2020/2021,1049,Granada,217,Barcelona,0,4,18,Estadio Nuevo Los Cármenes,Spain,Ricardo De Burgos Bengoetxea,Spain
+3773457,2021-05-16,18:30:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,209,Celta Vigo,1,2,37,Spotify Camp Nou,Spain,,
+3773631,2021-02-07,21:00:00.000,11,La Liga,Spain,90,2020/2021,218,Real Betis,217,Barcelona,2,3,22,Estadio Benito Villamarín,Spain,,
+3773665,2021-03-06,21:00:00.000,11,La Liga,Spain,90,2020/2021,422,Osasuna,217,Barcelona,0,2,26,Estadio El Sadar,Spain,Guillermo Cuadra Fernández,Spain
+3773497,2021-04-10,21:00:00.000,11,La Liga,Spain,90,2020/2021,220,Real Madrid,217,Barcelona,2,1,30,Estadio Alfredo Di Stéfano,Spain,Jesús Gil Manzano,Spain
+3773660,2020-12-13,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,221,Levante UD,1,0,13,Spotify Camp Nou,Spain,Ricardo De Burgos Bengoetxea,Spain
+3773593,2020-09-27,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,222,Villarreal,4,0,3,Spotify Camp Nou,Spain,Guillermo Cuadra Fernández,Spain
+3773466,2020-10-01,21:30:00.000,11,La Liga,Spain,90,2020/2021,209,Celta Vigo,217,Barcelona,0,3,4,Abanca-Balaídos,Spain,Carlos del Cerro Grande,Spain
+3773585,2020-10-24,16:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,220,Real Madrid,1,3,7,Spotify Camp Nou,Spain,Juan Martínez Munuera,Spain
+3773552,2021-01-03,21:00:00.000,11,La Liga,Spain,90,2020/2021,902,Huesca,217,Barcelona,0,1,17,Estadio El Alcoraz,Spain,Guillermo Cuadra Fernández,Spain
+3773672,2020-10-04,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,213,Sevilla,1,1,5,Spotify Camp Nou,Spain,Jesús Gil Manzano,Spain
+3773587,2020-10-17,21:00:00.000,11,La Liga,Spain,90,2020/2021,216,Getafe,217,Barcelona,1,0,6,Coliseum Alfonso Pérez,Spain,César Soto Grado,Spain
+3773656,2020-11-21,21:00:00.000,11,La Liga,Spain,90,2020/2021,212,Atlético Madrid,217,Barcelona,1,0,10,	Estádio Cívitas Metropolitano,Spain,,
+3773377,2020-12-19,16:15:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,207,Valencia,2,2,14,Spotify Camp Nou,Spain,Alejandro José Hernández Hernández,Spain
+3773586,2021-04-29,19:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,1049,Granada,1,2,33,Spotify Camp Nou,Spain,Pablo González Fuertes,Spain
+3773372,2021-05-08,16:15:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,212,Atlético Madrid,0,0,35,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+3773387,2021-05-11,22:00:00.000,11,La Liga,Spain,90,2020/2021,221,Levante UD,217,Barcelona,3,3,36,Estadio Ciudad de Valencia,Spain,José Luis Munuera Montero,Spain
+3773695,2021-05-02,21:00:00.000,11,La Liga,Spain,90,2020/2021,207,Valencia,217,Barcelona,2,3,34,Estadio de Mestalla,Spain,José María Sánchez Martínez,Spain
+3773369,2021-03-15,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,902,Huesca,4,1,27,Spotify Camp Nou,Spain,Adrián Cordero Vega,Spain
+3773661,2021-04-22,22:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,216,Getafe,5,2,31,Spotify Camp Nou,Spain,Jorge Figueroa Vázquez,Spain
+3773597,2021-03-21,21:00:00.000,11,La Liga,Spain,90,2020/2021,210,Real Sociedad,217,Barcelona,1,6,28,Reale Arena,Spain,José Luis Munuera Montero,Spain
+3773523,2020-12-16,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,210,Real Sociedad,2,1,19,Spotify Camp Nou,Spain,José María Sánchez Martínez,Spain
+3773571,2020-12-22,22:00:00.000,11,La Liga,Spain,90,2020/2021,901,Real Valladolid,217,Barcelona,0,3,15,Estadio Municipal José Zorrilla,Spain,Mario Melero López,Spain
+3773428,2020-12-05,21:00:00.000,11,La Liga,Spain,90,2020/2021,552,Cádiz,217,Barcelona,2,1,12,Estadio Nuevo Mirandilla,Spain,César Soto Grado,Spain
+3764661,2021-01-06,21:00:00.000,11,La Liga,Spain,90,2020/2021,215,Athletic Club,217,Barcelona,2,3,2,San Mamés Barria,Spain,Carlos del Cerro Grande,Spain
+3773526,2021-02-13,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,206,Deportivo Alavés,5,1,23,Spotify Camp Nou,Spain,Jorge Figueroa Vázquez,Spain
+3773474,2021-04-05,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,901,Real Valladolid,1,0,29,Spotify Camp Nou,Spain,Santiago Jaime Latre,Spain
+3773625,2021-02-27,16:15:00.000,11,La Liga,Spain,90,2020/2021,213,Sevilla,217,Barcelona,0,2,25,Estadio Ramón Sánchez Pizjuán,Spain,Alejandro José Hernández Hernández,Spain
+3773403,2021-01-31,21:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,215,Athletic Club,2,1,21,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+3773547,2020-11-29,14:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,422,Osasuna,4,0,11,Spotify Camp Nou,Spain,Antonio Miguel Mateu Lahoz,Spain
+3773415,2021-02-21,14:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,552,Cádiz,1,1,24,Spotify Camp Nou,Spain,Juan Martínez Munuera,Spain
+3764440,2021-02-24,19:00:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,1042,Elche,3,0,1,Spotify Camp Nou,Spain,Isidro Díaz de Mera Escuderos,Spain
+3773689,2021-04-25,16:15:00.000,11,La Liga,Spain,90,2020/2021,222,Villarreal,217,Barcelona,1,2,32,Estadio de la Cerámica,Spain,Carlos del Cerro Grande,Spain
+3773477,2020-11-07,16:15:00.000,11,La Liga,Spain,90,2020/2021,217,Barcelona,218,Real Betis,5,2,9,Spotify Camp Nou,Spain,,
